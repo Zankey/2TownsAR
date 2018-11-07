@@ -314,8 +314,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 0}
   clipTarget: {fileID: 0}
+  soundClipPath: 
+  animationType: 0
 --- !u!114 &8225701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44458,8 +44459,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 0}
   clipTarget: {fileID: 0}
+  soundClipPath: 
+  animationType: 0
 --- !u!114 &633759091
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47729,8 +47731,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 0}
   clipTarget: {fileID: 0}
+  soundClipPath: 
+  animationType: 0
 --- !u!114 &717237264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51890,8 +51893,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 0}
   clipTarget: {fileID: 0}
+  soundClipPath: 
+  animationType: 0
 --- !u!114 &855827794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60645,8 +60649,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 0}
   clipTarget: {fileID: 0}
+  soundClipPath: 
+  animationType: 0
 --- !u!114 &1105774485
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69297,8 +69302,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 0}
   clipTarget: {fileID: 0}
+  soundClipPath: 
+  animationType: 0
 --- !u!114 &1415130421
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78244,8 +78250,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 0}
   clipTarget: {fileID: 0}
+  soundClipPath: 
+  animationType: 0
 --- !u!114 &1709253927
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81974,8 +81981,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 0}
   clipTarget: {fileID: 0}
+  soundClipPath: 
+  animationType: 0
 --- !u!114 &1829870792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85431,8 +85439,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundTarget: {fileID: 2093391456}
   clipTarget: {fileID: 0}
+  soundClipPath: sounds/29 S Cross
+  animationType: 0
 --- !u!114 &1951688121
 MonoBehaviour:
   m_ObjectHideFlags: 0

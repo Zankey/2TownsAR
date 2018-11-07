@@ -9,18 +9,21 @@ Confidential and Proprietary - Protected under copyright and other laws.
 using UnityEngine;
 using Vuforia;
 
+public enum AnimationType {
+    TwentyNine, TwentyThree
+}
+
 /// <summary>
 /// A custom handler that implements the ITrackableEventHandler interface.
 ///
 /// Changes made to this file could be overwritten when upgrading the Vuforia version.
 /// When implementing custom event handler behavior, consider inheriting from this class instead.
 /// </summary>
-public class CrossTrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHandler
+public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHandler
 {
-
-    public AudioSource soundTarget;
     [HideInInspector]
     public AudioClip clipTarget;
+    public AnimationType animationType;
 
     #region PROTECTED_MEMBER_VARIABLES
 
@@ -104,9 +107,14 @@ public class CrossTrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEven
         foreach (var component in canvasComponents)
             component.enabled = true;
 
+        switch (animationType) {
+            case AnimationType.TwentyNine:
+                GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonPressed();
+                break;
+            case AnimationType.TwentyThree:
 
-        playSound("sounds/29 S Cross");
-        GetComponentInChildren<TwentyNineVirtBttnAnim>().IsAnimationOn = true;
+                break;
+        }
     }
 
 
@@ -128,18 +136,14 @@ public class CrossTrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEven
         foreach (var component in canvasComponents)
             component.enabled = false;
 
-        soundTarget.Stop();
-        GetComponentInChildren<TwentyNineVirtBttnAnim>().IsAnimationOn = false;
-    }
-
-    //function to play sound
-    private void playSound(string ss)
-    {
-        clipTarget = (AudioClip)Resources.Load(ss);
-        soundTarget.clip = clipTarget;
-        soundTarget.loop = true;
-        soundTarget.playOnAwake = false;
-        soundTarget.Play();
+        switch (animationType)
+        {
+            case AnimationType.TwentyNine:
+                GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonReleased();
+                break;
+            case AnimationType.TwentyThree:
+                break;
+        }
     }
 
     #endregion // PROTECTED_METHODS
