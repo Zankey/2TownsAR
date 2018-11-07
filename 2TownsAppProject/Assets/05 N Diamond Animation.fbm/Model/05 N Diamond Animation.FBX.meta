@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 9a00c0bff1499ab4ea908df6a08671b2
+timeCreated: 1511490516
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LightBlueBox001
+    100004: LightBlueBox002
+    100006: LightBlueBox003
+    100008: LightBlueBox004
+    100010: LightBlueBox005
+    100012: LightBlueBox006
+    100014: LightBlueBox007
+    100016: LightBlueBox008
+    100018: LightBlueBox009
+    100020: LightBlueBox010
+    100022: LightBlueBox011
+    100024: LightBlueBox012
+    100026: LightBlueBox013
+    100028: LightBlueBox014
+    100030: LightBlueBox015
+    100032: LightBlueBox016
+    100034: LightBlueBox017
+    100036: LightBlueBox018
+    100038: LightBlueBox019
+    100040: LightBlueBox020
+    100042: LightBlueBox021
+    100044: LightBlueBox022
+    100046: LightBlueBox023
+    100048: LightBlueBox024
+    100050: LightBlueBox025
+    100052: LightBlueBox026
+    100054: LightBlueBox027
+    100056: LightBlueBox028
+    100058: LightBlueBox029
+    100060: LightBlueBox030
+    100062: LightBlueBox031
+    100064: LightBlueBox032
+    100066: LightBlueBox033
+    100068: LightBlueBox034
+    100070: LightBlueBox035
+    100072: LightBlueBox036
+    100074: LightBlueBox037
+    100076: LightBlueBox038
+    100078: LightBlueBox039
+    100080: LightBlueBox040
+    100082: LightBlueBox041
+    100084: LightBlueBox042
+    100086: LightBlueBox043
+    100088: LightBlueBox044
+    100090: LightBlueBox045
+    100092: LightBlueBox046
+    100094: LightBlueBox047
+    100096: LightBlueBox048
+    100098: OrangeBox017
+    100100: OrangeBox018
+    100102: OrangeRedBox
+    100104: OrangeRedBox001
+    100106: OrangeRedBox002
+    100108: OrangeRedBox003
+    100110: OrangeRedBox004
+    100112: OrangeRedBox005
+    100114: OrangeRedBox006
+    100116: OrangeRedBox007
+    100118: OrangeRedBox008
+    100120: OrangeRedBox009
+    100122: OrangeRedBox010
+    100124: OrangeRedBox011
+    100126: OrangeRedBox012
+    100128: OrangeRedBox013
+    100130: OrangeRedBox014
+    100132: OrangeRedBox015
+    100134: OrangeRedBox016
+    100136: OrangeRedBox017
+    100138: OrangeRedBox018
+    100140: OrangeRedBox019
+    100142: OrangeRedBox020
+    100144: OrangeRedBox021
+    100146: OrangeRedBox022
+    100148: OrangeRedBox023
+    100150: OrangeRedBox024
+    100152: OrangeRedBox025
+    100154: OrangeRedBox026
+    100156: OrangeRedBox027
+    100158: OrangeRedBox028
+    100160: OrangeRedBox029
+    100162: OrangeRedBox030
+    100164: OrangeRedBox031
+    100166: OrangeRedBox032
+    100168: OrangeRedBox033
+    100170: OrangeRedBox034
+    100172: OrangeRedBox035
+    100174: OrangeRedBox036
+    100176: OrangeRedBox037
+    100178: OrangeRedBox038
+    100180: OrangeRedBox039
+    100182: OrangeRedBox046
+    100184: OrangeRedBox047
+    100186: OrangeRedBox048
+    100188: OrangeRedBox049
+    100190: OrangeRedBox050
+    100192: OrangeRedBox051
+    100194: OrangeRedBox052
+    100196: OrangeRedBox053
+    100198: OrangeRedBox054
+    100200: OrangeRedBox055
+    100202: OrangeRedBox056
+    100204: OrangeRedBox057
+    100206: OrangeRedBox058
+    100208: OrangeRedBox059
+    100210: OrangeRedBox060
+    100212: OrangeRedBox061
+    100214: Plane001
+    400000: //RootNode
+    400002: LightBlueBox001
+    400004: LightBlueBox002
+    400006: LightBlueBox003
+    400008: LightBlueBox004
+    400010: LightBlueBox005
+    400012: LightBlueBox006
+    400014: LightBlueBox007
+    400016: LightBlueBox008
+    400018: LightBlueBox009
+    400020: LightBlueBox010
+    400022: LightBlueBox011
+    400024: LightBlueBox012
+    400026: LightBlueBox013
+    400028: LightBlueBox014
+    400030: LightBlueBox015
+    400032: LightBlueBox016
+    400034: LightBlueBox017
+    400036: LightBlueBox018
+    400038: LightBlueBox019
+    400040: LightBlueBox020
+    400042: LightBlueBox021
+    400044: LightBlueBox022
+    400046: LightBlueBox023
+    400048: LightBlueBox024
+    400050: LightBlueBox025
+    400052: LightBlueBox026
+    400054: LightBlueBox027
+    400056: LightBlueBox028
+    400058: LightBlueBox029
+    400060: LightBlueBox030
+    400062: LightBlueBox031
+    400064: LightBlueBox032
+    400066: LightBlueBox033
+    400068: LightBlueBox034
+    400070: LightBlueBox035
+    400072: LightBlueBox036
+    400074: LightBlueBox037
+    400076: LightBlueBox038
+    400078: LightBlueBox039
+    400080: LightBlueBox040
+    400082: LightBlueBox041
+    400084: LightBlueBox042
+    400086: LightBlueBox043
+    400088: LightBlueBox044
+    400090: LightBlueBox045
+    400092: LightBlueBox046
+    400094: LightBlueBox047
+    400096: LightBlueBox048
+    400098: OrangeBox017
+    400100: OrangeBox018
+    400102: OrangeRedBox
+    400104: OrangeRedBox001
+    400106: OrangeRedBox002
+    400108: OrangeRedBox003
+    400110: OrangeRedBox004
+    400112: OrangeRedBox005
+    400114: OrangeRedBox006
+    400116: OrangeRedBox007
+    400118: OrangeRedBox008
+    400120: OrangeRedBox009
+    400122: OrangeRedBox010
+    400124: OrangeRedBox011
+    400126: OrangeRedBox012
+    400128: OrangeRedBox013
+    400130: OrangeRedBox014
+    400132: OrangeRedBox015
+    400134: OrangeRedBox016
+    400136: OrangeRedBox017
+    400138: OrangeRedBox018
+    400140: OrangeRedBox019
+    400142: OrangeRedBox020
+    400144: OrangeRedBox021
+    400146: OrangeRedBox022
+    400148: OrangeRedBox023
+    400150: OrangeRedBox024
+    400152: OrangeRedBox025
+    400154: OrangeRedBox026
+    400156: OrangeRedBox027
+    400158: OrangeRedBox028
+    400160: OrangeRedBox029
+    400162: OrangeRedBox030
+    400164: OrangeRedBox031
+    400166: OrangeRedBox032
+    400168: OrangeRedBox033
+    400170: OrangeRedBox034
+    400172: OrangeRedBox035
+    400174: OrangeRedBox036
+    400176: OrangeRedBox037
+    400178: OrangeRedBox038
+    400180: OrangeRedBox039
+    400182: OrangeRedBox046
+    400184: OrangeRedBox047
+    400186: OrangeRedBox048
+    400188: OrangeRedBox049
+    400190: OrangeRedBox050
+    400192: OrangeRedBox051
+    400194: OrangeRedBox052
+    400196: OrangeRedBox053
+    400198: OrangeRedBox054
+    400200: OrangeRedBox055
+    400202: OrangeRedBox056
+    400204: OrangeRedBox057
+    400206: OrangeRedBox058
+    400208: OrangeRedBox059
+    400210: OrangeRedBox060
+    400212: OrangeRedBox061
+    400214: Plane001
+    2300000: LightBlueBox001
+    2300002: LightBlueBox002
+    2300004: LightBlueBox003
+    2300006: LightBlueBox004
+    2300008: LightBlueBox005
+    2300010: LightBlueBox006
+    2300012: LightBlueBox007
+    2300014: LightBlueBox008
+    2300016: LightBlueBox009
+    2300018: LightBlueBox010
+    2300020: LightBlueBox011
+    2300022: LightBlueBox012
+    2300024: LightBlueBox013
+    2300026: LightBlueBox014
+    2300028: LightBlueBox015
+    2300030: LightBlueBox016
+    2300032: LightBlueBox017
+    2300034: LightBlueBox018
+    2300036: LightBlueBox019
+    2300038: LightBlueBox020
+    2300040: LightBlueBox021
+    2300042: LightBlueBox022
+    2300044: LightBlueBox023
+    2300046: LightBlueBox024
+    2300048: LightBlueBox025
+    2300050: LightBlueBox026
+    2300052: LightBlueBox027
+    2300054: LightBlueBox028
+    2300056: LightBlueBox029
+    2300058: LightBlueBox030
+    2300060: LightBlueBox031
+    2300062: LightBlueBox032
+    2300064: LightBlueBox033
+    2300066: LightBlueBox034
+    2300068: LightBlueBox035
+    2300070: LightBlueBox036
+    2300072: LightBlueBox037
+    2300074: LightBlueBox038
+    2300076: LightBlueBox039
+    2300078: LightBlueBox040
+    2300080: LightBlueBox041
+    2300082: LightBlueBox042
+    2300084: LightBlueBox043
+    2300086: LightBlueBox044
+    2300088: LightBlueBox045
+    2300090: LightBlueBox046
+    2300092: LightBlueBox047
+    2300094: LightBlueBox048
+    2300096: OrangeBox017
+    2300098: OrangeBox018
+    2300100: OrangeRedBox
+    2300102: OrangeRedBox001
+    2300104: OrangeRedBox002
+    2300106: OrangeRedBox003
+    2300108: OrangeRedBox004
+    2300110: OrangeRedBox005
+    2300112: OrangeRedBox006
+    2300114: OrangeRedBox007
+    2300116: OrangeRedBox008
+    2300118: OrangeRedBox009
+    2300120: OrangeRedBox010
+    2300122: OrangeRedBox011
+    2300124: OrangeRedBox012
+    2300126: OrangeRedBox013
+    2300128: OrangeRedBox014
+    2300130: OrangeRedBox015
+    2300132: OrangeRedBox016
+    2300134: OrangeRedBox017
+    2300136: OrangeRedBox018
+    2300138: OrangeRedBox019
+    2300140: OrangeRedBox020
+    2300142: OrangeRedBox021
+    2300144: OrangeRedBox022
+    2300146: OrangeRedBox023
+    2300148: OrangeRedBox024
+    2300150: OrangeRedBox025
+    2300152: OrangeRedBox026
+    2300154: OrangeRedBox027
+    2300156: OrangeRedBox028
+    2300158: OrangeRedBox029
+    2300160: OrangeRedBox030
+    2300162: OrangeRedBox031
+    2300164: OrangeRedBox032
+    2300166: OrangeRedBox033
+    2300168: OrangeRedBox034
+    2300170: OrangeRedBox035
+    2300172: OrangeRedBox036
+    2300174: OrangeRedBox037
+    2300176: OrangeRedBox038
+    2300178: OrangeRedBox039
+    2300180: OrangeRedBox046
+    2300182: OrangeRedBox047
+    2300184: OrangeRedBox048
+    2300186: OrangeRedBox049
+    2300188: OrangeRedBox050
+    2300190: OrangeRedBox051
+    2300192: OrangeRedBox052
+    2300194: OrangeRedBox053
+    2300196: OrangeRedBox054
+    2300198: OrangeRedBox055
+    2300200: OrangeRedBox056
+    2300202: OrangeRedBox057
+    2300204: OrangeRedBox058
+    2300206: OrangeRedBox059
+    2300208: OrangeRedBox060
+    2300210: OrangeRedBox061
+    2300212: Plane001
+    3300000: LightBlueBox001
+    3300002: LightBlueBox002
+    3300004: LightBlueBox003
+    3300006: LightBlueBox004
+    3300008: LightBlueBox005
+    3300010: LightBlueBox006
+    3300012: LightBlueBox007
+    3300014: LightBlueBox008
+    3300016: LightBlueBox009
+    3300018: LightBlueBox010
+    3300020: LightBlueBox011
+    3300022: LightBlueBox012
+    3300024: LightBlueBox013
+    3300026: LightBlueBox014
+    3300028: LightBlueBox015
+    3300030: LightBlueBox016
+    3300032: LightBlueBox017
+    3300034: LightBlueBox018
+    3300036: LightBlueBox019
+    3300038: LightBlueBox020
+    3300040: LightBlueBox021
+    3300042: LightBlueBox022
+    3300044: LightBlueBox023
+    3300046: LightBlueBox024
+    3300048: LightBlueBox025
+    3300050: LightBlueBox026
+    3300052: LightBlueBox027
+    3300054: LightBlueBox028
+    3300056: LightBlueBox029
+    3300058: LightBlueBox030
+    3300060: LightBlueBox031
+    3300062: LightBlueBox032
+    3300064: LightBlueBox033
+    3300066: LightBlueBox034
+    3300068: LightBlueBox035
+    3300070: LightBlueBox036
+    3300072: LightBlueBox037
+    3300074: LightBlueBox038
+    3300076: LightBlueBox039
+    3300078: LightBlueBox040
+    3300080: LightBlueBox041
+    3300082: LightBlueBox042
+    3300084: LightBlueBox043
+    3300086: LightBlueBox044
+    3300088: LightBlueBox045
+    3300090: LightBlueBox046
+    3300092: LightBlueBox047
+    3300094: LightBlueBox048
+    3300096: OrangeBox017
+    3300098: OrangeBox018
+    3300100: OrangeRedBox
+    3300102: OrangeRedBox001
+    3300104: OrangeRedBox002
+    3300106: OrangeRedBox003
+    3300108: OrangeRedBox004
+    3300110: OrangeRedBox005
+    3300112: OrangeRedBox006
+    3300114: OrangeRedBox007
+    3300116: OrangeRedBox008
+    3300118: OrangeRedBox009
+    3300120: OrangeRedBox010
+    3300122: OrangeRedBox011
+    3300124: OrangeRedBox012
+    3300126: OrangeRedBox013
+    3300128: OrangeRedBox014
+    3300130: OrangeRedBox015
+    3300132: OrangeRedBox016
+    3300134: OrangeRedBox017
+    3300136: OrangeRedBox018
+    3300138: OrangeRedBox019
+    3300140: OrangeRedBox020
+    3300142: OrangeRedBox021
+    3300144: OrangeRedBox022
+    3300146: OrangeRedBox023
+    3300148: OrangeRedBox024
+    3300150: OrangeRedBox025
+    3300152: OrangeRedBox026
+    3300154: OrangeRedBox027
+    3300156: OrangeRedBox028
+    3300158: OrangeRedBox029
+    3300160: OrangeRedBox030
+    3300162: OrangeRedBox031
+    3300164: OrangeRedBox032
+    3300166: OrangeRedBox033
+    3300168: OrangeRedBox034
+    3300170: OrangeRedBox035
+    3300172: OrangeRedBox036
+    3300174: OrangeRedBox037
+    3300176: OrangeRedBox038
+    3300178: OrangeRedBox039
+    3300180: OrangeRedBox046
+    3300182: OrangeRedBox047
+    3300184: OrangeRedBox048
+    3300186: OrangeRedBox049
+    3300188: OrangeRedBox050
+    3300190: OrangeRedBox051
+    3300192: OrangeRedBox052
+    3300194: OrangeRedBox053
+    3300196: OrangeRedBox054
+    3300198: OrangeRedBox055
+    3300200: OrangeRedBox056
+    3300202: OrangeRedBox057
+    3300204: OrangeRedBox058
+    3300206: OrangeRedBox059
+    3300208: OrangeRedBox060
+    3300210: OrangeRedBox061
+    3300212: Plane001
+    4300000: LightBlueBox001
+    4300002: Plane001
+    4300004: LightBlueBox002
+    4300006: LightBlueBox003
+    4300008: LightBlueBox004
+    4300010: LightBlueBox005
+    4300012: LightBlueBox006
+    4300014: LightBlueBox007
+    4300016: LightBlueBox008
+    4300018: LightBlueBox009
+    4300020: LightBlueBox010
+    4300022: LightBlueBox011
+    4300024: LightBlueBox012
+    4300026: LightBlueBox013
+    4300028: LightBlueBox014
+    4300030: LightBlueBox015
+    4300032: LightBlueBox016
+    4300034: LightBlueBox017
+    4300036: LightBlueBox018
+    4300038: LightBlueBox019
+    4300040: LightBlueBox020
+    4300042: LightBlueBox021
+    4300044: LightBlueBox022
+    4300046: LightBlueBox023
+    4300048: LightBlueBox024
+    4300050: LightBlueBox025
+    4300052: LightBlueBox026
+    4300054: LightBlueBox027
+    4300056: LightBlueBox028
+    4300058: OrangeRedBox
+    4300060: OrangeRedBox001
+    4300062: OrangeRedBox002
+    4300064: OrangeRedBox003
+    4300066: OrangeRedBox004
+    4300068: OrangeRedBox005
+    4300070: OrangeRedBox006
+    4300072: OrangeRedBox007
+    4300074: OrangeRedBox008
+    4300076: OrangeRedBox009
+    4300078: OrangeRedBox010
+    4300080: OrangeRedBox011
+    4300082: OrangeRedBox012
+    4300084: OrangeRedBox013
+    4300086: OrangeRedBox014
+    4300088: OrangeRedBox015
+    4300090: OrangeRedBox016
+    4300092: OrangeRedBox017
+    4300094: OrangeRedBox018
+    4300096: OrangeRedBox019
+    4300098: OrangeRedBox020
+    4300100: OrangeRedBox021
+    4300102: OrangeRedBox022
+    4300104: OrangeRedBox023
+    4300106: OrangeRedBox024
+    4300108: OrangeRedBox025
+    4300110: OrangeRedBox026
+    4300112: OrangeRedBox027
+    4300114: OrangeRedBox028
+    4300116: OrangeRedBox029
+    4300118: OrangeRedBox030
+    4300120: OrangeRedBox031
+    4300122: OrangeRedBox032
+    4300124: OrangeRedBox033
+    4300126: OrangeRedBox034
+    4300128: OrangeRedBox035
+    4300130: OrangeRedBox036
+    4300132: OrangeRedBox037
+    4300134: OrangeRedBox038
+    4300136: OrangeRedBox039
+    4300138: OrangeBox017
+    4300140: OrangeBox018
+    4300142: LightBlueBox029
+    4300144: LightBlueBox030
+    4300146: LightBlueBox031
+    4300148: LightBlueBox032
+    4300150: LightBlueBox033
+    4300152: LightBlueBox034
+    4300154: LightBlueBox035
+    4300156: LightBlueBox036
+    4300158: LightBlueBox037
+    4300160: LightBlueBox038
+    4300162: LightBlueBox039
+    4300164: LightBlueBox040
+    4300166: OrangeRedBox046
+    4300168: OrangeRedBox047
+    4300170: OrangeRedBox048
+    4300172: OrangeRedBox049
+    4300174: OrangeRedBox050
+    4300176: OrangeRedBox051
+    4300178: OrangeRedBox052
+    4300180: OrangeRedBox053
+    4300182: LightBlueBox041
+    4300184: LightBlueBox042
+    4300186: LightBlueBox043
+    4300188: LightBlueBox044
+    4300190: OrangeRedBox054
+    4300192: OrangeRedBox055
+    4300194: OrangeRedBox056
+    4300196: OrangeRedBox057
+    4300198: OrangeRedBox058
+    4300200: OrangeRedBox059
+    4300202: OrangeRedBox060
+    4300204: OrangeRedBox061
+    4300206: LightBlueBox045
+    4300208: LightBlueBox046
+    4300210: LightBlueBox047
+    4300212: LightBlueBox048
+    7400000: 05 N Diam Anim
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 6868a34f3e2141945aae2f29a07aab6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 865f2aa544ae0164cb4126f7976701bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: ae869575bbb742b4992b458b6628830b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: fe8e5e09823b02f4ab43237ad4c2d816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: abd920dd102aeff45882fe5516039f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: abd920dd102aeff45882fe5516039f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: abd920dd102aeff45882fe5516039f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: abd920dd102aeff45882fe5516039f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: abd920dd102aeff45882fe5516039f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: abd920dd102aeff45882fe5516039f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: abd920dd102aeff45882fe5516039f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: abd920dd102aeff45882fe5516039f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: f08ab562eab6fb04f88e44ed1560eda1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45'
+    second: {fileID: 2100000, guid: ae869575bbb742b4992b458b6628830b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #46'
+    second: {fileID: 2100000, guid: ae869575bbb742b4992b458b6628830b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: ae869575bbb742b4992b458b6628830b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: ae869575bbb742b4992b458b6628830b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: fe8e5e09823b02f4ab43237ad4c2d816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: fe8e5e09823b02f4ab43237ad4c2d816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #51'
+    second: {fileID: 2100000, guid: fe8e5e09823b02f4ab43237ad4c2d816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #52'
+    second: {fileID: 2100000, guid: fe8e5e09823b02f4ab43237ad4c2d816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #53'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #54'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #55'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #56'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #58'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #59'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #60'
+    second: {fileID: 2100000, guid: 8031608a564db3545bc953e71725bdd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #61'
+    second: {fileID: 2100000, guid: 47e35b32d71be0f4ca59e7193ca6aa46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #62'
+    second: {fileID: 2100000, guid: 47e35b32d71be0f4ca59e7193ca6aa46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #63'
+    second: {fileID: 2100000, guid: 47e35b32d71be0f4ca59e7193ca6aa46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #64'
+    second: {fileID: 2100000, guid: 47e35b32d71be0f4ca59e7193ca6aa46, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 05 N Diam Anim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

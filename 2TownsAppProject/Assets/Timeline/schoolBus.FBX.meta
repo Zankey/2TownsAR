@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: aa5eb61d7f3797243adce0c5140740d0
+timeCreated: 1526604977
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component#
+    100002: Component0
+    100004: Component1
+    100006: Component2
+    100008: Group001
+    100010: Group02
+    100012: Group_002
+    100014: Group_003
+    100016: Group_003 1
+    100018: Group_004
+    100020: Internati0
+    100022: Internati1
+    100024: Internati2
+    100026: Internatio
+    100028: SCHOOL BU0
+    100030: SCHOOL BUS
+    100032: //RootNode
+    100034: ske469_001
+    100036: STOP_001
+    100038: transform1
+    100040: transform10
+    100042: transform11
+    100044: transform12
+    100046: transform2
+    100048: transform3
+    100050: transform4
+    100052: transform5
+    100054: transform6
+    100056: transform7
+    100058: transform8
+    100060: transform9
+    400000: Component#
+    400002: Component0
+    400004: Component1
+    400006: Component2
+    400008: Group001
+    400010: Group02
+    400012: Group_002
+    400014: Group_003
+    400016: Group_003 1
+    400018: Group_004
+    400020: Internati0
+    400022: Internati1
+    400024: Internati2
+    400026: Internatio
+    400028: SCHOOL BU0
+    400030: SCHOOL BUS
+    400032: //RootNode
+    400034: ske469_001
+    400036: STOP_001
+    400038: transform1
+    400040: transform10
+    400042: transform11
+    400044: transform12
+    400046: transform2
+    400048: transform3
+    400050: transform4
+    400052: transform5
+    400054: transform6
+    400056: transform7
+    400058: transform8
+    400060: transform9
+    2100000: _CoolGray8_
+    2100002: 696969ff
+    2100004: DCDCDCff
+    2100006: 000000 Black
+    2100008: 323232ff Visible
+    2100010: C0C0C0ff
+    2100012: _Black_
+    2100014: '[_Gold_]2'
+    2100016: _Gray6_
+    2100018: FFAD00ff
+    2100020: '[Color_000]1'
+    2100022: FF3C00ff
+    2100024: B22222ff
+    2100026: Color_009
+    2100028: FFFFFFff White
+    2100030: 515151ff
+    2100032: _Gold_
+    2100034: Material5
+    2100036: _Black_3
+    2100038: Material6
+    2100040: Material4
+    2100042: _CoolGray5_
+    2100044: Material3
+    2100046: Color_A01
+    2100048: _Metal-floor_2
+    2100050: 808080ff
+    2300000: Group_003
+    3300000: Group_003
+    4300000: Group_003
+    7400000: Bus Anim
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bus Anim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

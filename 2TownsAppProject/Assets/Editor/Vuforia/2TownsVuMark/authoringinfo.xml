@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<VuforiaUnityInfo>
+    <TargetSet toolVersion="" version="6.0"><VuMark name="UpdatedVuMark2Towns" previewImage="c4d60b5314fe4731a418caacc5da6d90_scaled.png" targetId="c4d60b5314fe4731a418caacc5da6d90" version="9.0">
+            <Shape bbox2D="0 0 522.053 512.404" origin="256.851 278.395" />
+            <Code IDlength="2" IDtype="string" />
+        </VuMark>
+    </TargetSet>
+</VuforiaUnityInfo>

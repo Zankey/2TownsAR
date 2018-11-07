@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: c26ace68941187340bb4167bffc33cf8
+timeCreated: 1525459748
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: DarkBlue_Ring
+    100002: //RootNode
+    100004: OrangeDiamond_GoldDisc_Group
+    100006: Pink_Ring
+    100008: polySurface28
+    100010: polySurface30
+    100012: polySurface34
+    100014: Red_Ring
+    100016: RedDiamond_BlackDisc_Group
+    100018: RedGlyphBack_DarkBlueDisc_Group
+    100020: RedGlyphFront_BlueDisc_Group
+    400000: DarkBlue_Ring
+    400002: //RootNode
+    400004: OrangeDiamond_GoldDisc_Group
+    400006: Pink_Ring
+    400008: polySurface28
+    400010: polySurface30
+    400012: polySurface34
+    400014: Red_Ring
+    400016: RedDiamond_BlackDisc_Group
+    400018: RedGlyphBack_DarkBlueDisc_Group
+    400020: RedGlyphFront_BlueDisc_Group
+    2100000: lambert7
+    2100002: lambert4
+    2100004: lambert3
+    2100006: lambert1
+    2100008: lambert11
+    2100010: lambert6
+    2100012: lambert5
+    2100014: lambert2
+    2100016: lambert13
+    2100018: lambert8
+    2100020: lambert9
+    2300000: OrangeDiamond_GoldDisc_Group
+    2300002: polySurface28
+    2300004: polySurface30
+    2300006: polySurface34
+    2300008: RedDiamond_BlackDisc_Group
+    2300010: RedGlyphBack_DarkBlueDisc_Group
+    2300012: RedGlyphFront_BlueDisc_Group
+    3300000: OrangeDiamond_GoldDisc_Group
+    3300002: polySurface28
+    3300004: polySurface30
+    3300006: polySurface34
+    3300008: RedDiamond_BlackDisc_Group
+    3300010: RedGlyphBack_DarkBlueDisc_Group
+    3300012: RedGlyphFront_BlueDisc_Group
+    4300000: polySurface34
+    4300002: polySurface30
+    4300004: polySurface28
+    4300006: RedDiamond_BlackDisc_Group
+    4300008: RedGlyphFront_BlueDisc_Group
+    4300010: RedGlyphBack_DarkBlueDisc_Group
+    4300012: OrangeDiamond_GoldDisc_Group
+    7400000: Mural Disk Anim.
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 6e392f4947d0acd4ba61cd973f6bd7e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: aaf341fabbce0ce41ad72de3c9eb6426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: 2428c3913bad4d54b801e70ebebba8d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 7b8ea319498b3ea49bca82e487381b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: f3da383b5d62daf468d7b7cde79d7d0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: bc7916e7f0273544fa754f30a5613ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: f6658e8a1746fc04fbf24cd46aecdf82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 06d134a2257022a43a732d175750caf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: 0d09c0d8ebde7234aa4365c3c2d99b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 6f95cc96afb281d44be35cbd38feab44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: e8a5e97922cba904e85af876377b7c02, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mural Disk Anim.
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1008
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

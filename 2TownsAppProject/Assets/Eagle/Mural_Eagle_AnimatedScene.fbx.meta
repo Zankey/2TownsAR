@@ -1,0 +1,3946 @@
+fileFormatVersion: 2
+guid: 96f7d592941804f7eacfe242077471f1
+timeCreated: 1526871353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: curve1
+    100002: Eagle_2018:Bald_Eagle
+    100004: Eagle_2018:bend10Handle
+    100006: Eagle_2018:bend11Handle
+    100008: Eagle_2018:bend12Handle
+    100010: Eagle_2018:bend13Handle
+    100012: Eagle_2018:bend14Handle
+    100014: Eagle_2018:bend15Handle
+    100016: Eagle_2018:bend16Handle
+    100018: Eagle_2018:bend18Handle
+    100020: Eagle_2018:bend19Handle
+    100022: Eagle_2018:bend1Handle
+    100024: Eagle_2018:bend20Handle
+    100026: Eagle_2018:bend21Handle
+    100028: Eagle_2018:bend22Handle
+    100030: Eagle_2018:bend23Handle
+    100032: Eagle_2018:bend24Handle
+    100034: Eagle_2018:bend25Handle
+    100036: Eagle_2018:bend26Handle
+    100038: Eagle_2018:bend27Handle
+    100040: Eagle_2018:bend28Handle
+    100042: Eagle_2018:bend29Handle
+    100044: Eagle_2018:bend2Handle
+    100046: Eagle_2018:bend30Handle
+    100048: Eagle_2018:bend31Handle
+    100050: Eagle_2018:bend32Handle
+    100052: Eagle_2018:bend33Handle
+    100054: Eagle_2018:bend34Handle
+    100056: Eagle_2018:bend35Handle
+    100058: Eagle_2018:bend36Handle
+    100060: Eagle_2018:bend37Handle
+    100062: Eagle_2018:bend38Handle
+    100064: Eagle_2018:bend39Handle
+    100066: Eagle_2018:bend3Handle
+    100068: Eagle_2018:bend40Handle
+    100070: Eagle_2018:bend41Handle
+    100072: Eagle_2018:bend42Handle
+    100074: Eagle_2018:bend43Handle
+    100076: Eagle_2018:bend44Handle
+    100078: Eagle_2018:bend45Handle
+    100080: Eagle_2018:bend46Handle
+    100082: Eagle_2018:bend47Handle
+    100084: Eagle_2018:bend48Handle
+    100086: Eagle_2018:bend49Handle
+    100088: Eagle_2018:bend4Handle
+    100090: Eagle_2018:bend50Handle
+    100092: Eagle_2018:bend51Handle
+    100094: Eagle_2018:bend52Handle
+    100096: Eagle_2018:bend53Handle
+    100098: Eagle_2018:bend54Handle
+    100100: Eagle_2018:bend55Handle
+    100102: Eagle_2018:bend56Handle
+    100104: Eagle_2018:bend57Handle
+    100106: Eagle_2018:bend58Handle
+    100108: Eagle_2018:bend59Handle
+    100110: Eagle_2018:bend5Handle
+    100112: Eagle_2018:bend60Handle
+    100114: Eagle_2018:bend61Handle
+    100116: Eagle_2018:bend62Handle
+    100118: Eagle_2018:bend63Handle
+    100120: Eagle_2018:bend6Handle
+    100122: Eagle_2018:bend7Handle
+    100124: Eagle_2018:bend8Handle
+    100126: Eagle_2018:bend9Handle
+    100128: Eagle_2018:Body
+    100130: Eagle_2018:Body 1
+    100132: Eagle_2018:Chest_Ctrl
+    100134: Eagle_2018:Chest_JNT
+    100136: Eagle_2018:cluster10Handle
+    100138: Eagle_2018:cluster1Handle
+    100140: Eagle_2018:cluster2Handle
+    100142: Eagle_2018:cluster3Handle
+    100144: Eagle_2018:cluster4Handle
+    100146: Eagle_2018:cluster5Handle
+    100148: Eagle_2018:cluster6Handle
+    100150: Eagle_2018:cluster7Handle
+    100152: Eagle_2018:cluster8Handle
+    100154: Eagle_2018:cluster9Handle
+    100156: Eagle_2018:Control_Crvs_Grp
+    100158: Eagle_2018:curve1
+    100160: Eagle_2018:curve2
+    100162: Eagle_2018:Deformers_Grp
+    100164: Eagle_2018:Eye_Ctrl
+    100166: Eagle_2018:eye_Ctrl
+    100168: Eagle_2018:Feathers
+    100170: Eagle_2018:Geo_Grp
+    100172: Eagle_2018:Global_Cntrl
+    100174: Eagle_2018:group1
+    100176: Eagle_2018:group1 1
+    100178: Eagle_2018:group10
+    100180: Eagle_2018:group2
+    100182: Eagle_2018:group3
+    100184: Eagle_2018:group4
+    100186: Eagle_2018:group5
+    100188: Eagle_2018:group6
+    100190: Eagle_2018:group7
+    100192: Eagle_2018:group8
+    100194: Eagle_2018:group9
+    100196: Eagle_2018:Head_Ctrl
+    100198: Eagle_2018:Head_Ctrl_Grp
+    100200: Eagle_2018:Head_JNT
+    100202: Eagle_2018:Hip_Ctrl
+    100204: Eagle_2018:Hip_JNT
+    100206: Eagle_2018:IK_Handles_Grp
+    100208: Eagle_2018:Jaw_JNT
+    100210: Eagle_2018:joint1
+    100212: Eagle_2018:Joint_Grp
+    100214: Eagle_2018:L_01_Claw01
+    100216: Eagle_2018:L_01_Claw01_Clench
+    100218: Eagle_2018:L_01_Claw01_Grp
+    100220: Eagle_2018:L_01_Claw01_Grp1
+    100222: Eagle_2018:L_01_Claw01_Grp2
+    100224: Eagle_2018:L_01_Claw01_Relax
+    100226: Eagle_2018:L_01_Claw02
+    100228: Eagle_2018:L_01_Claw02_Clench
+    100230: Eagle_2018:L_01_Claw02_Relax
+    100232: Eagle_2018:L_01_Claw03
+    100234: Eagle_2018:L_01_Claw03_Clench
+    100236: Eagle_2018:L_01_Claw03_Relax
+    100238: Eagle_2018:L_02_Claw01
+    100240: Eagle_2018:L_02_Claw01_Clench
+    100242: Eagle_2018:L_02_Claw01_Grp
+    100244: Eagle_2018:L_02_Claw01_Grp1
+    100246: Eagle_2018:L_02_Claw01_Grp2
+    100248: Eagle_2018:L_02_Claw01_Relax
+    100250: Eagle_2018:L_02_Claw02
+    100252: Eagle_2018:L_02_Claw02_Clench
+    100254: Eagle_2018:L_02_Claw02_Relax
+    100256: Eagle_2018:L_02_Claw02_Relax 1
+    100258: Eagle_2018:L_02_Claw03
+    100260: Eagle_2018:L_02_Claw03_Clench
+    100262: Eagle_2018:L_03_Claw01
+    100264: Eagle_2018:L_03_Claw01_Clench
+    100266: Eagle_2018:L_03_Claw01_Grp
+    100268: Eagle_2018:L_03_Claw01_Grp1
+    100270: Eagle_2018:L_03_Claw01_Grp2
+    100272: Eagle_2018:L_03_Claw01_Relax
+    100274: Eagle_2018:L_03_Claw02
+    100276: Eagle_2018:L_03_Claw02_Clench
+    100278: Eagle_2018:L_03_Claw02_Relax
+    100280: Eagle_2018:L_03_Claw03
+    100282: Eagle_2018:L_03_Claw03_Clench
+    100284: Eagle_2018:L_03_Claw03_Relax
+    100286: Eagle_2018:L_Ankle_JNT
+    100288: Eagle_2018:L_Ball_JNT
+    100290: Eagle_2018:L_Bend_Deformers
+    100292: Eagle_2018:L_BlendShape
+    100294: Eagle_2018:L_Clavicle_JNT
+    100296: Eagle_2018:L_Eye
+    100298: Eagle_2018:L_Eye_Ctrl
+    100300: Eagle_2018:L_Feathers
+    100302: Eagle_2018:L_Feathers_Grp
+    100304: Eagle_2018:l_Fk_leg_ctrl
+    100306: Eagle_2018:l_Fk_leg_ctrl_grp
+    100308: Eagle_2018:L_Heel
+    100310: Eagle_2018:L_Heel_Lift
+    100312: Eagle_2018:L_Heel_Pivot
+    100314: Eagle_2018:L_Hip_JNT
+    100316: Eagle_2018:L_Knee_JNT
+    100318: Eagle_2018:l_leg_ankle_ctrl
+    100320: Eagle_2018:l_leg_ankle_ctrl_grp
+    100322: Eagle_2018:L_Leg_Ankle_ikHandle
+    100324: Eagle_2018:L_Leg_Ctrl
+    100326: Eagle_2018:l_leg_extra_ctrls
+    100328: Eagle_2018:L_Leg_Grp
+    100330: Eagle_2018:L_LEg_IK_Handle
+    100332: Eagle_2018:L_Leg_ikHandle
+    100334: Eagle_2018:l_leg_knee_ctrl
+    100336: Eagle_2018:l_leg_knee_ctrl_grp
+    100338: Eagle_2018:l_leg_Pevis_ctr_grp
+    100340: Eagle_2018:l_leg_Pevisi_ctr
+    100342: Eagle_2018:L_Leg_PoleVector_Ctrl
+    100344: Eagle_2018:L_Leg_Toe_ikHandle
+    100346: Eagle_2018:L_Leg_Toe_JNT
+    100348: Eagle_2018:L_Leg_Xtra_Ctrl
+    100350: Eagle_2018:L_Mid_Claw01
+    100352: Eagle_2018:L_Mid_Claw01_Clench
+    100354: Eagle_2018:L_Mid_Claw01_Grp
+    100356: Eagle_2018:L_Mid_Claw01_relax
+    100358: Eagle_2018:L_Mid_Claw02
+    100360: Eagle_2018:L_Mid_Claw02_Clench
+    100362: Eagle_2018:L_Mid_Claw02_Grp
+    100364: Eagle_2018:L_Mid_Claw02_relax
+    100366: Eagle_2018:L_Mid_Claw03
+    100368: Eagle_2018:L_Mid_Claw03_Clench
+    100370: Eagle_2018:L_Mid_Claw03_Grp
+    100372: Eagle_2018:L_Mid_Claw03_relax
+    100374: Eagle_2018:L_Mid_Claw04
+    100376: Eagle_2018:L_Mid_Claw04_Clench
+    100378: Eagle_2018:L_Mid_Claw04_Grp
+    100380: Eagle_2018:L_Mid_Claw04_relax
+    100382: Eagle_2018:L_Pelvis_JNT
+    100384: Eagle_2018:L_Primary01_01
+    100386: Eagle_2018:L_Primary01_01_Grp
+    100388: Eagle_2018:L_Primary01_02
+    100390: Eagle_2018:L_Primary01_02_Grp
+    100392: Eagle_2018:L_Primary01_03
+    100394: Eagle_2018:L_Primary01_03_grp
+    100396: Eagle_2018:L_Primary01_04
+    100398: Eagle_2018:L_Primary01_04_grp
+    100400: Eagle_2018:L_Primary01_05
+    100402: Eagle_2018:L_Primary01_05_grp
+    100404: Eagle_2018:L_Primary01_06_Grp
+    100406: Eagle_2018:L_Primary01_07_Grp
+    100408: Eagle_2018:L_Primary01_08_Grp
+    100410: Eagle_2018:L_Primary01_09_Grp
+    100412: Eagle_2018:L_Primary01_10_Grp
+    100414: Eagle_2018:L_Primary01_11_Grp
+    100416: Eagle_2018:L_Primary01_12_Grp
+    100418: Eagle_2018:L_Primary01_13_Grp
+    100420: Eagle_2018:L_Primary02_01
+    100422: Eagle_2018:L_Primary02_01_Grp
+    100424: Eagle_2018:L_Primary02_02
+    100426: Eagle_2018:L_Primary02_02_Grp
+    100428: Eagle_2018:L_Primary02_03
+    100430: Eagle_2018:L_Primary02_03_Grp
+    100432: Eagle_2018:L_Primary02_04
+    100434: Eagle_2018:L_Primary02_04_Grp
+    100436: Eagle_2018:L_Primary02_05
+    100438: Eagle_2018:L_Primary02_05_Grp
+    100440: Eagle_2018:L_Primary02_06
+    100442: Eagle_2018:L_Primary02_06_Grp
+    100444: Eagle_2018:L_Primary02_07
+    100446: Eagle_2018:L_Primary02_07_Grp
+    100448: Eagle_2018:L_Primary02_08
+    100450: Eagle_2018:L_Primary02_08_Grp
+    100452: Eagle_2018:L_Primary02_09_Grp
+    100454: Eagle_2018:L_Primary02_10_Grp
+    100456: Eagle_2018:L_Primary02_11_Grp
+    100458: Eagle_2018:L_Primary02_12_Grp
+    100460: Eagle_2018:L_Primary02_14_Grp
+    100462: Eagle_2018:L_Primary02_15_Grp
+    100464: Eagle_2018:L_Primary02_16_Grp
+    100466: Eagle_2018:L_Primary02_17_Grp
+    100468: Eagle_2018:L_Primary03_01
+    100470: Eagle_2018:L_Primary03_010
+    100472: Eagle_2018:L_Primary03_01_Grp
+    100474: Eagle_2018:L_Primary03_02
+    100476: Eagle_2018:L_Primary03_02_Grp
+    100478: Eagle_2018:L_Primary03_03
+    100480: Eagle_2018:L_Primary03_03_Grp
+    100482: Eagle_2018:L_Primary03_04
+    100484: Eagle_2018:L_Primary03_04_Grp
+    100486: Eagle_2018:L_Primary03_05
+    100488: Eagle_2018:L_Primary03_05_Grp
+    100490: Eagle_2018:L_Primary03_06
+    100492: Eagle_2018:L_Primary03_06_Grp
+    100494: Eagle_2018:L_Primary03_07
+    100496: Eagle_2018:L_Primary03_07_Grp
+    100498: Eagle_2018:L_Primary03_08
+    100500: Eagle_2018:L_Primary03_08_Grp
+    100502: Eagle_2018:L_Primary03_09
+    100504: Eagle_2018:L_Primary03_09_Grp
+    100506: Eagle_2018:L_Primary03_10_Grp
+    100508: Eagle_2018:L_Primary03_11_Grp
+    100510: Eagle_2018:L_Primary03_12_Grp
+    100512: Eagle_2018:L_Primary03_13_Grp
+    100514: Eagle_2018:L_Primary03_14_Grp
+    100516: Eagle_2018:L_Primary03_15_Grp
+    100518: Eagle_2018:L_Primary03_16_Grp
+    100520: Eagle_2018:L_Primary03_17_Grp
+    100522: Eagle_2018:L_Primary_01_Feather_Ctrl
+    100524: Eagle_2018:L_Primary_01_Feather_Ctrl 1
+    100526: Eagle_2018:L_Primary_01_Feather_Ctrl 2
+    100528: Eagle_2018:L_Primary_01_Feather_Fold
+    100530: Eagle_2018:L_Primary_01_Feather_Fold 1
+    100532: Eagle_2018:L_Primary_01_Feather_Fold 2
+    100534: Eagle_2018:L_Primary_01_Feather_Grp
+    100536: Eagle_2018:L_Primary_01_Feather_Grp01
+    100538: Eagle_2018:L_Primary_01_Feather_Grp02
+    100540: Eagle_2018:L_Primary_01_Feather_Grp03
+    100542: Eagle_2018:L_Primary_02_Feather_Ctrl
+    100544: Eagle_2018:L_Primary_02_Feather_Ctrl 1
+    100546: Eagle_2018:L_Primary_02_Feather_Ctrl 2
+    100548: Eagle_2018:L_Primary_02_Feather_Ctrl_Grp
+    100550: Eagle_2018:L_Primary_02_Feather_Ctrl_Grp01
+    100552: Eagle_2018:L_Primary_02_Feather_Ctrl_Grp02
+    100554: Eagle_2018:L_Primary_02_Feather_Ctrl_Grp03
+    100556: Eagle_2018:L_Primary_02_Feather_Fold_grp
+    100558: Eagle_2018:L_Primary_02_Feather_Fold_grp 1
+    100560: Eagle_2018:L_Primary_02_Feather_Fold_grp 2
+    100562: Eagle_2018:L_Primary_Ctrl
+    100564: Eagle_2018:L_Primary_Ctrl_Fold_Grp
+    100566: Eagle_2018:L_Primary_Ctrl_Grp
+    100568: Eagle_2018:L_Primary_Indiv_Feather_Ctrl1
+    100570: Eagle_2018:L_Primary_Indiv_Feather_Ctrl10
+    100572: Eagle_2018:L_Primary_Indiv_Feather_Ctrl12
+    100574: Eagle_2018:L_Primary_Indiv_Feather_Ctrl17
+    100576: Eagle_2018:L_Primary_Indiv_Feather_Ctrl18
+    100578: Eagle_2018:L_Primary_Indiv_Feather_Ctrl19
+    100580: Eagle_2018:L_Primary_Indiv_Feather_Ctrl20
+    100582: Eagle_2018:L_Primary_Indiv_Feather_Ctrl3
+    100584: Eagle_2018:L_Primary_Indiv_Feather_Ctrl5
+    100586: Eagle_2018:L_Primary_Indiv_Feather_Ctrl8
+    100588: Eagle_2018:L_Primary_nd_Secondary_Mid_Ctrl
+    100590: Eagle_2018:L_Primary_nd_Secondary_Mid_Ctrl_Fold_Grp
+    100592: Eagle_2018:L_Primary_nd_Secondary_Mid_Ctrl_Grp
+    100594: Eagle_2018:L_Primarys02_13_Grp
+    100596: Eagle_2018:L_Secondary_Ctrl
+    100598: Eagle_2018:L_Secondary_Ctrl_Fold_Grp
+    100600: Eagle_2018:L_Secondary_Ctrl_Grp
+    100602: Eagle_2018:L_Secondary_Feather_Ctrl
+    100604: Eagle_2018:L_Secondary_Feather_Ctrl 1
+    100606: Eagle_2018:L_Secondary_Feather_Ctrl 2
+    100608: Eagle_2018:L_Secondary_Feather_Ctrl_Grp
+    100610: Eagle_2018:L_Secondary_Feather_Ctrl_Grp01
+    100612: Eagle_2018:L_Secondary_Feather_Ctrl_Grp02
+    100614: Eagle_2018:L_Secondary_Feather_Ctrl_Grp03
+    100616: Eagle_2018:L_Secondary_Feather_Fold_Grp
+    100618: Eagle_2018:L_Secondary_Feather_Fold_Grp 1
+    100620: Eagle_2018:L_Secondary_Feather_Fold_Grp 2
+    100622: Eagle_2018:L_Tail_feather_Ctrl
+    100624: Eagle_2018:L_Tail_feather_Ctrl_grp
+    100626: Eagle_2018:L_Tail_feather_Relax_Ctrl_grp
+    100628: Eagle_2018:L_Tertial_Ctrl
+    100630: Eagle_2018:L_Tertial_Ctrl_Fold_Grp
+    100632: Eagle_2018:L_Tertial_Ctrl_Grp
+    100634: Eagle_2018:L_Tertial_Feather_Ctrl
+    100636: Eagle_2018:L_Tertial_Feather_Ctrl 1
+    100638: Eagle_2018:L_Tertial_Feather_Ctrl 2
+    100640: Eagle_2018:L_Tertial_Feather_Ctrl_Grp
+    100642: Eagle_2018:L_Tertial_Feather_Ctrl_Grp01
+    100644: Eagle_2018:L_Tertial_Feather_Ctrl_Grp02
+    100646: Eagle_2018:L_Tertial_Feather_Ctrl_Grp03
+    100648: Eagle_2018:L_Tertial_Feather_Fold_Grp
+    100650: Eagle_2018:L_Tertial_Feather_Fold_Grp 1
+    100652: Eagle_2018:L_Tertial_Feather_Fold_Grp 2
+    100654: Eagle_2018:L_Wing_Clavicle_Ctrl
+    100656: Eagle_2018:L_Wing_Clavicle_Ctrl_Grp
+    100658: Eagle_2018:L_Wing_Ctrl_Groups
+    100660: Eagle_2018:L_Wing_Elbow_Ctrl
+    100662: Eagle_2018:L_Wing_Elbow_Fold
+    100664: Eagle_2018:L_Wing_Elbow_Fold 1
+    100666: Eagle_2018:L_Wing_Elbow_JNT
+    100668: Eagle_2018:L_Wing_IK_Ctrl
+    100670: Eagle_2018:L_Wing_ikHandle
+    100672: Eagle_2018:L_Wing_Palm_Fold
+    100674: Eagle_2018:L_Wing_Palm_JNT
+    100676: Eagle_2018:L_Wing_Palm_Xtra_Rotate
+    100678: Eagle_2018:L_Wing_Palm_Xtra_Rotate_Grp1
+    100680: Eagle_2018:L_Wing_Pole_Vector_Ctrl
+    100682: Eagle_2018:L_Wing_Shoulder_Ctrl1
+    100684: Eagle_2018:L_Wing_Shoulder_Fold
+    100686: Eagle_2018:L_Wing_Shoulder_Fold 1
+    100688: Eagle_2018:L_Wing_Shoulder_JNT
+    100690: Eagle_2018:L_Wing_Wrist_Ctrl
+    100692: Eagle_2018:L_Wing_Wrist_Fold
+    100694: Eagle_2018:L_Wing_Wrist_Fold 1
+    100696: Eagle_2018:L_Wing_Wrist_JNT
+    100698: Eagle_2018:L_Wing_Xtra_Cntrls
+    100700: Eagle_2018:L_Wing_Xtra_Cntrls1
+    100702: Eagle_2018:L_Wring_Xtra_Rotate_Palm_JNT
+    100704: Eagle_2018:Mid_Tail_feather_Ctrl_02
+    100706: Eagle_2018:Mid_Tail_feather_Ctrl_Grp
+    100708: Eagle_2018:Mouth_Ctrl
+    100710: Eagle_2018:Mouth_Ctrl_grp
+    100712: Eagle_2018:Mouth_JNT
+    100714: Eagle_2018:Neck_Ctrl
+    100716: Eagle_2018:Neck_Ctrl_Grp
+    100718: Eagle_2018:Neck_JNT
+    100720: Eagle_2018:polySurface100
+    100722: Eagle_2018:polySurface100 1
+    100724: Eagle_2018:polySurface144
+    100726: Eagle_2018:polySurface144 1
+    100728: Eagle_2018:polySurface155
+    100730: Eagle_2018:polySurface155 1
+    100732: Eagle_2018:polySurface156
+    100734: Eagle_2018:polySurface156 1
+    100736: Eagle_2018:polySurface157
+    100738: Eagle_2018:polySurface157 1
+    100740: Eagle_2018:polySurface158
+    100742: Eagle_2018:polySurface158 1
+    100744: Eagle_2018:polySurface159
+    100746: Eagle_2018:polySurface159 1
+    100748: Eagle_2018:polySurface160
+    100750: Eagle_2018:polySurface160 1
+    100752: Eagle_2018:polySurface161
+    100754: Eagle_2018:polySurface161 1
+    100756: Eagle_2018:polySurface162
+    100758: Eagle_2018:polySurface162 1
+    100760: Eagle_2018:polySurface163
+    100762: Eagle_2018:polySurface163 1
+    100764: Eagle_2018:polySurface164
+    100766: Eagle_2018:polySurface164 1
+    100768: Eagle_2018:polySurface165
+    100770: Eagle_2018:polySurface165 1
+    100772: Eagle_2018:polySurface166
+    100774: Eagle_2018:polySurface166 1
+    100776: Eagle_2018:polySurface167
+    100778: Eagle_2018:polySurface167 1
+    100780: Eagle_2018:polySurface168
+    100782: Eagle_2018:polySurface168 1
+    100784: Eagle_2018:polySurface169
+    100786: Eagle_2018:polySurface169 1
+    100788: Eagle_2018:polySurface170
+    100790: Eagle_2018:polySurface170 1
+    100792: Eagle_2018:polySurface171
+    100794: Eagle_2018:polySurface171 1
+    100796: Eagle_2018:polySurface172
+    100798: Eagle_2018:polySurface172 1
+    100800: Eagle_2018:polySurface173
+    100802: Eagle_2018:polySurface173 1
+    100804: Eagle_2018:polySurface174
+    100806: Eagle_2018:polySurface174 1
+    100808: Eagle_2018:polySurface175
+    100810: Eagle_2018:polySurface175 1
+    100812: Eagle_2018:polySurface176
+    100814: Eagle_2018:polySurface176 1
+    100816: Eagle_2018:polySurface177
+    100818: Eagle_2018:polySurface177 1
+    100820: Eagle_2018:polySurface178
+    100822: Eagle_2018:polySurface178 1
+    100824: Eagle_2018:polySurface179
+    100826: Eagle_2018:polySurface179 1
+    100828: Eagle_2018:polySurface180
+    100830: Eagle_2018:polySurface180 1
+    100832: Eagle_2018:polySurface181
+    100834: Eagle_2018:polySurface181 1
+    100836: Eagle_2018:polySurface182
+    100838: Eagle_2018:polySurface182 1
+    100840: Eagle_2018:polySurface183
+    100842: Eagle_2018:polySurface183 1
+    100844: Eagle_2018:polySurface184
+    100846: Eagle_2018:polySurface184 1
+    100848: Eagle_2018:polySurface185
+    100850: Eagle_2018:polySurface185 1
+    100852: Eagle_2018:polySurface186
+    100854: Eagle_2018:polySurface186 1
+    100856: Eagle_2018:polySurface187
+    100858: Eagle_2018:polySurface187 1
+    100860: Eagle_2018:polySurface188
+    100862: Eagle_2018:polySurface188 1
+    100864: Eagle_2018:polySurface190
+    100866: Eagle_2018:polySurface190 1
+    100868: Eagle_2018:polySurface191
+    100870: Eagle_2018:polySurface191 1
+    100872: Eagle_2018:polySurface192
+    100874: Eagle_2018:polySurface192 1
+    100876: Eagle_2018:polySurface193
+    100878: Eagle_2018:polySurface193 1
+    100880: Eagle_2018:polySurface194
+    100882: Eagle_2018:polySurface194 1
+    100884: Eagle_2018:polySurface195
+    100886: Eagle_2018:polySurface195 1
+    100888: Eagle_2018:polySurface196
+    100890: Eagle_2018:polySurface196 1
+    100892: Eagle_2018:polySurface197
+    100894: Eagle_2018:polySurface197 1
+    100896: Eagle_2018:polySurface198
+    100898: Eagle_2018:polySurface198 1
+    100900: Eagle_2018:polySurface199
+    100902: Eagle_2018:polySurface199 1
+    100904: Eagle_2018:polySurface200
+    100906: Eagle_2018:polySurface200 1
+    100908: Eagle_2018:polySurface257
+    100910: Eagle_2018:polySurface257 1
+    100912: Eagle_2018:polySurface258
+    100914: Eagle_2018:polySurface258 1
+    100916: Eagle_2018:polySurface263
+    100918: Eagle_2018:polySurface263 1
+    100920: Eagle_2018:polySurface264
+    100922: Eagle_2018:polySurface264 1
+    100924: Eagle_2018:polySurface265
+    100926: Eagle_2018:polySurface265 1
+    100928: Eagle_2018:polySurface266
+    100930: Eagle_2018:polySurface266 1
+    100932: Eagle_2018:polySurface267
+    100934: Eagle_2018:polySurface267 1
+    100936: Eagle_2018:polySurface268
+    100938: Eagle_2018:polySurface268 1
+    100940: Eagle_2018:polySurface269
+    100942: Eagle_2018:polySurface269 1
+    100944: Eagle_2018:polySurface270
+    100946: Eagle_2018:polySurface270 1
+    100948: Eagle_2018:polySurface271
+    100950: Eagle_2018:polySurface271 1
+    100952: Eagle_2018:polySurface272
+    100954: Eagle_2018:polySurface272 1
+    100956: Eagle_2018:polySurface273
+    100958: Eagle_2018:polySurface273 1
+    100960: Eagle_2018:polySurface274
+    100962: Eagle_2018:polySurface274 1
+    100964: Eagle_2018:polySurface275
+    100966: Eagle_2018:polySurface275 1
+    100968: Eagle_2018:polySurface276
+    100970: Eagle_2018:polySurface276 1
+    100972: Eagle_2018:polySurface277
+    100974: Eagle_2018:polySurface277 1
+    100976: Eagle_2018:polySurface278
+    100978: Eagle_2018:polySurface278 1
+    100980: Eagle_2018:polySurface279
+    100982: Eagle_2018:polySurface279 1
+    100984: Eagle_2018:polySurface280
+    100986: Eagle_2018:polySurface280 1
+    100988: Eagle_2018:polySurface281
+    100990: Eagle_2018:polySurface281 1
+    100992: Eagle_2018:polySurface282
+    100994: Eagle_2018:polySurface282 1
+    100996: Eagle_2018:polySurface283
+    100998: Eagle_2018:polySurface283 1
+    101000: Eagle_2018:polySurface284
+    101002: Eagle_2018:polySurface284 1
+    101004: Eagle_2018:polySurface285
+    101006: Eagle_2018:polySurface285 1
+    101008: Eagle_2018:polySurface286
+    101010: Eagle_2018:polySurface286 1
+    101012: Eagle_2018:polySurface287
+    101014: Eagle_2018:polySurface287 1
+    101016: Eagle_2018:polySurface288
+    101018: Eagle_2018:polySurface288 1
+    101020: Eagle_2018:polySurface289
+    101022: Eagle_2018:polySurface289 1
+    101024: Eagle_2018:polySurface290
+    101026: Eagle_2018:polySurface290 1
+    101028: Eagle_2018:polySurface291
+    101030: Eagle_2018:polySurface291 1
+    101032: Eagle_2018:polySurface292
+    101034: Eagle_2018:polySurface292 1
+    101036: Eagle_2018:polySurface32
+    101038: Eagle_2018:polySurface32 1
+    101040: Eagle_2018:polySurface34
+    101042: Eagle_2018:polySurface34 1
+    101044: Eagle_2018:polySurface35
+    101046: Eagle_2018:polySurface35 1
+    101048: Eagle_2018:polySurface36
+    101050: Eagle_2018:polySurface36 1
+    101052: Eagle_2018:polySurface37
+    101054: Eagle_2018:polySurface37 1
+    101056: Eagle_2018:polySurface38
+    101058: Eagle_2018:polySurface38 1
+    101060: Eagle_2018:polySurface60
+    101062: Eagle_2018:polySurface60 1
+    101064: Eagle_2018:polySurface61
+    101066: Eagle_2018:polySurface61 1
+    101068: Eagle_2018:polySurface62
+    101070: Eagle_2018:polySurface62 1
+    101072: Eagle_2018:polySurface63
+    101074: Eagle_2018:polySurface63 1
+    101076: Eagle_2018:polySurface639
+    101078: Eagle_2018:polySurface639 1
+    101080: Eagle_2018:polySurface64
+    101082: Eagle_2018:polySurface64 1
+    101084: Eagle_2018:polySurface640
+    101086: Eagle_2018:polySurface640 1
+    101088: Eagle_2018:polySurface641
+    101090: Eagle_2018:polySurface641 1
+    101092: Eagle_2018:polySurface642
+    101094: Eagle_2018:polySurface642 1
+    101096: Eagle_2018:polySurface643
+    101098: Eagle_2018:polySurface643 1
+    101100: Eagle_2018:polySurface644
+    101102: Eagle_2018:polySurface644 1
+    101104: Eagle_2018:polySurface645
+    101106: Eagle_2018:polySurface645 1
+    101108: Eagle_2018:polySurface646
+    101110: Eagle_2018:polySurface646 1
+    101112: Eagle_2018:polySurface66
+    101114: Eagle_2018:polySurface66 1
+    101116: Eagle_2018:polySurface67
+    101118: Eagle_2018:polySurface67 1
+    101120: Eagle_2018:polySurface68
+    101122: Eagle_2018:polySurface68 1
+    101124: Eagle_2018:polySurface69
+    101126: Eagle_2018:polySurface69 1
+    101128: Eagle_2018:polySurface70
+    101130: Eagle_2018:polySurface70 1
+    101132: Eagle_2018:polySurface71
+    101134: Eagle_2018:polySurface71 1
+    101136: Eagle_2018:polySurface72
+    101138: Eagle_2018:polySurface72 1
+    101140: Eagle_2018:polySurface73
+    101142: Eagle_2018:polySurface73 1
+    101144: Eagle_2018:polySurface74
+    101146: Eagle_2018:polySurface74 1
+    101148: Eagle_2018:polySurface75
+    101150: Eagle_2018:polySurface75 1
+    101152: Eagle_2018:polySurface76
+    101154: Eagle_2018:polySurface76 1
+    101156: Eagle_2018:polySurface77
+    101158: Eagle_2018:polySurface77 1
+    101160: Eagle_2018:polySurface78
+    101162: Eagle_2018:polySurface78 1
+    101164: Eagle_2018:polySurface79
+    101166: Eagle_2018:polySurface79 1
+    101168: Eagle_2018:polySurface80
+    101170: Eagle_2018:polySurface80 1
+    101172: Eagle_2018:polySurface81
+    101174: Eagle_2018:polySurface81 1
+    101176: Eagle_2018:polySurface82
+    101178: Eagle_2018:polySurface82 1
+    101180: Eagle_2018:polySurface83
+    101182: Eagle_2018:polySurface83 1
+    101184: Eagle_2018:polySurface84
+    101186: Eagle_2018:polySurface84 1
+    101188: Eagle_2018:polySurface85
+    101190: Eagle_2018:polySurface85 1
+    101192: Eagle_2018:polySurface86
+    101194: Eagle_2018:polySurface86 1
+    101196: Eagle_2018:polySurface87
+    101198: Eagle_2018:polySurface87 1
+    101200: Eagle_2018:polySurface88
+    101202: Eagle_2018:polySurface88 1
+    101204: Eagle_2018:polySurface89
+    101206: Eagle_2018:polySurface89 1
+    101208: Eagle_2018:polySurface90
+    101210: Eagle_2018:polySurface90 1
+    101212: Eagle_2018:polySurface94
+    101214: Eagle_2018:polySurface94 1
+    101216: Eagle_2018:polySurface95
+    101218: Eagle_2018:polySurface95 1
+    101220: Eagle_2018:polySurface96
+    101222: Eagle_2018:polySurface96 1
+    101224: Eagle_2018:polySurface97
+    101226: Eagle_2018:polySurface97 1
+    101228: Eagle_2018:polySurface98
+    101230: Eagle_2018:polySurface98 1
+    101232: Eagle_2018:polySurface99
+    101234: Eagle_2018:polySurface99 1
+    101236: Eagle_2018:Primary_01_Feathers
+    101238: Eagle_2018:Primary_02_Feathers
+    101240: Eagle_2018:Primary_03_Feathers
+    101242: Eagle_2018:Primary_Feathers01_01
+    101244: Eagle_2018:Primary_Feathers01_01 1
+    101246: Eagle_2018:Primary_Feathers01_02
+    101248: Eagle_2018:Primary_Feathers01_02 1
+    101250: Eagle_2018:Primary_Feathers01_03
+    101252: Eagle_2018:Primary_Feathers01_03 1
+    101254: Eagle_2018:Primary_Feathers01_04
+    101256: Eagle_2018:Primary_Feathers01_04 1
+    101258: Eagle_2018:Primary_Feathers01_05
+    101260: Eagle_2018:Primary_Feathers01_05 1
+    101262: Eagle_2018:Primary_Feathers01_06
+    101264: Eagle_2018:Primary_Feathers01_06 1
+    101266: Eagle_2018:Primary_Feathers01_07
+    101268: Eagle_2018:Primary_Feathers01_07 1
+    101270: Eagle_2018:Primary_Feathers01_08
+    101272: Eagle_2018:Primary_Feathers01_08 1
+    101274: Eagle_2018:Primary_Feathers01_Alula_grp
+    101276: Eagle_2018:Primary_Feathers01_Alula_grp 1
+    101278: Eagle_2018:Primary_Feathers02_01
+    101280: Eagle_2018:Primary_Feathers02_01 1
+    101282: Eagle_2018:Primary_Feathers02_02
+    101284: Eagle_2018:Primary_Feathers02_02 1
+    101286: Eagle_2018:Primary_Feathers02_03
+    101288: Eagle_2018:Primary_Feathers02_03 1
+    101290: Eagle_2018:Primary_Feathers02_04
+    101292: Eagle_2018:Primary_Feathers02_04 1
+    101294: Eagle_2018:Primary_Feathers02_05
+    101296: Eagle_2018:Primary_Feathers02_05 1
+    101298: Eagle_2018:Primary_Feathers02_06
+    101300: Eagle_2018:Primary_Feathers02_06 1
+    101302: Eagle_2018:Primary_Feathers02_07
+    101304: Eagle_2018:Primary_Feathers02_07 1
+    101306: Eagle_2018:Primary_Feathers02_08
+    101308: Eagle_2018:Primary_Feathers02_08 1
+    101310: Eagle_2018:Primary_Feathers02_09
+    101312: Eagle_2018:Primary_Feathers02_09 1
+    101314: Eagle_2018:Primary_Feathers02_grp
+    101316: Eagle_2018:Primary_Feathers02_grp 1
+    101318: Eagle_2018:Primary_Feathers03_01
+    101320: Eagle_2018:Primary_Feathers03_01 1
+    101322: Eagle_2018:Primary_Feathers03_02
+    101324: Eagle_2018:Primary_Feathers03_02 1
+    101326: Eagle_2018:Primary_Feathers03_03
+    101328: Eagle_2018:Primary_Feathers03_03 1
+    101330: Eagle_2018:Primary_Feathers03_04
+    101332: Eagle_2018:Primary_Feathers03_04 1
+    101334: Eagle_2018:Primary_Feathers03_05
+    101336: Eagle_2018:Primary_Feathers03_05 1
+    101338: Eagle_2018:Primary_Feathers03_06
+    101340: Eagle_2018:Primary_Feathers03_06 1
+    101342: Eagle_2018:Primary_Feathers03_07
+    101344: Eagle_2018:Primary_Feathers03_07 1
+    101346: Eagle_2018:Primary_Feathers03_grp
+    101348: Eagle_2018:Primary_Feathers03_grp 1
+    101350: Eagle_2018:Primary_Feathers_Final_grp
+    101352: Eagle_2018:Primary_Feathers_Final_grp 1
+    101354: Eagle_2018:Primary_Feathers_Grp
+    101356: Eagle_2018:Primary_Feathers_Grp 1
+    101358: Eagle_2018:PRimary_Tip_Feathers
+    101360: Eagle_2018:PRimary_Tip_Feathers 1
+    101362: Eagle_2018:R_01_Claw01
+    101364: Eagle_2018:R_01_Claw01_Clench
+    101366: Eagle_2018:R_01_Claw01_Grp
+    101368: Eagle_2018:R_01_Claw01_Grp1
+    101370: Eagle_2018:R_01_Claw01_Grp2
+    101372: Eagle_2018:R_01_Claw01_Relax
+    101374: Eagle_2018:R_01_Claw02
+    101376: Eagle_2018:R_01_Claw02_Clench
+    101378: Eagle_2018:R_01_Claw02_Relax
+    101380: Eagle_2018:R_01_Claw03
+    101382: Eagle_2018:R_01_Claw03_Clench
+    101384: Eagle_2018:R_01_Claw03_Relax
+    101386: Eagle_2018:R_02_Claw01
+    101388: Eagle_2018:R_02_Claw01_Clench
+    101390: Eagle_2018:R_02_Claw01_Grp
+    101392: Eagle_2018:R_02_Claw01_Grp1
+    101394: Eagle_2018:R_02_Claw01_Grp2
+    101396: Eagle_2018:R_02_Claw01_Relax
+    101398: Eagle_2018:R_02_Claw02
+    101400: Eagle_2018:R_02_Claw02_Clench
+    101402: Eagle_2018:R_02_Claw02_Relax
+    101404: Eagle_2018:R_02_Claw03
+    101406: Eagle_2018:R_02_Claw03_Clench
+    101408: Eagle_2018:R_02_Claw03_Relax
+    101410: Eagle_2018:R_03_Claw01
+    101412: Eagle_2018:R_03_Claw01_Clench
+    101414: Eagle_2018:R_03_Claw01_Grp
+    101416: Eagle_2018:R_03_Claw01_Grp1
+    101418: Eagle_2018:R_03_Claw01_Grp2
+    101420: Eagle_2018:R_03_Claw01_Relax
+    101422: Eagle_2018:R_03_Claw02
+    101424: Eagle_2018:R_03_Claw02_Clench
+    101426: Eagle_2018:R_03_Claw02_Relax
+    101428: Eagle_2018:R_03_Claw03
+    101430: Eagle_2018:R_03_Claw03_Clench
+    101432: Eagle_2018:R_03_Claw03_Relax
+    101434: Eagle_2018:R_Ankle_JNT
+    101436: Eagle_2018:R_Ball_JNT
+    101438: Eagle_2018:R_Bend_Deformers
+    101440: Eagle_2018:R_BlendShape_Feathers
+    101442: Eagle_2018:R_Clavicle_JNT
+    101444: Eagle_2018:R_Claw01_01_JNT
+    101446: Eagle_2018:R_Claw01_01_JNT 1
+    101448: Eagle_2018:R_Claw01_02_JNT
+    101450: Eagle_2018:R_Claw01_02_JNT 1
+    101452: Eagle_2018:R_Claw01_03_JNT
+    101454: Eagle_2018:R_Claw01_03_JNT 1
+    101456: Eagle_2018:R_Claw01_04_JNT
+    101458: Eagle_2018:R_Claw01_04_JNT 1
+    101460: Eagle_2018:R_Claw02_01_JNT
+    101462: Eagle_2018:R_Claw02_01_JNT 1
+    101464: Eagle_2018:R_Claw02_02_JNT
+    101466: Eagle_2018:R_Claw02_02_JNT 1
+    101468: Eagle_2018:R_Claw02_03_JNT
+    101470: Eagle_2018:R_Claw02_03_JNT 1
+    101472: Eagle_2018:R_Claw02_04_JNT
+    101474: Eagle_2018:R_Claw02_04_JNT 1
+    101476: Eagle_2018:R_Claw02_05_JNT
+    101478: Eagle_2018:R_Claw02_05_JNT 1
+    101480: Eagle_2018:R_Claw03_01_JNT
+    101482: Eagle_2018:R_Claw03_01_JNT 1
+    101484: Eagle_2018:R_Claw03_02_JNT
+    101486: Eagle_2018:R_Claw03_02_JNT 1
+    101488: Eagle_2018:R_Claw03_03_JNT
+    101490: Eagle_2018:R_Claw03_03_JNT 1
+    101492: Eagle_2018:R_Claw03_04_JNT
+    101494: Eagle_2018:R_Claw03_04_JNT 1
+    101496: Eagle_2018:R_Claw04_01_JNT
+    101498: Eagle_2018:R_Claw04_01_JNT 1
+    101500: Eagle_2018:R_Claw04_02_JNT
+    101502: Eagle_2018:R_Claw04_02_JNT 1
+    101504: Eagle_2018:R_Claw04_03_JNT
+    101506: Eagle_2018:R_Claw04_03_JNT 1
+    101508: Eagle_2018:R_Claw04_04_JNT
+    101510: Eagle_2018:R_Claw04_04_JNT 1
+    101512: Eagle_2018:R_Eye
+    101514: Eagle_2018:R_Eye_Ctrl
+    101516: Eagle_2018:R_Feathers
+    101518: Eagle_2018:R_Feathers_Grp
+    101520: Eagle_2018:r_Fk_leg_ctrl
+    101522: Eagle_2018:r_Fk_leg_ctrl_grp
+    101524: Eagle_2018:R_Hip_JNT
+    101526: Eagle_2018:R_Knee_JNT
+    101528: Eagle_2018:r_leg_ankle_ctrl
+    101530: Eagle_2018:r_leg_ankle_ctrl_grp
+    101532: Eagle_2018:R_Leg_AnkleikHandle
+    101534: Eagle_2018:R_Leg_Ctrl
+    101536: Eagle_2018:r_leg_extra_ctrls
+    101538: Eagle_2018:R_Leg_Grp
+    101540: Eagle_2018:R_Leg_Heel
+    101542: Eagle_2018:R_Leg_Heel_Lift
+    101544: Eagle_2018:R_Leg_Heel_Pivot
+    101546: Eagle_2018:R_Leg_IK_Handle
+    101548: Eagle_2018:R_Leg_ikHandle
+    101550: Eagle_2018:r_leg_knee_ctrl
+    101552: Eagle_2018:r_leg_knee_ctrl_grp
+    101554: Eagle_2018:r_leg_Pevis_ctr_grp
+    101556: Eagle_2018:r_leg_Pevisi_ctr
+    101558: Eagle_2018:R_Leg_PoleVector_Ctrl
+    101560: Eagle_2018:R_Leg_Toe_ikHandle
+    101562: Eagle_2018:R_Leg_Toe_JNT
+    101564: Eagle_2018:R_Leg_Xtra_Ctrl
+    101566: Eagle_2018:R_Mid_Claw01
+    101568: Eagle_2018:R_Mid_Claw01_Clench
+    101570: Eagle_2018:R_Mid_Claw01_Grp
+    101572: Eagle_2018:R_Mid_Claw01_Relax
+    101574: Eagle_2018:R_Mid_Claw02
+    101576: Eagle_2018:R_Mid_Claw02_Clench
+    101578: Eagle_2018:R_Mid_Claw02_Grp
+    101580: Eagle_2018:R_Mid_Claw02_Relax
+    101582: Eagle_2018:R_Mid_Claw03
+    101584: Eagle_2018:R_Mid_Claw03_Clench
+    101586: Eagle_2018:R_Mid_Claw03_Grp
+    101588: Eagle_2018:R_Mid_Claw03_Relax
+    101590: Eagle_2018:R_Mid_Claw04
+    101592: Eagle_2018:R_Mid_Claw04_Clench
+    101594: Eagle_2018:R_Mid_Claw04_Grp
+    101596: Eagle_2018:R_Mid_Claw04_Relax
+    101598: Eagle_2018:R_Pelvis_JNT
+    101600: Eagle_2018:R_Primary01_01
+    101602: Eagle_2018:R_Primary01_01_Grp
+    101604: Eagle_2018:R_Primary01_02
+    101606: Eagle_2018:R_Primary01_02_Grp
+    101608: Eagle_2018:R_Primary01_03
+    101610: Eagle_2018:R_Primary01_03_grp
+    101612: Eagle_2018:R_Primary01_04
+    101614: Eagle_2018:R_Primary01_04_grp
+    101616: Eagle_2018:R_Primary01_05
+    101618: Eagle_2018:R_Primary01_05_grp
+    101620: Eagle_2018:R_Primary01_06_Grp
+    101622: Eagle_2018:R_Primary01_07_Grp
+    101624: Eagle_2018:R_Primary01_08_Grp
+    101626: Eagle_2018:R_Primary01_09_Grp
+    101628: Eagle_2018:R_Primary01_10_Grp
+    101630: Eagle_2018:R_Primary01_11_Grp
+    101632: Eagle_2018:R_Primary01_12_Grp
+    101634: Eagle_2018:R_Primary01_13_Grp
+    101636: Eagle_2018:R_Primary02_01
+    101638: Eagle_2018:R_Primary02_01_Grp
+    101640: Eagle_2018:R_Primary02_02
+    101642: Eagle_2018:R_Primary02_02_Grp
+    101644: Eagle_2018:R_Primary02_03
+    101646: Eagle_2018:R_Primary02_03_Grp
+    101648: Eagle_2018:R_Primary02_04
+    101650: Eagle_2018:R_Primary02_04_Grp
+    101652: Eagle_2018:R_Primary02_05
+    101654: Eagle_2018:R_Primary02_05_Grp
+    101656: Eagle_2018:R_Primary02_06
+    101658: Eagle_2018:R_Primary02_06_Grp
+    101660: Eagle_2018:R_Primary02_07
+    101662: Eagle_2018:R_Primary02_07_Grp
+    101664: Eagle_2018:R_Primary02_08
+    101666: Eagle_2018:R_Primary02_08_Grp
+    101668: Eagle_2018:R_Primary02_09_Grp
+    101670: Eagle_2018:R_Primary02_10_Grp
+    101672: Eagle_2018:R_Primary02_11_Grp
+    101674: Eagle_2018:R_Primary02_12_Grp
+    101676: Eagle_2018:R_Primary02_14_Grp
+    101678: Eagle_2018:R_Primary02_15_Grp
+    101680: Eagle_2018:R_Primary02_16_Grp
+    101682: Eagle_2018:R_Primary02_17_Grp
+    101684: Eagle_2018:R_Primary03_01
+    101686: Eagle_2018:R_Primary03_010
+    101688: Eagle_2018:R_Primary03_01_Grp
+    101690: Eagle_2018:R_Primary03_02
+    101692: Eagle_2018:R_Primary03_02_Grp
+    101694: Eagle_2018:R_Primary03_03
+    101696: Eagle_2018:R_Primary03_03_Grp
+    101698: Eagle_2018:R_Primary03_04
+    101700: Eagle_2018:R_Primary03_04_Grp
+    101702: Eagle_2018:R_Primary03_05
+    101704: Eagle_2018:R_Primary03_05_Grp
+    101706: Eagle_2018:R_Primary03_06
+    101708: Eagle_2018:R_Primary03_06_Grp
+    101710: Eagle_2018:R_Primary03_07
+    101712: Eagle_2018:R_Primary03_07_Grp
+    101714: Eagle_2018:R_Primary03_08
+    101716: Eagle_2018:R_Primary03_08_Grp
+    101718: Eagle_2018:R_Primary03_09
+    101720: Eagle_2018:R_Primary03_09_Grp
+    101722: Eagle_2018:R_Primary03_10_Grp
+    101724: Eagle_2018:R_Primary03_11_Grp
+    101726: Eagle_2018:R_Primary03_12_Grp
+    101728: Eagle_2018:R_Primary03_13_Grp
+    101730: Eagle_2018:R_Primary03_14_Grp
+    101732: Eagle_2018:R_Primary03_15_Grp
+    101734: Eagle_2018:R_Primary03_16_Grp
+    101736: Eagle_2018:R_Primary03_17_Grp
+    101738: Eagle_2018:R_Primary_01_Feather_Ctrl
+    101740: Eagle_2018:R_Primary_01_Feather_Ctrl 1
+    101742: Eagle_2018:R_Primary_01_Feather_Ctrl 2
+    101744: Eagle_2018:R_Primary_01_Feather_Fold
+    101746: Eagle_2018:R_Primary_01_Feather_Fold 1
+    101748: Eagle_2018:R_Primary_01_Feather_Fold 2
+    101750: Eagle_2018:R_Primary_01_Feather_Grp
+    101752: Eagle_2018:R_Primary_01_Feather_Grp01
+    101754: Eagle_2018:R_Primary_01_Feather_Grp02
+    101756: Eagle_2018:R_Primary_01_Feather_Grp03
+    101758: Eagle_2018:R_Primary_02_Feather_Ctrl
+    101760: Eagle_2018:R_Primary_02_Feather_Ctrl 1
+    101762: Eagle_2018:R_Primary_02_Feather_Ctrl 2
+    101764: Eagle_2018:R_Primary_02_Feather_Ctrl_Grp
+    101766: Eagle_2018:R_Primary_02_Feather_Ctrl_Grp01
+    101768: Eagle_2018:R_Primary_02_Feather_Ctrl_Grp02
+    101770: Eagle_2018:R_Primary_02_Feather_Ctrl_Grp03
+    101772: Eagle_2018:R_Primary_02_Feather_Fold_grp
+    101774: Eagle_2018:R_Primary_02_Feather_Fold_grp 1
+    101776: Eagle_2018:R_Primary_02_Feather_Fold_grp 2
+    101778: Eagle_2018:R_Primary_Ctrl
+    101780: Eagle_2018:R_Primary_Ctrl_Fold_Grp
+    101782: Eagle_2018:R_Primary_Ctrl_Grp
+    101784: Eagle_2018:R_Primary_Indiv_Feather_Ctrl1
+    101786: Eagle_2018:R_Primary_Indiv_Feather_Ctrl10
+    101788: Eagle_2018:R_Primary_Indiv_Feather_Ctrl12
+    101790: Eagle_2018:R_Primary_Indiv_Feather_Ctrl17
+    101792: Eagle_2018:R_Primary_Indiv_Feather_Ctrl18
+    101794: Eagle_2018:R_Primary_Indiv_Feather_Ctrl19
+    101796: Eagle_2018:R_Primary_Indiv_Feather_Ctrl20
+    101798: Eagle_2018:R_Primary_Indiv_Feather_Ctrl3
+    101800: Eagle_2018:R_Primary_Indiv_Feather_Ctrl5
+    101802: Eagle_2018:R_Primary_Indiv_Feather_Ctrl8
+    101804: Eagle_2018:R_Primary_nd_Secondary_Mid_Ctrl
+    101806: Eagle_2018:R_Primary_nd_Secondary_Mid_Ctrl_Fold_Grp
+    101808: Eagle_2018:R_Primary_nd_Secondary_Mid_Ctrl_Grp
+    101810: Eagle_2018:R_Primarys02_13_Grp
+    101812: Eagle_2018:R_Secondary_Ctrl
+    101814: Eagle_2018:R_Secondary_Ctrl_Fold_Grp
+    101816: Eagle_2018:R_Secondary_Ctrl_Grp
+    101818: Eagle_2018:R_Secondary_Feather_Ctrl
+    101820: Eagle_2018:R_Secondary_Feather_Ctrl 1
+    101822: Eagle_2018:R_Secondary_Feather_Ctrl 2
+    101824: Eagle_2018:R_Secondary_Feather_Ctrl_Grp
+    101826: Eagle_2018:R_Secondary_Feather_Ctrl_Grp01
+    101828: Eagle_2018:R_Secondary_Feather_Ctrl_Grp02
+    101830: Eagle_2018:R_Secondary_Feather_Ctrl_Grp03
+    101832: Eagle_2018:R_Secondary_Feather_Fold_Grp
+    101834: Eagle_2018:R_Secondary_Feather_Fold_Grp 1
+    101836: Eagle_2018:R_Secondary_Feather_Fold_Grp 2
+    101838: Eagle_2018:R_Tail_feather_Ctrl
+    101840: Eagle_2018:R_Tail_feather_Ctrl_grp
+    101842: Eagle_2018:R_Tail_feather_Relax_Ctrl_grp
+    101844: Eagle_2018:R_Tertial_Ctrl
+    101846: Eagle_2018:R_Tertial_Ctrl_Fold_Grp
+    101848: Eagle_2018:R_Tertial_Ctrl_Grp
+    101850: Eagle_2018:R_Tertial_Feather_Ctrl
+    101852: Eagle_2018:R_Tertial_Feather_Ctrl 1
+    101854: Eagle_2018:R_Tertial_Feather_Ctrl 2
+    101856: Eagle_2018:R_Tertial_Feather_Ctrl_Grp
+    101858: Eagle_2018:R_Tertial_Feather_Ctrl_Grp01
+    101860: Eagle_2018:R_Tertial_Feather_Ctrl_Grp02
+    101862: Eagle_2018:R_Tertial_Feather_Ctrl_Grp03
+    101864: Eagle_2018:R_Tertial_Feather_Fold_Grp
+    101866: Eagle_2018:R_Tertial_Feather_Fold_Grp 1
+    101868: Eagle_2018:R_Tertial_Feather_Fold_Grp 2
+    101870: Eagle_2018:R_Wing_Clavicle_Ctrl
+    101872: Eagle_2018:R_Wing_Clavicle_Ctrl_Grp
+    101874: Eagle_2018:R_Wing_Ctrl_Groups
+    101876: Eagle_2018:R_Wing_Elbow_Ctrl
+    101878: Eagle_2018:R_Wing_Elbow_Fold
+    101880: Eagle_2018:R_Wing_Elbow_Fold 1
+    101882: Eagle_2018:R_Wing_Elbow_JNT
+    101884: Eagle_2018:R_Wing_IK_Ctrl
+    101886: Eagle_2018:R_Wing_ikHandle
+    101888: Eagle_2018:R_Wing_Palm_Fold
+    101890: Eagle_2018:R_Wing_Palm_JNT
+    101892: Eagle_2018:R_Wing_Palm_Xtra_Rotate
+    101894: Eagle_2018:R_Wing_Palm_Xtra_Rotate_Grp
+    101896: Eagle_2018:R_Wing_Pole_Vector_Ctrl
+    101898: Eagle_2018:R_Wing_Shoulder_Ctrl
+    101900: Eagle_2018:R_Wing_Shoulder_Fold
+    101902: Eagle_2018:R_Wing_Shoulder_Fold 1
+    101904: Eagle_2018:R_Wing_Shoulder_JNT
+    101906: Eagle_2018:R_Wing_Wrist_Ctrl
+    101908: Eagle_2018:R_Wing_Wrist_Fold
+    101910: Eagle_2018:R_Wing_Wrist_Fold 1
+    101912: Eagle_2018:R_Wing_Wrist_JNT
+    101914: Eagle_2018:R_Wing_Xtra_Cntrls
+    101916: Eagle_2018:R_Wring_Xtra_Rotate_Palm_JNT
+    101918: Eagle_2018:Root_Ctrl
+    101920: Eagle_2018:Root_JNT
+    101922: Eagle_2018:Secondary_Feathers01_010
+    101924: Eagle_2018:Secondary_Feathers01_010 1
+    101926: Eagle_2018:Secondary_Feathers01_010_Grp
+    101928: Eagle_2018:Secondary_Feathers01_010_Grp 1
+    101930: Eagle_2018:Secondary_Feathers01_011
+    101932: Eagle_2018:Secondary_Feathers01_011 1
+    101934: Eagle_2018:Secondary_Feathers01_011_Grp
+    101936: Eagle_2018:Secondary_Feathers01_011_Grp 1
+    101938: Eagle_2018:Secondary_Feathers01_012
+    101940: Eagle_2018:Secondary_Feathers01_012 1
+    101942: Eagle_2018:Secondary_Feathers01_012_Grp
+    101944: Eagle_2018:Secondary_Feathers01_012_Grp 1
+    101946: Eagle_2018:Secondary_Feathers01_013
+    101948: Eagle_2018:Secondary_Feathers01_013 1
+    101950: Eagle_2018:Secondary_Feathers01_013_Grp
+    101952: Eagle_2018:Secondary_Feathers01_013_Grp 1
+    101954: Eagle_2018:Secondary_Feathers01_014
+    101956: Eagle_2018:Secondary_Feathers01_014 1
+    101958: Eagle_2018:Secondary_Feathers01_014_Grp
+    101960: Eagle_2018:Secondary_Feathers01_014_Grp 1
+    101962: Eagle_2018:Secondary_Feathers01_015
+    101964: Eagle_2018:Secondary_Feathers01_015 1
+    101966: Eagle_2018:Secondary_Feathers01_015_Grp
+    101968: Eagle_2018:Secondary_Feathers01_015_Grp 1
+    101970: Eagle_2018:Secondary_Feathers01_016
+    101972: Eagle_2018:Secondary_Feathers01_016 1
+    101974: Eagle_2018:Secondary_Feathers01_016_Grp
+    101976: Eagle_2018:Secondary_Feathers01_016_Grp 1
+    101978: Eagle_2018:Secondary_Feathers01_017
+    101980: Eagle_2018:Secondary_Feathers01_017 1
+    101982: Eagle_2018:Secondary_Feathers01_017_Grp
+    101984: Eagle_2018:Secondary_Feathers01_017_Grp 1
+    101986: Eagle_2018:Secondary_Feathers01_018
+    101988: Eagle_2018:Secondary_Feathers01_018 1
+    101990: Eagle_2018:Secondary_Feathers01_018_Grp
+    101992: Eagle_2018:Secondary_Feathers01_018_Grp 1
+    101994: Eagle_2018:Secondary_Feathers01_09
+    101996: Eagle_2018:Secondary_Feathers01_09 1
+    101998: Eagle_2018:Secondary_Feathers01_09_Grp
+    102000: Eagle_2018:Secondary_Feathers01_09_Grp 1
+    102002: Eagle_2018:Secondary_Feathers01_Grp
+    102004: Eagle_2018:Secondary_Feathers01_Grp 1
+    102006: Eagle_2018:Secondary_Feathers02_010
+    102008: Eagle_2018:Secondary_Feathers02_010 1
+    102010: Eagle_2018:Secondary_Feathers02_010_Grp
+    102012: Eagle_2018:Secondary_Feathers02_010_Grp 1
+    102014: Eagle_2018:Secondary_Feathers02_011
+    102016: Eagle_2018:Secondary_Feathers02_011 1
+    102018: Eagle_2018:Secondary_Feathers02_011_Grp
+    102020: Eagle_2018:Secondary_Feathers02_011_Grp 1
+    102022: Eagle_2018:Secondary_Feathers02_012
+    102024: Eagle_2018:Secondary_Feathers02_012 1
+    102026: Eagle_2018:Secondary_Feathers02_012_Grp
+    102028: Eagle_2018:Secondary_Feathers02_012_Grp 1
+    102030: Eagle_2018:Secondary_Feathers02_013
+    102032: Eagle_2018:Secondary_Feathers02_013 1
+    102034: Eagle_2018:Secondary_Feathers02_013_Grp
+    102036: Eagle_2018:Secondary_Feathers02_013_Grp 1
+    102038: Eagle_2018:Secondary_Feathers02_014
+    102040: Eagle_2018:Secondary_Feathers02_014 1
+    102042: Eagle_2018:Secondary_Feathers02_014_Grp
+    102044: Eagle_2018:Secondary_Feathers02_014_Grp 1
+    102046: Eagle_2018:Secondary_Feathers02_015
+    102048: Eagle_2018:Secondary_Feathers02_015 1
+    102050: Eagle_2018:Secondary_Feathers02_015_Grp
+    102052: Eagle_2018:Secondary_Feathers02_015_Grp 1
+    102054: Eagle_2018:Secondary_Feathers02_016
+    102056: Eagle_2018:Secondary_Feathers02_016 1
+    102058: Eagle_2018:Secondary_Feathers02_016_Grp
+    102060: Eagle_2018:Secondary_Feathers02_016_Grp 1
+    102062: Eagle_2018:Secondary_Feathers02_017
+    102064: Eagle_2018:Secondary_Feathers02_017 1
+    102066: Eagle_2018:Secondary_Feathers02_017_Grp
+    102068: Eagle_2018:Secondary_Feathers02_017_Grp 1
+    102070: Eagle_2018:Secondary_Feathers02_018
+    102072: Eagle_2018:Secondary_Feathers02_018 1
+    102074: Eagle_2018:Secondary_Feathers02_018_Grp
+    102076: Eagle_2018:Secondary_Feathers02_018_Grp 1
+    102078: Eagle_2018:Secondary_Feathers02_Grp
+    102080: Eagle_2018:Secondary_Feathers02_Grp 1
+    102082: Eagle_2018:Secondary_Feathers03_010
+    102084: Eagle_2018:Secondary_Feathers03_010 1
+    102086: Eagle_2018:Secondary_Feathers03_010_Grp
+    102088: Eagle_2018:Secondary_Feathers03_010_Grp 1
+    102090: Eagle_2018:Secondary_Feathers03_011
+    102092: Eagle_2018:Secondary_Feathers03_011 1
+    102094: Eagle_2018:Secondary_Feathers03_011_Grp
+    102096: Eagle_2018:Secondary_Feathers03_011_Grp 1
+    102098: Eagle_2018:Secondary_Feathers03_012
+    102100: Eagle_2018:Secondary_Feathers03_012 1
+    102102: Eagle_2018:Secondary_Feathers03_012_Grp
+    102104: Eagle_2018:Secondary_Feathers03_012_Grp 1
+    102106: Eagle_2018:Secondary_Feathers03_013
+    102108: Eagle_2018:Secondary_Feathers03_013 1
+    102110: Eagle_2018:Secondary_Feathers03_013_Grp
+    102112: Eagle_2018:Secondary_Feathers03_013_Grp 1
+    102114: Eagle_2018:Secondary_Feathers03_014
+    102116: Eagle_2018:Secondary_Feathers03_014 1
+    102118: Eagle_2018:Secondary_Feathers03_014_Grp
+    102120: Eagle_2018:Secondary_Feathers03_014_Grp 1
+    102122: Eagle_2018:Secondary_Feathers03_015
+    102124: Eagle_2018:Secondary_Feathers03_015 1
+    102126: Eagle_2018:Secondary_Feathers03_015_Grp
+    102128: Eagle_2018:Secondary_Feathers03_015_Grp 1
+    102130: Eagle_2018:Secondary_Feathers03_016
+    102132: Eagle_2018:Secondary_Feathers03_016 1
+    102134: Eagle_2018:Secondary_Feathers03_016_Grp
+    102136: Eagle_2018:Secondary_Feathers03_016_Grp 1
+    102138: Eagle_2018:Secondary_Feathers03_08
+    102140: Eagle_2018:Secondary_Feathers03_08 1
+    102142: Eagle_2018:Secondary_Feathers03_08_Grp
+    102144: Eagle_2018:Secondary_Feathers03_08_Grp 1
+    102146: Eagle_2018:Secondary_Feathers03_09
+    102148: Eagle_2018:Secondary_Feathers03_09 1
+    102150: Eagle_2018:Secondary_Feathers03_09_Grp
+    102152: Eagle_2018:Secondary_Feathers03_09_Grp 1
+    102154: Eagle_2018:Secondary_Feathers03_Grp
+    102156: Eagle_2018:Secondary_Feathers03_Grp 1
+    102158: Eagle_2018:Secondary_Feathers_Grp
+    102160: Eagle_2018:Secondary_Feathers_Grp 1
+    102162: Eagle_2018:Skull_JNT
+    102164: Eagle_2018:Spine01_JNT
+    102166: Eagle_2018:Spine02_JNT
+    102168: Eagle_2018:Spine03_JNT
+    102170: Eagle_2018:Spine_01_Ctrl
+    102172: Eagle_2018:Spine_01_Follow_Grp
+    102174: Eagle_2018:Spine_02_Ctrl
+    102176: Eagle_2018:Spine_ikHandle
+    102178: Eagle_2018:Tail02_JNT
+    102180: Eagle_2018:Tail03_JNT
+    102182: Eagle_2018:Tail_Ctrl
+    102184: Eagle_2018:Tail_Ctrl_01
+    102186: Eagle_2018:Tail_Ctrl_02
+    102188: Eagle_2018:Tail_Feather_01
+    102190: Eagle_2018:Tail_Feather_010
+    102192: Eagle_2018:Tail_Feather_010_Grp
+    102194: Eagle_2018:Tail_Feather_011
+    102196: Eagle_2018:Tail_Feather_011_Grp
+    102198: Eagle_2018:Tail_Feather_012
+    102200: Eagle_2018:Tail_Feather_012_Grp
+    102202: Eagle_2018:Tail_Feather_01_Grp
+    102204: Eagle_2018:Tail_Feather_02
+    102206: Eagle_2018:Tail_Feather_02_Grp
+    102208: Eagle_2018:Tail_Feather_03
+    102210: Eagle_2018:Tail_Feather_03_Grp
+    102212: Eagle_2018:Tail_Feather_04
+    102214: Eagle_2018:Tail_Feather_04_Grp
+    102216: Eagle_2018:Tail_Feather_05
+    102218: Eagle_2018:Tail_Feather_05_Grp
+    102220: Eagle_2018:Tail_Feather_06
+    102222: Eagle_2018:Tail_Feather_06_Grp
+    102224: Eagle_2018:Tail_Feather_07
+    102226: Eagle_2018:Tail_Feather_07_Grp
+    102228: Eagle_2018:Tail_Feather_08
+    102230: Eagle_2018:Tail_Feather_08_Grp
+    102232: Eagle_2018:Tail_Feather_09
+    102234: Eagle_2018:Tail_Feather_09_Grp
+    102236: Eagle_2018:Tail_Feathers
+    102238: Eagle_2018:Tertial_Feathers01_01
+    102240: Eagle_2018:Tertial_Feathers01_01 1
+    102242: Eagle_2018:Tertial_Feathers01_01_Grp
+    102244: Eagle_2018:Tertial_Feathers01_01_Grp 1
+    102246: Eagle_2018:Tertial_Feathers01_02
+    102248: Eagle_2018:Tertial_Feathers01_02 1
+    102250: Eagle_2018:Tertial_Feathers01_02_Grp
+    102252: Eagle_2018:Tertial_Feathers01_02_Grp 1
+    102254: Eagle_2018:Tertial_Feathers01_03
+    102256: Eagle_2018:Tertial_Feathers01_03 1
+    102258: Eagle_2018:Tertial_Feathers01_03_Grp
+    102260: Eagle_2018:Tertial_Feathers01_03_Grp 1
+    102262: Eagle_2018:Tertial_Feathers01_04
+    102264: Eagle_2018:Tertial_Feathers01_04 1
+    102266: Eagle_2018:Tertial_Feathers01_04_Grp
+    102268: Eagle_2018:Tertial_Feathers01_04_Grp 1
+    102270: Eagle_2018:Tertial_Feathers01_05
+    102272: Eagle_2018:Tertial_Feathers01_05 1
+    102274: Eagle_2018:Tertial_Feathers01_05_Grp
+    102276: Eagle_2018:Tertial_Feathers01_05_Grp 1
+    102278: Eagle_2018:Tertial_Feathers01_06
+    102280: Eagle_2018:Tertial_Feathers01_06 1
+    102282: Eagle_2018:Tertial_Feathers01_06_Grp
+    102284: Eagle_2018:Tertial_Feathers01_06_Grp 1
+    102286: Eagle_2018:Tertial_Feathers01_07
+    102288: Eagle_2018:Tertial_Feathers01_07 1
+    102290: Eagle_2018:Tertial_Feathers01_07_Grp
+    102292: Eagle_2018:Tertial_Feathers01_07_Grp 1
+    102294: Eagle_2018:Tertial_Feathers01_Grp
+    102296: Eagle_2018:Tertial_Feathers01_Grp 1
+    102298: Eagle_2018:Tertial_Feathers02_01
+    102300: Eagle_2018:Tertial_Feathers02_01 1
+    102302: Eagle_2018:Tertial_Feathers02_01_Grp
+    102304: Eagle_2018:Tertial_Feathers02_01_Grp 1
+    102306: Eagle_2018:Tertial_Feathers02_02
+    102308: Eagle_2018:Tertial_Feathers02_02 1
+    102310: Eagle_2018:Tertial_Feathers02_02_Grp
+    102312: Eagle_2018:Tertial_Feathers02_02_Grp 1
+    102314: Eagle_2018:Tertial_Feathers02_03
+    102316: Eagle_2018:Tertial_Feathers02_03 1
+    102318: Eagle_2018:Tertial_Feathers02_03_Grp
+    102320: Eagle_2018:Tertial_Feathers02_03_Grp 1
+    102322: Eagle_2018:Tertial_Feathers02_04
+    102324: Eagle_2018:Tertial_Feathers02_04 1
+    102326: Eagle_2018:Tertial_Feathers02_04_Grp
+    102328: Eagle_2018:Tertial_Feathers02_04_Grp 1
+    102330: Eagle_2018:Tertial_Feathers02_05
+    102332: Eagle_2018:Tertial_Feathers02_05 1
+    102334: Eagle_2018:Tertial_Feathers02_05_Grp
+    102336: Eagle_2018:Tertial_Feathers02_05_Grp 1
+    102338: Eagle_2018:Tertial_Feathers02_Grp
+    102340: Eagle_2018:Tertial_Feathers02_Grp 1
+    102342: Eagle_2018:Tertial_Feathers03_01
+    102344: Eagle_2018:Tertial_Feathers03_01 1
+    102346: Eagle_2018:Tertial_Feathers03_01_Grp
+    102348: Eagle_2018:Tertial_Feathers03_01_Grp 1
+    102350: Eagle_2018:Tertial_Feathers03_02
+    102352: Eagle_2018:Tertial_Feathers03_02 1
+    102354: Eagle_2018:Tertial_Feathers03_02_Grp
+    102356: Eagle_2018:Tertial_Feathers03_02_Grp 1
+    102358: Eagle_2018:Tertial_Feathers03_03
+    102360: Eagle_2018:Tertial_Feathers03_03 1
+    102362: Eagle_2018:Tertial_Feathers03_03_Grp
+    102364: Eagle_2018:Tertial_Feathers03_03_Grp 1
+    102366: Eagle_2018:Tertial_Feathers03_04
+    102368: Eagle_2018:Tertial_Feathers03_04 1
+    102370: Eagle_2018:Tertial_Feathers03_04_Grp
+    102372: Eagle_2018:Tertial_Feathers03_04_Grp 1
+    102374: Eagle_2018:Tertial_Feathers03_05
+    102376: Eagle_2018:Tertial_Feathers03_05 1
+    102378: Eagle_2018:Tertial_Feathers03_05_Grp
+    102380: Eagle_2018:Tertial_Feathers03_05_Grp 1
+    102382: Eagle_2018:Tertial_Feathers03_Grp
+    102384: Eagle_2018:Tertial_Feathers03_Grp 1
+    102386: Eagle_2018:Tertial_Feathers_Grp
+    102388: Eagle_2018:Tertial_Feathers_Grp 1
+    102390: Eagle_2018:Toung
+    102392: Eagle_2018:Toung_Ctrl01
+    102394: Eagle_2018:Toung_Ctrl02
+    102396: Eagle_2018:Toung_Ctrl03
+    102398: Eagle_2018:Toung_Ctrl04
+    102400: Eagle_2018:Toung_Ctrl05
+    102402: Eagle_2018:Toung_Ctrl06
+    102404: Eagle_2018:Toung_Ctrl_Grp_01
+    102406: Eagle_2018:Toung_Ctrl_Grp_02
+    102408: Eagle_2018:Toung_Ctrl_Grp_03
+    102410: Eagle_2018:Toung_Ctrl_Grp_04
+    102412: Eagle_2018:Toung_Ctrl_Grp_05
+    102414: Eagle_2018:Toung_Ctrl_Grp_06
+    102416: Eagle_2018:Toung_Grp
+    102418: Eagle_2018:Toung_ikHandle
+    102420: Eagle_2018:Toung_JNT_01
+    102422: Eagle_2018:Toung_JNT_02
+    102424: Eagle_2018:Toung_JNT_03
+    102426: Eagle_2018:Toung_JNT_04
+    102428: Eagle_2018:Toung_JNT_05
+    102430: Eagle_2018:Toung_JNT_06
+    102432: Eagle_2018:Toung_JNT_07
+    102434: Eagle_2018:Xtras_Grp
+    102436: Eagle_2019:Bald_Eagle
+    102438: Eagle_2019:Chest_Ctrl
+    102440: Eagle_2019:Chest_JNT
+    102442: Eagle_2019:Control_Crvs_Grp
+    102444: Eagle_2019:Global_Cntrl
+    102446: Eagle_2019:Joint_Grp
+    102448: Eagle_2019:R_Clavicle_JNT
+    102450: Eagle_2019:R_Wing_Clavicle_Ctrl
+    102452: Eagle_2019:R_Wing_Clavicle_Ctrl_Grp
+    102454: Eagle_2019:R_Wing_Elbow_Ctrl
+    102456: Eagle_2019:R_Wing_Elbow_Fold
+    102458: Eagle_2019:R_Wing_IK_Ctrl
+    102460: Eagle_2019:R_Wing_Shoulder_Ctrl
+    102462: Eagle_2019:R_Wing_Shoulder_Fold
+    102464: Eagle_2019:R_Wing_Shoulder_JNT
+    102466: Eagle_2019:R_Wing_Wrist_Ctrl
+    102468: Eagle_2019:R_Wing_Wrist_Fold
+    102470: Eagle_2019:Root_Ctrl
+    102472: Eagle_2019:Root_JNT
+    102474: Eagle_2019:Spine01_JNT
+    102476: Eagle_2019:Spine02_JNT
+    102478: Eagle_2019:Spine03_JNT
+    102480: group
+    102482: //RootNode
+    102484: pasted__curve1
+    102486: pCone290
+    102488: pCube7
+    102490: pCube8
+    102492: polySurface1
+    102494: polySurface2
+    102496: polySurface4
+    102498: transform1
+    102500: transform2
+    400000: curve1
+    400002: Eagle_2018:Bald_Eagle
+    400004: Eagle_2018:bend10Handle
+    400006: Eagle_2018:bend11Handle
+    400008: Eagle_2018:bend12Handle
+    400010: Eagle_2018:bend13Handle
+    400012: Eagle_2018:bend14Handle
+    400014: Eagle_2018:bend15Handle
+    400016: Eagle_2018:bend16Handle
+    400018: Eagle_2018:bend18Handle
+    400020: Eagle_2018:bend19Handle
+    400022: Eagle_2018:bend1Handle
+    400024: Eagle_2018:bend20Handle
+    400026: Eagle_2018:bend21Handle
+    400028: Eagle_2018:bend22Handle
+    400030: Eagle_2018:bend23Handle
+    400032: Eagle_2018:bend24Handle
+    400034: Eagle_2018:bend25Handle
+    400036: Eagle_2018:bend26Handle
+    400038: Eagle_2018:bend27Handle
+    400040: Eagle_2018:bend28Handle
+    400042: Eagle_2018:bend29Handle
+    400044: Eagle_2018:bend2Handle
+    400046: Eagle_2018:bend30Handle
+    400048: Eagle_2018:bend31Handle
+    400050: Eagle_2018:bend32Handle
+    400052: Eagle_2018:bend33Handle
+    400054: Eagle_2018:bend34Handle
+    400056: Eagle_2018:bend35Handle
+    400058: Eagle_2018:bend36Handle
+    400060: Eagle_2018:bend37Handle
+    400062: Eagle_2018:bend38Handle
+    400064: Eagle_2018:bend39Handle
+    400066: Eagle_2018:bend3Handle
+    400068: Eagle_2018:bend40Handle
+    400070: Eagle_2018:bend41Handle
+    400072: Eagle_2018:bend42Handle
+    400074: Eagle_2018:bend43Handle
+    400076: Eagle_2018:bend44Handle
+    400078: Eagle_2018:bend45Handle
+    400080: Eagle_2018:bend46Handle
+    400082: Eagle_2018:bend47Handle
+    400084: Eagle_2018:bend48Handle
+    400086: Eagle_2018:bend49Handle
+    400088: Eagle_2018:bend4Handle
+    400090: Eagle_2018:bend50Handle
+    400092: Eagle_2018:bend51Handle
+    400094: Eagle_2018:bend52Handle
+    400096: Eagle_2018:bend53Handle
+    400098: Eagle_2018:bend54Handle
+    400100: Eagle_2018:bend55Handle
+    400102: Eagle_2018:bend56Handle
+    400104: Eagle_2018:bend57Handle
+    400106: Eagle_2018:bend58Handle
+    400108: Eagle_2018:bend59Handle
+    400110: Eagle_2018:bend5Handle
+    400112: Eagle_2018:bend60Handle
+    400114: Eagle_2018:bend61Handle
+    400116: Eagle_2018:bend62Handle
+    400118: Eagle_2018:bend63Handle
+    400120: Eagle_2018:bend6Handle
+    400122: Eagle_2018:bend7Handle
+    400124: Eagle_2018:bend8Handle
+    400126: Eagle_2018:bend9Handle
+    400128: Eagle_2018:Body
+    400130: Eagle_2018:Body 1
+    400132: Eagle_2018:Chest_Ctrl
+    400134: Eagle_2018:Chest_JNT
+    400136: Eagle_2018:cluster10Handle
+    400138: Eagle_2018:cluster1Handle
+    400140: Eagle_2018:cluster2Handle
+    400142: Eagle_2018:cluster3Handle
+    400144: Eagle_2018:cluster4Handle
+    400146: Eagle_2018:cluster5Handle
+    400148: Eagle_2018:cluster6Handle
+    400150: Eagle_2018:cluster7Handle
+    400152: Eagle_2018:cluster8Handle
+    400154: Eagle_2018:cluster9Handle
+    400156: Eagle_2018:Control_Crvs_Grp
+    400158: Eagle_2018:curve1
+    400160: Eagle_2018:curve2
+    400162: Eagle_2018:Deformers_Grp
+    400164: Eagle_2018:Eye_Ctrl
+    400166: Eagle_2018:eye_Ctrl
+    400168: Eagle_2018:Feathers
+    400170: Eagle_2018:Geo_Grp
+    400172: Eagle_2018:Global_Cntrl
+    400174: Eagle_2018:group1
+    400176: Eagle_2018:group1 1
+    400178: Eagle_2018:group10
+    400180: Eagle_2018:group2
+    400182: Eagle_2018:group3
+    400184: Eagle_2018:group4
+    400186: Eagle_2018:group5
+    400188: Eagle_2018:group6
+    400190: Eagle_2018:group7
+    400192: Eagle_2018:group8
+    400194: Eagle_2018:group9
+    400196: Eagle_2018:Head_Ctrl
+    400198: Eagle_2018:Head_Ctrl_Grp
+    400200: Eagle_2018:Head_JNT
+    400202: Eagle_2018:Hip_Ctrl
+    400204: Eagle_2018:Hip_JNT
+    400206: Eagle_2018:IK_Handles_Grp
+    400208: Eagle_2018:Jaw_JNT
+    400210: Eagle_2018:joint1
+    400212: Eagle_2018:Joint_Grp
+    400214: Eagle_2018:L_01_Claw01
+    400216: Eagle_2018:L_01_Claw01_Clench
+    400218: Eagle_2018:L_01_Claw01_Grp
+    400220: Eagle_2018:L_01_Claw01_Grp1
+    400222: Eagle_2018:L_01_Claw01_Grp2
+    400224: Eagle_2018:L_01_Claw01_Relax
+    400226: Eagle_2018:L_01_Claw02
+    400228: Eagle_2018:L_01_Claw02_Clench
+    400230: Eagle_2018:L_01_Claw02_Relax
+    400232: Eagle_2018:L_01_Claw03
+    400234: Eagle_2018:L_01_Claw03_Clench
+    400236: Eagle_2018:L_01_Claw03_Relax
+    400238: Eagle_2018:L_02_Claw01
+    400240: Eagle_2018:L_02_Claw01_Clench
+    400242: Eagle_2018:L_02_Claw01_Grp
+    400244: Eagle_2018:L_02_Claw01_Grp1
+    400246: Eagle_2018:L_02_Claw01_Grp2
+    400248: Eagle_2018:L_02_Claw01_Relax
+    400250: Eagle_2018:L_02_Claw02
+    400252: Eagle_2018:L_02_Claw02_Clench
+    400254: Eagle_2018:L_02_Claw02_Relax
+    400256: Eagle_2018:L_02_Claw02_Relax 1
+    400258: Eagle_2018:L_02_Claw03
+    400260: Eagle_2018:L_02_Claw03_Clench
+    400262: Eagle_2018:L_03_Claw01
+    400264: Eagle_2018:L_03_Claw01_Clench
+    400266: Eagle_2018:L_03_Claw01_Grp
+    400268: Eagle_2018:L_03_Claw01_Grp1
+    400270: Eagle_2018:L_03_Claw01_Grp2
+    400272: Eagle_2018:L_03_Claw01_Relax
+    400274: Eagle_2018:L_03_Claw02
+    400276: Eagle_2018:L_03_Claw02_Clench
+    400278: Eagle_2018:L_03_Claw02_Relax
+    400280: Eagle_2018:L_03_Claw03
+    400282: Eagle_2018:L_03_Claw03_Clench
+    400284: Eagle_2018:L_03_Claw03_Relax
+    400286: Eagle_2018:L_Ankle_JNT
+    400288: Eagle_2018:L_Ball_JNT
+    400290: Eagle_2018:L_Bend_Deformers
+    400292: Eagle_2018:L_BlendShape
+    400294: Eagle_2018:L_Clavicle_JNT
+    400296: Eagle_2018:L_Eye
+    400298: Eagle_2018:L_Eye_Ctrl
+    400300: Eagle_2018:L_Feathers
+    400302: Eagle_2018:L_Feathers_Grp
+    400304: Eagle_2018:l_Fk_leg_ctrl
+    400306: Eagle_2018:l_Fk_leg_ctrl_grp
+    400308: Eagle_2018:L_Heel
+    400310: Eagle_2018:L_Heel_Lift
+    400312: Eagle_2018:L_Heel_Pivot
+    400314: Eagle_2018:L_Hip_JNT
+    400316: Eagle_2018:L_Knee_JNT
+    400318: Eagle_2018:l_leg_ankle_ctrl
+    400320: Eagle_2018:l_leg_ankle_ctrl_grp
+    400322: Eagle_2018:L_Leg_Ankle_ikHandle
+    400324: Eagle_2018:L_Leg_Ctrl
+    400326: Eagle_2018:l_leg_extra_ctrls
+    400328: Eagle_2018:L_Leg_Grp
+    400330: Eagle_2018:L_LEg_IK_Handle
+    400332: Eagle_2018:L_Leg_ikHandle
+    400334: Eagle_2018:l_leg_knee_ctrl
+    400336: Eagle_2018:l_leg_knee_ctrl_grp
+    400338: Eagle_2018:l_leg_Pevis_ctr_grp
+    400340: Eagle_2018:l_leg_Pevisi_ctr
+    400342: Eagle_2018:L_Leg_PoleVector_Ctrl
+    400344: Eagle_2018:L_Leg_Toe_ikHandle
+    400346: Eagle_2018:L_Leg_Toe_JNT
+    400348: Eagle_2018:L_Leg_Xtra_Ctrl
+    400350: Eagle_2018:L_Mid_Claw01
+    400352: Eagle_2018:L_Mid_Claw01_Clench
+    400354: Eagle_2018:L_Mid_Claw01_Grp
+    400356: Eagle_2018:L_Mid_Claw01_relax
+    400358: Eagle_2018:L_Mid_Claw02
+    400360: Eagle_2018:L_Mid_Claw02_Clench
+    400362: Eagle_2018:L_Mid_Claw02_Grp
+    400364: Eagle_2018:L_Mid_Claw02_relax
+    400366: Eagle_2018:L_Mid_Claw03
+    400368: Eagle_2018:L_Mid_Claw03_Clench
+    400370: Eagle_2018:L_Mid_Claw03_Grp
+    400372: Eagle_2018:L_Mid_Claw03_relax
+    400374: Eagle_2018:L_Mid_Claw04
+    400376: Eagle_2018:L_Mid_Claw04_Clench
+    400378: Eagle_2018:L_Mid_Claw04_Grp
+    400380: Eagle_2018:L_Mid_Claw04_relax
+    400382: Eagle_2018:L_Pelvis_JNT
+    400384: Eagle_2018:L_Primary01_01
+    400386: Eagle_2018:L_Primary01_01_Grp
+    400388: Eagle_2018:L_Primary01_02
+    400390: Eagle_2018:L_Primary01_02_Grp
+    400392: Eagle_2018:L_Primary01_03
+    400394: Eagle_2018:L_Primary01_03_grp
+    400396: Eagle_2018:L_Primary01_04
+    400398: Eagle_2018:L_Primary01_04_grp
+    400400: Eagle_2018:L_Primary01_05
+    400402: Eagle_2018:L_Primary01_05_grp
+    400404: Eagle_2018:L_Primary01_06_Grp
+    400406: Eagle_2018:L_Primary01_07_Grp
+    400408: Eagle_2018:L_Primary01_08_Grp
+    400410: Eagle_2018:L_Primary01_09_Grp
+    400412: Eagle_2018:L_Primary01_10_Grp
+    400414: Eagle_2018:L_Primary01_11_Grp
+    400416: Eagle_2018:L_Primary01_12_Grp
+    400418: Eagle_2018:L_Primary01_13_Grp
+    400420: Eagle_2018:L_Primary02_01
+    400422: Eagle_2018:L_Primary02_01_Grp
+    400424: Eagle_2018:L_Primary02_02
+    400426: Eagle_2018:L_Primary02_02_Grp
+    400428: Eagle_2018:L_Primary02_03
+    400430: Eagle_2018:L_Primary02_03_Grp
+    400432: Eagle_2018:L_Primary02_04
+    400434: Eagle_2018:L_Primary02_04_Grp
+    400436: Eagle_2018:L_Primary02_05
+    400438: Eagle_2018:L_Primary02_05_Grp
+    400440: Eagle_2018:L_Primary02_06
+    400442: Eagle_2018:L_Primary02_06_Grp
+    400444: Eagle_2018:L_Primary02_07
+    400446: Eagle_2018:L_Primary02_07_Grp
+    400448: Eagle_2018:L_Primary02_08
+    400450: Eagle_2018:L_Primary02_08_Grp
+    400452: Eagle_2018:L_Primary02_09_Grp
+    400454: Eagle_2018:L_Primary02_10_Grp
+    400456: Eagle_2018:L_Primary02_11_Grp
+    400458: Eagle_2018:L_Primary02_12_Grp
+    400460: Eagle_2018:L_Primary02_14_Grp
+    400462: Eagle_2018:L_Primary02_15_Grp
+    400464: Eagle_2018:L_Primary02_16_Grp
+    400466: Eagle_2018:L_Primary02_17_Grp
+    400468: Eagle_2018:L_Primary03_01
+    400470: Eagle_2018:L_Primary03_010
+    400472: Eagle_2018:L_Primary03_01_Grp
+    400474: Eagle_2018:L_Primary03_02
+    400476: Eagle_2018:L_Primary03_02_Grp
+    400478: Eagle_2018:L_Primary03_03
+    400480: Eagle_2018:L_Primary03_03_Grp
+    400482: Eagle_2018:L_Primary03_04
+    400484: Eagle_2018:L_Primary03_04_Grp
+    400486: Eagle_2018:L_Primary03_05
+    400488: Eagle_2018:L_Primary03_05_Grp
+    400490: Eagle_2018:L_Primary03_06
+    400492: Eagle_2018:L_Primary03_06_Grp
+    400494: Eagle_2018:L_Primary03_07
+    400496: Eagle_2018:L_Primary03_07_Grp
+    400498: Eagle_2018:L_Primary03_08
+    400500: Eagle_2018:L_Primary03_08_Grp
+    400502: Eagle_2018:L_Primary03_09
+    400504: Eagle_2018:L_Primary03_09_Grp
+    400506: Eagle_2018:L_Primary03_10_Grp
+    400508: Eagle_2018:L_Primary03_11_Grp
+    400510: Eagle_2018:L_Primary03_12_Grp
+    400512: Eagle_2018:L_Primary03_13_Grp
+    400514: Eagle_2018:L_Primary03_14_Grp
+    400516: Eagle_2018:L_Primary03_15_Grp
+    400518: Eagle_2018:L_Primary03_16_Grp
+    400520: Eagle_2018:L_Primary03_17_Grp
+    400522: Eagle_2018:L_Primary_01_Feather_Ctrl
+    400524: Eagle_2018:L_Primary_01_Feather_Ctrl 1
+    400526: Eagle_2018:L_Primary_01_Feather_Ctrl 2
+    400528: Eagle_2018:L_Primary_01_Feather_Fold
+    400530: Eagle_2018:L_Primary_01_Feather_Fold 1
+    400532: Eagle_2018:L_Primary_01_Feather_Fold 2
+    400534: Eagle_2018:L_Primary_01_Feather_Grp
+    400536: Eagle_2018:L_Primary_01_Feather_Grp01
+    400538: Eagle_2018:L_Primary_01_Feather_Grp02
+    400540: Eagle_2018:L_Primary_01_Feather_Grp03
+    400542: Eagle_2018:L_Primary_02_Feather_Ctrl
+    400544: Eagle_2018:L_Primary_02_Feather_Ctrl 1
+    400546: Eagle_2018:L_Primary_02_Feather_Ctrl 2
+    400548: Eagle_2018:L_Primary_02_Feather_Ctrl_Grp
+    400550: Eagle_2018:L_Primary_02_Feather_Ctrl_Grp01
+    400552: Eagle_2018:L_Primary_02_Feather_Ctrl_Grp02
+    400554: Eagle_2018:L_Primary_02_Feather_Ctrl_Grp03
+    400556: Eagle_2018:L_Primary_02_Feather_Fold_grp
+    400558: Eagle_2018:L_Primary_02_Feather_Fold_grp 1
+    400560: Eagle_2018:L_Primary_02_Feather_Fold_grp 2
+    400562: Eagle_2018:L_Primary_Ctrl
+    400564: Eagle_2018:L_Primary_Ctrl_Fold_Grp
+    400566: Eagle_2018:L_Primary_Ctrl_Grp
+    400568: Eagle_2018:L_Primary_Indiv_Feather_Ctrl1
+    400570: Eagle_2018:L_Primary_Indiv_Feather_Ctrl10
+    400572: Eagle_2018:L_Primary_Indiv_Feather_Ctrl12
+    400574: Eagle_2018:L_Primary_Indiv_Feather_Ctrl17
+    400576: Eagle_2018:L_Primary_Indiv_Feather_Ctrl18
+    400578: Eagle_2018:L_Primary_Indiv_Feather_Ctrl19
+    400580: Eagle_2018:L_Primary_Indiv_Feather_Ctrl20
+    400582: Eagle_2018:L_Primary_Indiv_Feather_Ctrl3
+    400584: Eagle_2018:L_Primary_Indiv_Feather_Ctrl5
+    400586: Eagle_2018:L_Primary_Indiv_Feather_Ctrl8
+    400588: Eagle_2018:L_Primary_nd_Secondary_Mid_Ctrl
+    400590: Eagle_2018:L_Primary_nd_Secondary_Mid_Ctrl_Fold_Grp
+    400592: Eagle_2018:L_Primary_nd_Secondary_Mid_Ctrl_Grp
+    400594: Eagle_2018:L_Primarys02_13_Grp
+    400596: Eagle_2018:L_Secondary_Ctrl
+    400598: Eagle_2018:L_Secondary_Ctrl_Fold_Grp
+    400600: Eagle_2018:L_Secondary_Ctrl_Grp
+    400602: Eagle_2018:L_Secondary_Feather_Ctrl
+    400604: Eagle_2018:L_Secondary_Feather_Ctrl 1
+    400606: Eagle_2018:L_Secondary_Feather_Ctrl 2
+    400608: Eagle_2018:L_Secondary_Feather_Ctrl_Grp
+    400610: Eagle_2018:L_Secondary_Feather_Ctrl_Grp01
+    400612: Eagle_2018:L_Secondary_Feather_Ctrl_Grp02
+    400614: Eagle_2018:L_Secondary_Feather_Ctrl_Grp03
+    400616: Eagle_2018:L_Secondary_Feather_Fold_Grp
+    400618: Eagle_2018:L_Secondary_Feather_Fold_Grp 1
+    400620: Eagle_2018:L_Secondary_Feather_Fold_Grp 2
+    400622: Eagle_2018:L_Tail_feather_Ctrl
+    400624: Eagle_2018:L_Tail_feather_Ctrl_grp
+    400626: Eagle_2018:L_Tail_feather_Relax_Ctrl_grp
+    400628: Eagle_2018:L_Tertial_Ctrl
+    400630: Eagle_2018:L_Tertial_Ctrl_Fold_Grp
+    400632: Eagle_2018:L_Tertial_Ctrl_Grp
+    400634: Eagle_2018:L_Tertial_Feather_Ctrl
+    400636: Eagle_2018:L_Tertial_Feather_Ctrl 1
+    400638: Eagle_2018:L_Tertial_Feather_Ctrl 2
+    400640: Eagle_2018:L_Tertial_Feather_Ctrl_Grp
+    400642: Eagle_2018:L_Tertial_Feather_Ctrl_Grp01
+    400644: Eagle_2018:L_Tertial_Feather_Ctrl_Grp02
+    400646: Eagle_2018:L_Tertial_Feather_Ctrl_Grp03
+    400648: Eagle_2018:L_Tertial_Feather_Fold_Grp
+    400650: Eagle_2018:L_Tertial_Feather_Fold_Grp 1
+    400652: Eagle_2018:L_Tertial_Feather_Fold_Grp 2
+    400654: Eagle_2018:L_Wing_Clavicle_Ctrl
+    400656: Eagle_2018:L_Wing_Clavicle_Ctrl_Grp
+    400658: Eagle_2018:L_Wing_Ctrl_Groups
+    400660: Eagle_2018:L_Wing_Elbow_Ctrl
+    400662: Eagle_2018:L_Wing_Elbow_Fold
+    400664: Eagle_2018:L_Wing_Elbow_Fold 1
+    400666: Eagle_2018:L_Wing_Elbow_JNT
+    400668: Eagle_2018:L_Wing_IK_Ctrl
+    400670: Eagle_2018:L_Wing_ikHandle
+    400672: Eagle_2018:L_Wing_Palm_Fold
+    400674: Eagle_2018:L_Wing_Palm_JNT
+    400676: Eagle_2018:L_Wing_Palm_Xtra_Rotate
+    400678: Eagle_2018:L_Wing_Palm_Xtra_Rotate_Grp1
+    400680: Eagle_2018:L_Wing_Pole_Vector_Ctrl
+    400682: Eagle_2018:L_Wing_Shoulder_Ctrl1
+    400684: Eagle_2018:L_Wing_Shoulder_Fold
+    400686: Eagle_2018:L_Wing_Shoulder_Fold 1
+    400688: Eagle_2018:L_Wing_Shoulder_JNT
+    400690: Eagle_2018:L_Wing_Wrist_Ctrl
+    400692: Eagle_2018:L_Wing_Wrist_Fold
+    400694: Eagle_2018:L_Wing_Wrist_Fold 1
+    400696: Eagle_2018:L_Wing_Wrist_JNT
+    400698: Eagle_2018:L_Wing_Xtra_Cntrls
+    400700: Eagle_2018:L_Wing_Xtra_Cntrls1
+    400702: Eagle_2018:L_Wring_Xtra_Rotate_Palm_JNT
+    400704: Eagle_2018:Mid_Tail_feather_Ctrl_02
+    400706: Eagle_2018:Mid_Tail_feather_Ctrl_Grp
+    400708: Eagle_2018:Mouth_Ctrl
+    400710: Eagle_2018:Mouth_Ctrl_grp
+    400712: Eagle_2018:Mouth_JNT
+    400714: Eagle_2018:Neck_Ctrl
+    400716: Eagle_2018:Neck_Ctrl_Grp
+    400718: Eagle_2018:Neck_JNT
+    400720: Eagle_2018:polySurface100
+    400722: Eagle_2018:polySurface100 1
+    400724: Eagle_2018:polySurface144
+    400726: Eagle_2018:polySurface144 1
+    400728: Eagle_2018:polySurface155
+    400730: Eagle_2018:polySurface155 1
+    400732: Eagle_2018:polySurface156
+    400734: Eagle_2018:polySurface156 1
+    400736: Eagle_2018:polySurface157
+    400738: Eagle_2018:polySurface157 1
+    400740: Eagle_2018:polySurface158
+    400742: Eagle_2018:polySurface158 1
+    400744: Eagle_2018:polySurface159
+    400746: Eagle_2018:polySurface159 1
+    400748: Eagle_2018:polySurface160
+    400750: Eagle_2018:polySurface160 1
+    400752: Eagle_2018:polySurface161
+    400754: Eagle_2018:polySurface161 1
+    400756: Eagle_2018:polySurface162
+    400758: Eagle_2018:polySurface162 1
+    400760: Eagle_2018:polySurface163
+    400762: Eagle_2018:polySurface163 1
+    400764: Eagle_2018:polySurface164
+    400766: Eagle_2018:polySurface164 1
+    400768: Eagle_2018:polySurface165
+    400770: Eagle_2018:polySurface165 1
+    400772: Eagle_2018:polySurface166
+    400774: Eagle_2018:polySurface166 1
+    400776: Eagle_2018:polySurface167
+    400778: Eagle_2018:polySurface167 1
+    400780: Eagle_2018:polySurface168
+    400782: Eagle_2018:polySurface168 1
+    400784: Eagle_2018:polySurface169
+    400786: Eagle_2018:polySurface169 1
+    400788: Eagle_2018:polySurface170
+    400790: Eagle_2018:polySurface170 1
+    400792: Eagle_2018:polySurface171
+    400794: Eagle_2018:polySurface171 1
+    400796: Eagle_2018:polySurface172
+    400798: Eagle_2018:polySurface172 1
+    400800: Eagle_2018:polySurface173
+    400802: Eagle_2018:polySurface173 1
+    400804: Eagle_2018:polySurface174
+    400806: Eagle_2018:polySurface174 1
+    400808: Eagle_2018:polySurface175
+    400810: Eagle_2018:polySurface175 1
+    400812: Eagle_2018:polySurface176
+    400814: Eagle_2018:polySurface176 1
+    400816: Eagle_2018:polySurface177
+    400818: Eagle_2018:polySurface177 1
+    400820: Eagle_2018:polySurface178
+    400822: Eagle_2018:polySurface178 1
+    400824: Eagle_2018:polySurface179
+    400826: Eagle_2018:polySurface179 1
+    400828: Eagle_2018:polySurface180
+    400830: Eagle_2018:polySurface180 1
+    400832: Eagle_2018:polySurface181
+    400834: Eagle_2018:polySurface181 1
+    400836: Eagle_2018:polySurface182
+    400838: Eagle_2018:polySurface182 1
+    400840: Eagle_2018:polySurface183
+    400842: Eagle_2018:polySurface183 1
+    400844: Eagle_2018:polySurface184
+    400846: Eagle_2018:polySurface184 1
+    400848: Eagle_2018:polySurface185
+    400850: Eagle_2018:polySurface185 1
+    400852: Eagle_2018:polySurface186
+    400854: Eagle_2018:polySurface186 1
+    400856: Eagle_2018:polySurface187
+    400858: Eagle_2018:polySurface187 1
+    400860: Eagle_2018:polySurface188
+    400862: Eagle_2018:polySurface188 1
+    400864: Eagle_2018:polySurface190
+    400866: Eagle_2018:polySurface190 1
+    400868: Eagle_2018:polySurface191
+    400870: Eagle_2018:polySurface191 1
+    400872: Eagle_2018:polySurface192
+    400874: Eagle_2018:polySurface192 1
+    400876: Eagle_2018:polySurface193
+    400878: Eagle_2018:polySurface193 1
+    400880: Eagle_2018:polySurface194
+    400882: Eagle_2018:polySurface194 1
+    400884: Eagle_2018:polySurface195
+    400886: Eagle_2018:polySurface195 1
+    400888: Eagle_2018:polySurface196
+    400890: Eagle_2018:polySurface196 1
+    400892: Eagle_2018:polySurface197
+    400894: Eagle_2018:polySurface197 1
+    400896: Eagle_2018:polySurface198
+    400898: Eagle_2018:polySurface198 1
+    400900: Eagle_2018:polySurface199
+    400902: Eagle_2018:polySurface199 1
+    400904: Eagle_2018:polySurface200
+    400906: Eagle_2018:polySurface200 1
+    400908: Eagle_2018:polySurface257
+    400910: Eagle_2018:polySurface257 1
+    400912: Eagle_2018:polySurface258
+    400914: Eagle_2018:polySurface258 1
+    400916: Eagle_2018:polySurface263
+    400918: Eagle_2018:polySurface263 1
+    400920: Eagle_2018:polySurface264
+    400922: Eagle_2018:polySurface264 1
+    400924: Eagle_2018:polySurface265
+    400926: Eagle_2018:polySurface265 1
+    400928: Eagle_2018:polySurface266
+    400930: Eagle_2018:polySurface266 1
+    400932: Eagle_2018:polySurface267
+    400934: Eagle_2018:polySurface267 1
+    400936: Eagle_2018:polySurface268
+    400938: Eagle_2018:polySurface268 1
+    400940: Eagle_2018:polySurface269
+    400942: Eagle_2018:polySurface269 1
+    400944: Eagle_2018:polySurface270
+    400946: Eagle_2018:polySurface270 1
+    400948: Eagle_2018:polySurface271
+    400950: Eagle_2018:polySurface271 1
+    400952: Eagle_2018:polySurface272
+    400954: Eagle_2018:polySurface272 1
+    400956: Eagle_2018:polySurface273
+    400958: Eagle_2018:polySurface273 1
+    400960: Eagle_2018:polySurface274
+    400962: Eagle_2018:polySurface274 1
+    400964: Eagle_2018:polySurface275
+    400966: Eagle_2018:polySurface275 1
+    400968: Eagle_2018:polySurface276
+    400970: Eagle_2018:polySurface276 1
+    400972: Eagle_2018:polySurface277
+    400974: Eagle_2018:polySurface277 1
+    400976: Eagle_2018:polySurface278
+    400978: Eagle_2018:polySurface278 1
+    400980: Eagle_2018:polySurface279
+    400982: Eagle_2018:polySurface279 1
+    400984: Eagle_2018:polySurface280
+    400986: Eagle_2018:polySurface280 1
+    400988: Eagle_2018:polySurface281
+    400990: Eagle_2018:polySurface281 1
+    400992: Eagle_2018:polySurface282
+    400994: Eagle_2018:polySurface282 1
+    400996: Eagle_2018:polySurface283
+    400998: Eagle_2018:polySurface283 1
+    401000: Eagle_2018:polySurface284
+    401002: Eagle_2018:polySurface284 1
+    401004: Eagle_2018:polySurface285
+    401006: Eagle_2018:polySurface285 1
+    401008: Eagle_2018:polySurface286
+    401010: Eagle_2018:polySurface286 1
+    401012: Eagle_2018:polySurface287
+    401014: Eagle_2018:polySurface287 1
+    401016: Eagle_2018:polySurface288
+    401018: Eagle_2018:polySurface288 1
+    401020: Eagle_2018:polySurface289
+    401022: Eagle_2018:polySurface289 1
+    401024: Eagle_2018:polySurface290
+    401026: Eagle_2018:polySurface290 1
+    401028: Eagle_2018:polySurface291
+    401030: Eagle_2018:polySurface291 1
+    401032: Eagle_2018:polySurface292
+    401034: Eagle_2018:polySurface292 1
+    401036: Eagle_2018:polySurface32
+    401038: Eagle_2018:polySurface32 1
+    401040: Eagle_2018:polySurface34
+    401042: Eagle_2018:polySurface34 1
+    401044: Eagle_2018:polySurface35
+    401046: Eagle_2018:polySurface35 1
+    401048: Eagle_2018:polySurface36
+    401050: Eagle_2018:polySurface36 1
+    401052: Eagle_2018:polySurface37
+    401054: Eagle_2018:polySurface37 1
+    401056: Eagle_2018:polySurface38
+    401058: Eagle_2018:polySurface38 1
+    401060: Eagle_2018:polySurface60
+    401062: Eagle_2018:polySurface60 1
+    401064: Eagle_2018:polySurface61
+    401066: Eagle_2018:polySurface61 1
+    401068: Eagle_2018:polySurface62
+    401070: Eagle_2018:polySurface62 1
+    401072: Eagle_2018:polySurface63
+    401074: Eagle_2018:polySurface63 1
+    401076: Eagle_2018:polySurface639
+    401078: Eagle_2018:polySurface639 1
+    401080: Eagle_2018:polySurface64
+    401082: Eagle_2018:polySurface64 1
+    401084: Eagle_2018:polySurface640
+    401086: Eagle_2018:polySurface640 1
+    401088: Eagle_2018:polySurface641
+    401090: Eagle_2018:polySurface641 1
+    401092: Eagle_2018:polySurface642
+    401094: Eagle_2018:polySurface642 1
+    401096: Eagle_2018:polySurface643
+    401098: Eagle_2018:polySurface643 1
+    401100: Eagle_2018:polySurface644
+    401102: Eagle_2018:polySurface644 1
+    401104: Eagle_2018:polySurface645
+    401106: Eagle_2018:polySurface645 1
+    401108: Eagle_2018:polySurface646
+    401110: Eagle_2018:polySurface646 1
+    401112: Eagle_2018:polySurface66
+    401114: Eagle_2018:polySurface66 1
+    401116: Eagle_2018:polySurface67
+    401118: Eagle_2018:polySurface67 1
+    401120: Eagle_2018:polySurface68
+    401122: Eagle_2018:polySurface68 1
+    401124: Eagle_2018:polySurface69
+    401126: Eagle_2018:polySurface69 1
+    401128: Eagle_2018:polySurface70
+    401130: Eagle_2018:polySurface70 1
+    401132: Eagle_2018:polySurface71
+    401134: Eagle_2018:polySurface71 1
+    401136: Eagle_2018:polySurface72
+    401138: Eagle_2018:polySurface72 1
+    401140: Eagle_2018:polySurface73
+    401142: Eagle_2018:polySurface73 1
+    401144: Eagle_2018:polySurface74
+    401146: Eagle_2018:polySurface74 1
+    401148: Eagle_2018:polySurface75
+    401150: Eagle_2018:polySurface75 1
+    401152: Eagle_2018:polySurface76
+    401154: Eagle_2018:polySurface76 1
+    401156: Eagle_2018:polySurface77
+    401158: Eagle_2018:polySurface77 1
+    401160: Eagle_2018:polySurface78
+    401162: Eagle_2018:polySurface78 1
+    401164: Eagle_2018:polySurface79
+    401166: Eagle_2018:polySurface79 1
+    401168: Eagle_2018:polySurface80
+    401170: Eagle_2018:polySurface80 1
+    401172: Eagle_2018:polySurface81
+    401174: Eagle_2018:polySurface81 1
+    401176: Eagle_2018:polySurface82
+    401178: Eagle_2018:polySurface82 1
+    401180: Eagle_2018:polySurface83
+    401182: Eagle_2018:polySurface83 1
+    401184: Eagle_2018:polySurface84
+    401186: Eagle_2018:polySurface84 1
+    401188: Eagle_2018:polySurface85
+    401190: Eagle_2018:polySurface85 1
+    401192: Eagle_2018:polySurface86
+    401194: Eagle_2018:polySurface86 1
+    401196: Eagle_2018:polySurface87
+    401198: Eagle_2018:polySurface87 1
+    401200: Eagle_2018:polySurface88
+    401202: Eagle_2018:polySurface88 1
+    401204: Eagle_2018:polySurface89
+    401206: Eagle_2018:polySurface89 1
+    401208: Eagle_2018:polySurface90
+    401210: Eagle_2018:polySurface90 1
+    401212: Eagle_2018:polySurface94
+    401214: Eagle_2018:polySurface94 1
+    401216: Eagle_2018:polySurface95
+    401218: Eagle_2018:polySurface95 1
+    401220: Eagle_2018:polySurface96
+    401222: Eagle_2018:polySurface96 1
+    401224: Eagle_2018:polySurface97
+    401226: Eagle_2018:polySurface97 1
+    401228: Eagle_2018:polySurface98
+    401230: Eagle_2018:polySurface98 1
+    401232: Eagle_2018:polySurface99
+    401234: Eagle_2018:polySurface99 1
+    401236: Eagle_2018:Primary_01_Feathers
+    401238: Eagle_2018:Primary_02_Feathers
+    401240: Eagle_2018:Primary_03_Feathers
+    401242: Eagle_2018:Primary_Feathers01_01
+    401244: Eagle_2018:Primary_Feathers01_01 1
+    401246: Eagle_2018:Primary_Feathers01_02
+    401248: Eagle_2018:Primary_Feathers01_02 1
+    401250: Eagle_2018:Primary_Feathers01_03
+    401252: Eagle_2018:Primary_Feathers01_03 1
+    401254: Eagle_2018:Primary_Feathers01_04
+    401256: Eagle_2018:Primary_Feathers01_04 1
+    401258: Eagle_2018:Primary_Feathers01_05
+    401260: Eagle_2018:Primary_Feathers01_05 1
+    401262: Eagle_2018:Primary_Feathers01_06
+    401264: Eagle_2018:Primary_Feathers01_06 1
+    401266: Eagle_2018:Primary_Feathers01_07
+    401268: Eagle_2018:Primary_Feathers01_07 1
+    401270: Eagle_2018:Primary_Feathers01_08
+    401272: Eagle_2018:Primary_Feathers01_08 1
+    401274: Eagle_2018:Primary_Feathers01_Alula_grp
+    401276: Eagle_2018:Primary_Feathers01_Alula_grp 1
+    401278: Eagle_2018:Primary_Feathers02_01
+    401280: Eagle_2018:Primary_Feathers02_01 1
+    401282: Eagle_2018:Primary_Feathers02_02
+    401284: Eagle_2018:Primary_Feathers02_02 1
+    401286: Eagle_2018:Primary_Feathers02_03
+    401288: Eagle_2018:Primary_Feathers02_03 1
+    401290: Eagle_2018:Primary_Feathers02_04
+    401292: Eagle_2018:Primary_Feathers02_04 1
+    401294: Eagle_2018:Primary_Feathers02_05
+    401296: Eagle_2018:Primary_Feathers02_05 1
+    401298: Eagle_2018:Primary_Feathers02_06
+    401300: Eagle_2018:Primary_Feathers02_06 1
+    401302: Eagle_2018:Primary_Feathers02_07
+    401304: Eagle_2018:Primary_Feathers02_07 1
+    401306: Eagle_2018:Primary_Feathers02_08
+    401308: Eagle_2018:Primary_Feathers02_08 1
+    401310: Eagle_2018:Primary_Feathers02_09
+    401312: Eagle_2018:Primary_Feathers02_09 1
+    401314: Eagle_2018:Primary_Feathers02_grp
+    401316: Eagle_2018:Primary_Feathers02_grp 1
+    401318: Eagle_2018:Primary_Feathers03_01
+    401320: Eagle_2018:Primary_Feathers03_01 1
+    401322: Eagle_2018:Primary_Feathers03_02
+    401324: Eagle_2018:Primary_Feathers03_02 1
+    401326: Eagle_2018:Primary_Feathers03_03
+    401328: Eagle_2018:Primary_Feathers03_03 1
+    401330: Eagle_2018:Primary_Feathers03_04
+    401332: Eagle_2018:Primary_Feathers03_04 1
+    401334: Eagle_2018:Primary_Feathers03_05
+    401336: Eagle_2018:Primary_Feathers03_05 1
+    401338: Eagle_2018:Primary_Feathers03_06
+    401340: Eagle_2018:Primary_Feathers03_06 1
+    401342: Eagle_2018:Primary_Feathers03_07
+    401344: Eagle_2018:Primary_Feathers03_07 1
+    401346: Eagle_2018:Primary_Feathers03_grp
+    401348: Eagle_2018:Primary_Feathers03_grp 1
+    401350: Eagle_2018:Primary_Feathers_Final_grp
+    401352: Eagle_2018:Primary_Feathers_Final_grp 1
+    401354: Eagle_2018:Primary_Feathers_Grp
+    401356: Eagle_2018:Primary_Feathers_Grp 1
+    401358: Eagle_2018:PRimary_Tip_Feathers
+    401360: Eagle_2018:PRimary_Tip_Feathers 1
+    401362: Eagle_2018:R_01_Claw01
+    401364: Eagle_2018:R_01_Claw01_Clench
+    401366: Eagle_2018:R_01_Claw01_Grp
+    401368: Eagle_2018:R_01_Claw01_Grp1
+    401370: Eagle_2018:R_01_Claw01_Grp2
+    401372: Eagle_2018:R_01_Claw01_Relax
+    401374: Eagle_2018:R_01_Claw02
+    401376: Eagle_2018:R_01_Claw02_Clench
+    401378: Eagle_2018:R_01_Claw02_Relax
+    401380: Eagle_2018:R_01_Claw03
+    401382: Eagle_2018:R_01_Claw03_Clench
+    401384: Eagle_2018:R_01_Claw03_Relax
+    401386: Eagle_2018:R_02_Claw01
+    401388: Eagle_2018:R_02_Claw01_Clench
+    401390: Eagle_2018:R_02_Claw01_Grp
+    401392: Eagle_2018:R_02_Claw01_Grp1
+    401394: Eagle_2018:R_02_Claw01_Grp2
+    401396: Eagle_2018:R_02_Claw01_Relax
+    401398: Eagle_2018:R_02_Claw02
+    401400: Eagle_2018:R_02_Claw02_Clench
+    401402: Eagle_2018:R_02_Claw02_Relax
+    401404: Eagle_2018:R_02_Claw03
+    401406: Eagle_2018:R_02_Claw03_Clench
+    401408: Eagle_2018:R_02_Claw03_Relax
+    401410: Eagle_2018:R_03_Claw01
+    401412: Eagle_2018:R_03_Claw01_Clench
+    401414: Eagle_2018:R_03_Claw01_Grp
+    401416: Eagle_2018:R_03_Claw01_Grp1
+    401418: Eagle_2018:R_03_Claw01_Grp2
+    401420: Eagle_2018:R_03_Claw01_Relax
+    401422: Eagle_2018:R_03_Claw02
+    401424: Eagle_2018:R_03_Claw02_Clench
+    401426: Eagle_2018:R_03_Claw02_Relax
+    401428: Eagle_2018:R_03_Claw03
+    401430: Eagle_2018:R_03_Claw03_Clench
+    401432: Eagle_2018:R_03_Claw03_Relax
+    401434: Eagle_2018:R_Ankle_JNT
+    401436: Eagle_2018:R_Ball_JNT
+    401438: Eagle_2018:R_Bend_Deformers
+    401440: Eagle_2018:R_BlendShape_Feathers
+    401442: Eagle_2018:R_Clavicle_JNT
+    401444: Eagle_2018:R_Claw01_01_JNT
+    401446: Eagle_2018:R_Claw01_01_JNT 1
+    401448: Eagle_2018:R_Claw01_02_JNT
+    401450: Eagle_2018:R_Claw01_02_JNT 1
+    401452: Eagle_2018:R_Claw01_03_JNT
+    401454: Eagle_2018:R_Claw01_03_JNT 1
+    401456: Eagle_2018:R_Claw01_04_JNT
+    401458: Eagle_2018:R_Claw01_04_JNT 1
+    401460: Eagle_2018:R_Claw02_01_JNT
+    401462: Eagle_2018:R_Claw02_01_JNT 1
+    401464: Eagle_2018:R_Claw02_02_JNT
+    401466: Eagle_2018:R_Claw02_02_JNT 1
+    401468: Eagle_2018:R_Claw02_03_JNT
+    401470: Eagle_2018:R_Claw02_03_JNT 1
+    401472: Eagle_2018:R_Claw02_04_JNT
+    401474: Eagle_2018:R_Claw02_04_JNT 1
+    401476: Eagle_2018:R_Claw02_05_JNT
+    401478: Eagle_2018:R_Claw02_05_JNT 1
+    401480: Eagle_2018:R_Claw03_01_JNT
+    401482: Eagle_2018:R_Claw03_01_JNT 1
+    401484: Eagle_2018:R_Claw03_02_JNT
+    401486: Eagle_2018:R_Claw03_02_JNT 1
+    401488: Eagle_2018:R_Claw03_03_JNT
+    401490: Eagle_2018:R_Claw03_03_JNT 1
+    401492: Eagle_2018:R_Claw03_04_JNT
+    401494: Eagle_2018:R_Claw03_04_JNT 1
+    401496: Eagle_2018:R_Claw04_01_JNT
+    401498: Eagle_2018:R_Claw04_01_JNT 1
+    401500: Eagle_2018:R_Claw04_02_JNT
+    401502: Eagle_2018:R_Claw04_02_JNT 1
+    401504: Eagle_2018:R_Claw04_03_JNT
+    401506: Eagle_2018:R_Claw04_03_JNT 1
+    401508: Eagle_2018:R_Claw04_04_JNT
+    401510: Eagle_2018:R_Claw04_04_JNT 1
+    401512: Eagle_2018:R_Eye
+    401514: Eagle_2018:R_Eye_Ctrl
+    401516: Eagle_2018:R_Feathers
+    401518: Eagle_2018:R_Feathers_Grp
+    401520: Eagle_2018:r_Fk_leg_ctrl
+    401522: Eagle_2018:r_Fk_leg_ctrl_grp
+    401524: Eagle_2018:R_Hip_JNT
+    401526: Eagle_2018:R_Knee_JNT
+    401528: Eagle_2018:r_leg_ankle_ctrl
+    401530: Eagle_2018:r_leg_ankle_ctrl_grp
+    401532: Eagle_2018:R_Leg_AnkleikHandle
+    401534: Eagle_2018:R_Leg_Ctrl
+    401536: Eagle_2018:r_leg_extra_ctrls
+    401538: Eagle_2018:R_Leg_Grp
+    401540: Eagle_2018:R_Leg_Heel
+    401542: Eagle_2018:R_Leg_Heel_Lift
+    401544: Eagle_2018:R_Leg_Heel_Pivot
+    401546: Eagle_2018:R_Leg_IK_Handle
+    401548: Eagle_2018:R_Leg_ikHandle
+    401550: Eagle_2018:r_leg_knee_ctrl
+    401552: Eagle_2018:r_leg_knee_ctrl_grp
+    401554: Eagle_2018:r_leg_Pevis_ctr_grp
+    401556: Eagle_2018:r_leg_Pevisi_ctr
+    401558: Eagle_2018:R_Leg_PoleVector_Ctrl
+    401560: Eagle_2018:R_Leg_Toe_ikHandle
+    401562: Eagle_2018:R_Leg_Toe_JNT
+    401564: Eagle_2018:R_Leg_Xtra_Ctrl
+    401566: Eagle_2018:R_Mid_Claw01
+    401568: Eagle_2018:R_Mid_Claw01_Clench
+    401570: Eagle_2018:R_Mid_Claw01_Grp
+    401572: Eagle_2018:R_Mid_Claw01_Relax
+    401574: Eagle_2018:R_Mid_Claw02
+    401576: Eagle_2018:R_Mid_Claw02_Clench
+    401578: Eagle_2018:R_Mid_Claw02_Grp
+    401580: Eagle_2018:R_Mid_Claw02_Relax
+    401582: Eagle_2018:R_Mid_Claw03
+    401584: Eagle_2018:R_Mid_Claw03_Clench
+    401586: Eagle_2018:R_Mid_Claw03_Grp
+    401588: Eagle_2018:R_Mid_Claw03_Relax
+    401590: Eagle_2018:R_Mid_Claw04
+    401592: Eagle_2018:R_Mid_Claw04_Clench
+    401594: Eagle_2018:R_Mid_Claw04_Grp
+    401596: Eagle_2018:R_Mid_Claw04_Relax
+    401598: Eagle_2018:R_Pelvis_JNT
+    401600: Eagle_2018:R_Primary01_01
+    401602: Eagle_2018:R_Primary01_01_Grp
+    401604: Eagle_2018:R_Primary01_02
+    401606: Eagle_2018:R_Primary01_02_Grp
+    401608: Eagle_2018:R_Primary01_03
+    401610: Eagle_2018:R_Primary01_03_grp
+    401612: Eagle_2018:R_Primary01_04
+    401614: Eagle_2018:R_Primary01_04_grp
+    401616: Eagle_2018:R_Primary01_05
+    401618: Eagle_2018:R_Primary01_05_grp
+    401620: Eagle_2018:R_Primary01_06_Grp
+    401622: Eagle_2018:R_Primary01_07_Grp
+    401624: Eagle_2018:R_Primary01_08_Grp
+    401626: Eagle_2018:R_Primary01_09_Grp
+    401628: Eagle_2018:R_Primary01_10_Grp
+    401630: Eagle_2018:R_Primary01_11_Grp
+    401632: Eagle_2018:R_Primary01_12_Grp
+    401634: Eagle_2018:R_Primary01_13_Grp
+    401636: Eagle_2018:R_Primary02_01
+    401638: Eagle_2018:R_Primary02_01_Grp
+    401640: Eagle_2018:R_Primary02_02
+    401642: Eagle_2018:R_Primary02_02_Grp
+    401644: Eagle_2018:R_Primary02_03
+    401646: Eagle_2018:R_Primary02_03_Grp
+    401648: Eagle_2018:R_Primary02_04
+    401650: Eagle_2018:R_Primary02_04_Grp
+    401652: Eagle_2018:R_Primary02_05
+    401654: Eagle_2018:R_Primary02_05_Grp
+    401656: Eagle_2018:R_Primary02_06
+    401658: Eagle_2018:R_Primary02_06_Grp
+    401660: Eagle_2018:R_Primary02_07
+    401662: Eagle_2018:R_Primary02_07_Grp
+    401664: Eagle_2018:R_Primary02_08
+    401666: Eagle_2018:R_Primary02_08_Grp
+    401668: Eagle_2018:R_Primary02_09_Grp
+    401670: Eagle_2018:R_Primary02_10_Grp
+    401672: Eagle_2018:R_Primary02_11_Grp
+    401674: Eagle_2018:R_Primary02_12_Grp
+    401676: Eagle_2018:R_Primary02_14_Grp
+    401678: Eagle_2018:R_Primary02_15_Grp
+    401680: Eagle_2018:R_Primary02_16_Grp
+    401682: Eagle_2018:R_Primary02_17_Grp
+    401684: Eagle_2018:R_Primary03_01
+    401686: Eagle_2018:R_Primary03_010
+    401688: Eagle_2018:R_Primary03_01_Grp
+    401690: Eagle_2018:R_Primary03_02
+    401692: Eagle_2018:R_Primary03_02_Grp
+    401694: Eagle_2018:R_Primary03_03
+    401696: Eagle_2018:R_Primary03_03_Grp
+    401698: Eagle_2018:R_Primary03_04
+    401700: Eagle_2018:R_Primary03_04_Grp
+    401702: Eagle_2018:R_Primary03_05
+    401704: Eagle_2018:R_Primary03_05_Grp
+    401706: Eagle_2018:R_Primary03_06
+    401708: Eagle_2018:R_Primary03_06_Grp
+    401710: Eagle_2018:R_Primary03_07
+    401712: Eagle_2018:R_Primary03_07_Grp
+    401714: Eagle_2018:R_Primary03_08
+    401716: Eagle_2018:R_Primary03_08_Grp
+    401718: Eagle_2018:R_Primary03_09
+    401720: Eagle_2018:R_Primary03_09_Grp
+    401722: Eagle_2018:R_Primary03_10_Grp
+    401724: Eagle_2018:R_Primary03_11_Grp
+    401726: Eagle_2018:R_Primary03_12_Grp
+    401728: Eagle_2018:R_Primary03_13_Grp
+    401730: Eagle_2018:R_Primary03_14_Grp
+    401732: Eagle_2018:R_Primary03_15_Grp
+    401734: Eagle_2018:R_Primary03_16_Grp
+    401736: Eagle_2018:R_Primary03_17_Grp
+    401738: Eagle_2018:R_Primary_01_Feather_Ctrl
+    401740: Eagle_2018:R_Primary_01_Feather_Ctrl 1
+    401742: Eagle_2018:R_Primary_01_Feather_Ctrl 2
+    401744: Eagle_2018:R_Primary_01_Feather_Fold
+    401746: Eagle_2018:R_Primary_01_Feather_Fold 1
+    401748: Eagle_2018:R_Primary_01_Feather_Fold 2
+    401750: Eagle_2018:R_Primary_01_Feather_Grp
+    401752: Eagle_2018:R_Primary_01_Feather_Grp01
+    401754: Eagle_2018:R_Primary_01_Feather_Grp02
+    401756: Eagle_2018:R_Primary_01_Feather_Grp03
+    401758: Eagle_2018:R_Primary_02_Feather_Ctrl
+    401760: Eagle_2018:R_Primary_02_Feather_Ctrl 1
+    401762: Eagle_2018:R_Primary_02_Feather_Ctrl 2
+    401764: Eagle_2018:R_Primary_02_Feather_Ctrl_Grp
+    401766: Eagle_2018:R_Primary_02_Feather_Ctrl_Grp01
+    401768: Eagle_2018:R_Primary_02_Feather_Ctrl_Grp02
+    401770: Eagle_2018:R_Primary_02_Feather_Ctrl_Grp03
+    401772: Eagle_2018:R_Primary_02_Feather_Fold_grp
+    401774: Eagle_2018:R_Primary_02_Feather_Fold_grp 1
+    401776: Eagle_2018:R_Primary_02_Feather_Fold_grp 2
+    401778: Eagle_2018:R_Primary_Ctrl
+    401780: Eagle_2018:R_Primary_Ctrl_Fold_Grp
+    401782: Eagle_2018:R_Primary_Ctrl_Grp
+    401784: Eagle_2018:R_Primary_Indiv_Feather_Ctrl1
+    401786: Eagle_2018:R_Primary_Indiv_Feather_Ctrl10
+    401788: Eagle_2018:R_Primary_Indiv_Feather_Ctrl12
+    401790: Eagle_2018:R_Primary_Indiv_Feather_Ctrl17
+    401792: Eagle_2018:R_Primary_Indiv_Feather_Ctrl18
+    401794: Eagle_2018:R_Primary_Indiv_Feather_Ctrl19
+    401796: Eagle_2018:R_Primary_Indiv_Feather_Ctrl20
+    401798: Eagle_2018:R_Primary_Indiv_Feather_Ctrl3
+    401800: Eagle_2018:R_Primary_Indiv_Feather_Ctrl5
+    401802: Eagle_2018:R_Primary_Indiv_Feather_Ctrl8
+    401804: Eagle_2018:R_Primary_nd_Secondary_Mid_Ctrl
+    401806: Eagle_2018:R_Primary_nd_Secondary_Mid_Ctrl_Fold_Grp
+    401808: Eagle_2018:R_Primary_nd_Secondary_Mid_Ctrl_Grp
+    401810: Eagle_2018:R_Primarys02_13_Grp
+    401812: Eagle_2018:R_Secondary_Ctrl
+    401814: Eagle_2018:R_Secondary_Ctrl_Fold_Grp
+    401816: Eagle_2018:R_Secondary_Ctrl_Grp
+    401818: Eagle_2018:R_Secondary_Feather_Ctrl
+    401820: Eagle_2018:R_Secondary_Feather_Ctrl 1
+    401822: Eagle_2018:R_Secondary_Feather_Ctrl 2
+    401824: Eagle_2018:R_Secondary_Feather_Ctrl_Grp
+    401826: Eagle_2018:R_Secondary_Feather_Ctrl_Grp01
+    401828: Eagle_2018:R_Secondary_Feather_Ctrl_Grp02
+    401830: Eagle_2018:R_Secondary_Feather_Ctrl_Grp03
+    401832: Eagle_2018:R_Secondary_Feather_Fold_Grp
+    401834: Eagle_2018:R_Secondary_Feather_Fold_Grp 1
+    401836: Eagle_2018:R_Secondary_Feather_Fold_Grp 2
+    401838: Eagle_2018:R_Tail_feather_Ctrl
+    401840: Eagle_2018:R_Tail_feather_Ctrl_grp
+    401842: Eagle_2018:R_Tail_feather_Relax_Ctrl_grp
+    401844: Eagle_2018:R_Tertial_Ctrl
+    401846: Eagle_2018:R_Tertial_Ctrl_Fold_Grp
+    401848: Eagle_2018:R_Tertial_Ctrl_Grp
+    401850: Eagle_2018:R_Tertial_Feather_Ctrl
+    401852: Eagle_2018:R_Tertial_Feather_Ctrl 1
+    401854: Eagle_2018:R_Tertial_Feather_Ctrl 2
+    401856: Eagle_2018:R_Tertial_Feather_Ctrl_Grp
+    401858: Eagle_2018:R_Tertial_Feather_Ctrl_Grp01
+    401860: Eagle_2018:R_Tertial_Feather_Ctrl_Grp02
+    401862: Eagle_2018:R_Tertial_Feather_Ctrl_Grp03
+    401864: Eagle_2018:R_Tertial_Feather_Fold_Grp
+    401866: Eagle_2018:R_Tertial_Feather_Fold_Grp 1
+    401868: Eagle_2018:R_Tertial_Feather_Fold_Grp 2
+    401870: Eagle_2018:R_Wing_Clavicle_Ctrl
+    401872: Eagle_2018:R_Wing_Clavicle_Ctrl_Grp
+    401874: Eagle_2018:R_Wing_Ctrl_Groups
+    401876: Eagle_2018:R_Wing_Elbow_Ctrl
+    401878: Eagle_2018:R_Wing_Elbow_Fold
+    401880: Eagle_2018:R_Wing_Elbow_Fold 1
+    401882: Eagle_2018:R_Wing_Elbow_JNT
+    401884: Eagle_2018:R_Wing_IK_Ctrl
+    401886: Eagle_2018:R_Wing_ikHandle
+    401888: Eagle_2018:R_Wing_Palm_Fold
+    401890: Eagle_2018:R_Wing_Palm_JNT
+    401892: Eagle_2018:R_Wing_Palm_Xtra_Rotate
+    401894: Eagle_2018:R_Wing_Palm_Xtra_Rotate_Grp
+    401896: Eagle_2018:R_Wing_Pole_Vector_Ctrl
+    401898: Eagle_2018:R_Wing_Shoulder_Ctrl
+    401900: Eagle_2018:R_Wing_Shoulder_Fold
+    401902: Eagle_2018:R_Wing_Shoulder_Fold 1
+    401904: Eagle_2018:R_Wing_Shoulder_JNT
+    401906: Eagle_2018:R_Wing_Wrist_Ctrl
+    401908: Eagle_2018:R_Wing_Wrist_Fold
+    401910: Eagle_2018:R_Wing_Wrist_Fold 1
+    401912: Eagle_2018:R_Wing_Wrist_JNT
+    401914: Eagle_2018:R_Wing_Xtra_Cntrls
+    401916: Eagle_2018:R_Wring_Xtra_Rotate_Palm_JNT
+    401918: Eagle_2018:Root_Ctrl
+    401920: Eagle_2018:Root_JNT
+    401922: Eagle_2018:Secondary_Feathers01_010
+    401924: Eagle_2018:Secondary_Feathers01_010 1
+    401926: Eagle_2018:Secondary_Feathers01_010_Grp
+    401928: Eagle_2018:Secondary_Feathers01_010_Grp 1
+    401930: Eagle_2018:Secondary_Feathers01_011
+    401932: Eagle_2018:Secondary_Feathers01_011 1
+    401934: Eagle_2018:Secondary_Feathers01_011_Grp
+    401936: Eagle_2018:Secondary_Feathers01_011_Grp 1
+    401938: Eagle_2018:Secondary_Feathers01_012
+    401940: Eagle_2018:Secondary_Feathers01_012 1
+    401942: Eagle_2018:Secondary_Feathers01_012_Grp
+    401944: Eagle_2018:Secondary_Feathers01_012_Grp 1
+    401946: Eagle_2018:Secondary_Feathers01_013
+    401948: Eagle_2018:Secondary_Feathers01_013 1
+    401950: Eagle_2018:Secondary_Feathers01_013_Grp
+    401952: Eagle_2018:Secondary_Feathers01_013_Grp 1
+    401954: Eagle_2018:Secondary_Feathers01_014
+    401956: Eagle_2018:Secondary_Feathers01_014 1
+    401958: Eagle_2018:Secondary_Feathers01_014_Grp
+    401960: Eagle_2018:Secondary_Feathers01_014_Grp 1
+    401962: Eagle_2018:Secondary_Feathers01_015
+    401964: Eagle_2018:Secondary_Feathers01_015 1
+    401966: Eagle_2018:Secondary_Feathers01_015_Grp
+    401968: Eagle_2018:Secondary_Feathers01_015_Grp 1
+    401970: Eagle_2018:Secondary_Feathers01_016
+    401972: Eagle_2018:Secondary_Feathers01_016 1
+    401974: Eagle_2018:Secondary_Feathers01_016_Grp
+    401976: Eagle_2018:Secondary_Feathers01_016_Grp 1
+    401978: Eagle_2018:Secondary_Feathers01_017
+    401980: Eagle_2018:Secondary_Feathers01_017 1
+    401982: Eagle_2018:Secondary_Feathers01_017_Grp
+    401984: Eagle_2018:Secondary_Feathers01_017_Grp 1
+    401986: Eagle_2018:Secondary_Feathers01_018
+    401988: Eagle_2018:Secondary_Feathers01_018 1
+    401990: Eagle_2018:Secondary_Feathers01_018_Grp
+    401992: Eagle_2018:Secondary_Feathers01_018_Grp 1
+    401994: Eagle_2018:Secondary_Feathers01_09
+    401996: Eagle_2018:Secondary_Feathers01_09 1
+    401998: Eagle_2018:Secondary_Feathers01_09_Grp
+    402000: Eagle_2018:Secondary_Feathers01_09_Grp 1
+    402002: Eagle_2018:Secondary_Feathers01_Grp
+    402004: Eagle_2018:Secondary_Feathers01_Grp 1
+    402006: Eagle_2018:Secondary_Feathers02_010
+    402008: Eagle_2018:Secondary_Feathers02_010 1
+    402010: Eagle_2018:Secondary_Feathers02_010_Grp
+    402012: Eagle_2018:Secondary_Feathers02_010_Grp 1
+    402014: Eagle_2018:Secondary_Feathers02_011
+    402016: Eagle_2018:Secondary_Feathers02_011 1
+    402018: Eagle_2018:Secondary_Feathers02_011_Grp
+    402020: Eagle_2018:Secondary_Feathers02_011_Grp 1
+    402022: Eagle_2018:Secondary_Feathers02_012
+    402024: Eagle_2018:Secondary_Feathers02_012 1
+    402026: Eagle_2018:Secondary_Feathers02_012_Grp
+    402028: Eagle_2018:Secondary_Feathers02_012_Grp 1
+    402030: Eagle_2018:Secondary_Feathers02_013
+    402032: Eagle_2018:Secondary_Feathers02_013 1
+    402034: Eagle_2018:Secondary_Feathers02_013_Grp
+    402036: Eagle_2018:Secondary_Feathers02_013_Grp 1
+    402038: Eagle_2018:Secondary_Feathers02_014
+    402040: Eagle_2018:Secondary_Feathers02_014 1
+    402042: Eagle_2018:Secondary_Feathers02_014_Grp
+    402044: Eagle_2018:Secondary_Feathers02_014_Grp 1
+    402046: Eagle_2018:Secondary_Feathers02_015
+    402048: Eagle_2018:Secondary_Feathers02_015 1
+    402050: Eagle_2018:Secondary_Feathers02_015_Grp
+    402052: Eagle_2018:Secondary_Feathers02_015_Grp 1
+    402054: Eagle_2018:Secondary_Feathers02_016
+    402056: Eagle_2018:Secondary_Feathers02_016 1
+    402058: Eagle_2018:Secondary_Feathers02_016_Grp
+    402060: Eagle_2018:Secondary_Feathers02_016_Grp 1
+    402062: Eagle_2018:Secondary_Feathers02_017
+    402064: Eagle_2018:Secondary_Feathers02_017 1
+    402066: Eagle_2018:Secondary_Feathers02_017_Grp
+    402068: Eagle_2018:Secondary_Feathers02_017_Grp 1
+    402070: Eagle_2018:Secondary_Feathers02_018
+    402072: Eagle_2018:Secondary_Feathers02_018 1
+    402074: Eagle_2018:Secondary_Feathers02_018_Grp
+    402076: Eagle_2018:Secondary_Feathers02_018_Grp 1
+    402078: Eagle_2018:Secondary_Feathers02_Grp
+    402080: Eagle_2018:Secondary_Feathers02_Grp 1
+    402082: Eagle_2018:Secondary_Feathers03_010
+    402084: Eagle_2018:Secondary_Feathers03_010 1
+    402086: Eagle_2018:Secondary_Feathers03_010_Grp
+    402088: Eagle_2018:Secondary_Feathers03_010_Grp 1
+    402090: Eagle_2018:Secondary_Feathers03_011
+    402092: Eagle_2018:Secondary_Feathers03_011 1
+    402094: Eagle_2018:Secondary_Feathers03_011_Grp
+    402096: Eagle_2018:Secondary_Feathers03_011_Grp 1
+    402098: Eagle_2018:Secondary_Feathers03_012
+    402100: Eagle_2018:Secondary_Feathers03_012 1
+    402102: Eagle_2018:Secondary_Feathers03_012_Grp
+    402104: Eagle_2018:Secondary_Feathers03_012_Grp 1
+    402106: Eagle_2018:Secondary_Feathers03_013
+    402108: Eagle_2018:Secondary_Feathers03_013 1
+    402110: Eagle_2018:Secondary_Feathers03_013_Grp
+    402112: Eagle_2018:Secondary_Feathers03_013_Grp 1
+    402114: Eagle_2018:Secondary_Feathers03_014
+    402116: Eagle_2018:Secondary_Feathers03_014 1
+    402118: Eagle_2018:Secondary_Feathers03_014_Grp
+    402120: Eagle_2018:Secondary_Feathers03_014_Grp 1
+    402122: Eagle_2018:Secondary_Feathers03_015
+    402124: Eagle_2018:Secondary_Feathers03_015 1
+    402126: Eagle_2018:Secondary_Feathers03_015_Grp
+    402128: Eagle_2018:Secondary_Feathers03_015_Grp 1
+    402130: Eagle_2018:Secondary_Feathers03_016
+    402132: Eagle_2018:Secondary_Feathers03_016 1
+    402134: Eagle_2018:Secondary_Feathers03_016_Grp
+    402136: Eagle_2018:Secondary_Feathers03_016_Grp 1
+    402138: Eagle_2018:Secondary_Feathers03_08
+    402140: Eagle_2018:Secondary_Feathers03_08 1
+    402142: Eagle_2018:Secondary_Feathers03_08_Grp
+    402144: Eagle_2018:Secondary_Feathers03_08_Grp 1
+    402146: Eagle_2018:Secondary_Feathers03_09
+    402148: Eagle_2018:Secondary_Feathers03_09 1
+    402150: Eagle_2018:Secondary_Feathers03_09_Grp
+    402152: Eagle_2018:Secondary_Feathers03_09_Grp 1
+    402154: Eagle_2018:Secondary_Feathers03_Grp
+    402156: Eagle_2018:Secondary_Feathers03_Grp 1
+    402158: Eagle_2018:Secondary_Feathers_Grp
+    402160: Eagle_2018:Secondary_Feathers_Grp 1
+    402162: Eagle_2018:Skull_JNT
+    402164: Eagle_2018:Spine01_JNT
+    402166: Eagle_2018:Spine02_JNT
+    402168: Eagle_2018:Spine03_JNT
+    402170: Eagle_2018:Spine_01_Ctrl
+    402172: Eagle_2018:Spine_01_Follow_Grp
+    402174: Eagle_2018:Spine_02_Ctrl
+    402176: Eagle_2018:Spine_ikHandle
+    402178: Eagle_2018:Tail02_JNT
+    402180: Eagle_2018:Tail03_JNT
+    402182: Eagle_2018:Tail_Ctrl
+    402184: Eagle_2018:Tail_Ctrl_01
+    402186: Eagle_2018:Tail_Ctrl_02
+    402188: Eagle_2018:Tail_Feather_01
+    402190: Eagle_2018:Tail_Feather_010
+    402192: Eagle_2018:Tail_Feather_010_Grp
+    402194: Eagle_2018:Tail_Feather_011
+    402196: Eagle_2018:Tail_Feather_011_Grp
+    402198: Eagle_2018:Tail_Feather_012
+    402200: Eagle_2018:Tail_Feather_012_Grp
+    402202: Eagle_2018:Tail_Feather_01_Grp
+    402204: Eagle_2018:Tail_Feather_02
+    402206: Eagle_2018:Tail_Feather_02_Grp
+    402208: Eagle_2018:Tail_Feather_03
+    402210: Eagle_2018:Tail_Feather_03_Grp
+    402212: Eagle_2018:Tail_Feather_04
+    402214: Eagle_2018:Tail_Feather_04_Grp
+    402216: Eagle_2018:Tail_Feather_05
+    402218: Eagle_2018:Tail_Feather_05_Grp
+    402220: Eagle_2018:Tail_Feather_06
+    402222: Eagle_2018:Tail_Feather_06_Grp
+    402224: Eagle_2018:Tail_Feather_07
+    402226: Eagle_2018:Tail_Feather_07_Grp
+    402228: Eagle_2018:Tail_Feather_08
+    402230: Eagle_2018:Tail_Feather_08_Grp
+    402232: Eagle_2018:Tail_Feather_09
+    402234: Eagle_2018:Tail_Feather_09_Grp
+    402236: Eagle_2018:Tail_Feathers
+    402238: Eagle_2018:Tertial_Feathers01_01
+    402240: Eagle_2018:Tertial_Feathers01_01 1
+    402242: Eagle_2018:Tertial_Feathers01_01_Grp
+    402244: Eagle_2018:Tertial_Feathers01_01_Grp 1
+    402246: Eagle_2018:Tertial_Feathers01_02
+    402248: Eagle_2018:Tertial_Feathers01_02 1
+    402250: Eagle_2018:Tertial_Feathers01_02_Grp
+    402252: Eagle_2018:Tertial_Feathers01_02_Grp 1
+    402254: Eagle_2018:Tertial_Feathers01_03
+    402256: Eagle_2018:Tertial_Feathers01_03 1
+    402258: Eagle_2018:Tertial_Feathers01_03_Grp
+    402260: Eagle_2018:Tertial_Feathers01_03_Grp 1
+    402262: Eagle_2018:Tertial_Feathers01_04
+    402264: Eagle_2018:Tertial_Feathers01_04 1
+    402266: Eagle_2018:Tertial_Feathers01_04_Grp
+    402268: Eagle_2018:Tertial_Feathers01_04_Grp 1
+    402270: Eagle_2018:Tertial_Feathers01_05
+    402272: Eagle_2018:Tertial_Feathers01_05 1
+    402274: Eagle_2018:Tertial_Feathers01_05_Grp
+    402276: Eagle_2018:Tertial_Feathers01_05_Grp 1
+    402278: Eagle_2018:Tertial_Feathers01_06
+    402280: Eagle_2018:Tertial_Feathers01_06 1
+    402282: Eagle_2018:Tertial_Feathers01_06_Grp
+    402284: Eagle_2018:Tertial_Feathers01_06_Grp 1
+    402286: Eagle_2018:Tertial_Feathers01_07
+    402288: Eagle_2018:Tertial_Feathers01_07 1
+    402290: Eagle_2018:Tertial_Feathers01_07_Grp
+    402292: Eagle_2018:Tertial_Feathers01_07_Grp 1
+    402294: Eagle_2018:Tertial_Feathers01_Grp
+    402296: Eagle_2018:Tertial_Feathers01_Grp 1
+    402298: Eagle_2018:Tertial_Feathers02_01
+    402300: Eagle_2018:Tertial_Feathers02_01 1
+    402302: Eagle_2018:Tertial_Feathers02_01_Grp
+    402304: Eagle_2018:Tertial_Feathers02_01_Grp 1
+    402306: Eagle_2018:Tertial_Feathers02_02
+    402308: Eagle_2018:Tertial_Feathers02_02 1
+    402310: Eagle_2018:Tertial_Feathers02_02_Grp
+    402312: Eagle_2018:Tertial_Feathers02_02_Grp 1
+    402314: Eagle_2018:Tertial_Feathers02_03
+    402316: Eagle_2018:Tertial_Feathers02_03 1
+    402318: Eagle_2018:Tertial_Feathers02_03_Grp
+    402320: Eagle_2018:Tertial_Feathers02_03_Grp 1
+    402322: Eagle_2018:Tertial_Feathers02_04
+    402324: Eagle_2018:Tertial_Feathers02_04 1
+    402326: Eagle_2018:Tertial_Feathers02_04_Grp
+    402328: Eagle_2018:Tertial_Feathers02_04_Grp 1
+    402330: Eagle_2018:Tertial_Feathers02_05
+    402332: Eagle_2018:Tertial_Feathers02_05 1
+    402334: Eagle_2018:Tertial_Feathers02_05_Grp
+    402336: Eagle_2018:Tertial_Feathers02_05_Grp 1
+    402338: Eagle_2018:Tertial_Feathers02_Grp
+    402340: Eagle_2018:Tertial_Feathers02_Grp 1
+    402342: Eagle_2018:Tertial_Feathers03_01
+    402344: Eagle_2018:Tertial_Feathers03_01 1
+    402346: Eagle_2018:Tertial_Feathers03_01_Grp
+    402348: Eagle_2018:Tertial_Feathers03_01_Grp 1
+    402350: Eagle_2018:Tertial_Feathers03_02
+    402352: Eagle_2018:Tertial_Feathers03_02 1
+    402354: Eagle_2018:Tertial_Feathers03_02_Grp
+    402356: Eagle_2018:Tertial_Feathers03_02_Grp 1
+    402358: Eagle_2018:Tertial_Feathers03_03
+    402360: Eagle_2018:Tertial_Feathers03_03 1
+    402362: Eagle_2018:Tertial_Feathers03_03_Grp
+    402364: Eagle_2018:Tertial_Feathers03_03_Grp 1
+    402366: Eagle_2018:Tertial_Feathers03_04
+    402368: Eagle_2018:Tertial_Feathers03_04 1
+    402370: Eagle_2018:Tertial_Feathers03_04_Grp
+    402372: Eagle_2018:Tertial_Feathers03_04_Grp 1
+    402374: Eagle_2018:Tertial_Feathers03_05
+    402376: Eagle_2018:Tertial_Feathers03_05 1
+    402378: Eagle_2018:Tertial_Feathers03_05_Grp
+    402380: Eagle_2018:Tertial_Feathers03_05_Grp 1
+    402382: Eagle_2018:Tertial_Feathers03_Grp
+    402384: Eagle_2018:Tertial_Feathers03_Grp 1
+    402386: Eagle_2018:Tertial_Feathers_Grp
+    402388: Eagle_2018:Tertial_Feathers_Grp 1
+    402390: Eagle_2018:Toung
+    402392: Eagle_2018:Toung_Ctrl01
+    402394: Eagle_2018:Toung_Ctrl02
+    402396: Eagle_2018:Toung_Ctrl03
+    402398: Eagle_2018:Toung_Ctrl04
+    402400: Eagle_2018:Toung_Ctrl05
+    402402: Eagle_2018:Toung_Ctrl06
+    402404: Eagle_2018:Toung_Ctrl_Grp_01
+    402406: Eagle_2018:Toung_Ctrl_Grp_02
+    402408: Eagle_2018:Toung_Ctrl_Grp_03
+    402410: Eagle_2018:Toung_Ctrl_Grp_04
+    402412: Eagle_2018:Toung_Ctrl_Grp_05
+    402414: Eagle_2018:Toung_Ctrl_Grp_06
+    402416: Eagle_2018:Toung_Grp
+    402418: Eagle_2018:Toung_ikHandle
+    402420: Eagle_2018:Toung_JNT_01
+    402422: Eagle_2018:Toung_JNT_02
+    402424: Eagle_2018:Toung_JNT_03
+    402426: Eagle_2018:Toung_JNT_04
+    402428: Eagle_2018:Toung_JNT_05
+    402430: Eagle_2018:Toung_JNT_06
+    402432: Eagle_2018:Toung_JNT_07
+    402434: Eagle_2018:Xtras_Grp
+    402436: Eagle_2019:Bald_Eagle
+    402438: Eagle_2019:Chest_Ctrl
+    402440: Eagle_2019:Chest_JNT
+    402442: Eagle_2019:Control_Crvs_Grp
+    402444: Eagle_2019:Global_Cntrl
+    402446: Eagle_2019:Joint_Grp
+    402448: Eagle_2019:R_Clavicle_JNT
+    402450: Eagle_2019:R_Wing_Clavicle_Ctrl
+    402452: Eagle_2019:R_Wing_Clavicle_Ctrl_Grp
+    402454: Eagle_2019:R_Wing_Elbow_Ctrl
+    402456: Eagle_2019:R_Wing_Elbow_Fold
+    402458: Eagle_2019:R_Wing_IK_Ctrl
+    402460: Eagle_2019:R_Wing_Shoulder_Ctrl
+    402462: Eagle_2019:R_Wing_Shoulder_Fold
+    402464: Eagle_2019:R_Wing_Shoulder_JNT
+    402466: Eagle_2019:R_Wing_Wrist_Ctrl
+    402468: Eagle_2019:R_Wing_Wrist_Fold
+    402470: Eagle_2019:Root_Ctrl
+    402472: Eagle_2019:Root_JNT
+    402474: Eagle_2019:Spine01_JNT
+    402476: Eagle_2019:Spine02_JNT
+    402478: Eagle_2019:Spine03_JNT
+    402480: group
+    402482: //RootNode
+    402484: pasted__curve1
+    402486: pCone290
+    402488: pCube7
+    402490: pCube8
+    402492: polySurface1
+    402494: polySurface2
+    402496: polySurface4
+    402498: transform1
+    402500: transform2
+    2100000: lambert10
+    2100002: lambert11
+    2100004: lambert13
+    2100006: lambert15
+    2100008: lambert20
+    2100010: lambert16
+    2100012: hairPhysicalShader1
+    2100014: phongE1
+    2100016: lambert12
+    2300000: Eagle_2018:L_Eye
+    2300002: Eagle_2018:L_Primary01_01
+    2300004: Eagle_2018:L_Primary01_02
+    2300006: Eagle_2018:L_Primary01_03
+    2300008: Eagle_2018:L_Primary01_04
+    2300010: Eagle_2018:L_Primary01_05
+    2300012: Eagle_2018:L_Primary02_01
+    2300014: Eagle_2018:L_Primary02_02
+    2300016: Eagle_2018:L_Primary02_03
+    2300018: Eagle_2018:L_Primary02_04
+    2300020: Eagle_2018:L_Primary02_05
+    2300022: Eagle_2018:L_Primary02_06
+    2300024: Eagle_2018:L_Primary02_07
+    2300026: Eagle_2018:L_Primary02_08
+    2300028: Eagle_2018:polySurface100
+    2300030: Eagle_2018:polySurface100 1
+    2300032: Eagle_2018:polySurface144
+    2300034: Eagle_2018:polySurface144 1
+    2300036: Eagle_2018:polySurface155
+    2300038: Eagle_2018:polySurface155 1
+    2300040: Eagle_2018:polySurface156
+    2300042: Eagle_2018:polySurface156 1
+    2300044: Eagle_2018:polySurface157
+    2300046: Eagle_2018:polySurface157 1
+    2300048: Eagle_2018:polySurface158
+    2300050: Eagle_2018:polySurface158 1
+    2300052: Eagle_2018:polySurface159
+    2300054: Eagle_2018:polySurface159 1
+    2300056: Eagle_2018:polySurface160
+    2300058: Eagle_2018:polySurface160 1
+    2300060: Eagle_2018:polySurface161
+    2300062: Eagle_2018:polySurface161 1
+    2300064: Eagle_2018:polySurface162
+    2300066: Eagle_2018:polySurface162 1
+    2300068: Eagle_2018:polySurface163
+    2300070: Eagle_2018:polySurface163 1
+    2300072: Eagle_2018:polySurface164
+    2300074: Eagle_2018:polySurface164 1
+    2300076: Eagle_2018:polySurface165
+    2300078: Eagle_2018:polySurface165 1
+    2300080: Eagle_2018:polySurface166
+    2300082: Eagle_2018:polySurface166 1
+    2300084: Eagle_2018:polySurface167
+    2300086: Eagle_2018:polySurface167 1
+    2300088: Eagle_2018:polySurface168
+    2300090: Eagle_2018:polySurface168 1
+    2300092: Eagle_2018:polySurface169
+    2300094: Eagle_2018:polySurface169 1
+    2300096: Eagle_2018:polySurface170
+    2300098: Eagle_2018:polySurface170 1
+    2300100: Eagle_2018:polySurface171
+    2300102: Eagle_2018:polySurface171 1
+    2300104: Eagle_2018:polySurface172
+    2300106: Eagle_2018:polySurface172 1
+    2300108: Eagle_2018:polySurface173
+    2300110: Eagle_2018:polySurface173 1
+    2300112: Eagle_2018:polySurface174
+    2300114: Eagle_2018:polySurface174 1
+    2300116: Eagle_2018:polySurface175
+    2300118: Eagle_2018:polySurface175 1
+    2300120: Eagle_2018:polySurface176
+    2300122: Eagle_2018:polySurface176 1
+    2300124: Eagle_2018:polySurface177
+    2300126: Eagle_2018:polySurface177 1
+    2300128: Eagle_2018:polySurface178
+    2300130: Eagle_2018:polySurface178 1
+    2300132: Eagle_2018:polySurface179
+    2300134: Eagle_2018:polySurface179 1
+    2300136: Eagle_2018:polySurface180
+    2300138: Eagle_2018:polySurface180 1
+    2300140: Eagle_2018:polySurface181
+    2300142: Eagle_2018:polySurface181 1
+    2300144: Eagle_2018:polySurface182
+    2300146: Eagle_2018:polySurface182 1
+    2300148: Eagle_2018:polySurface183
+    2300150: Eagle_2018:polySurface183 1
+    2300152: Eagle_2018:polySurface184
+    2300154: Eagle_2018:polySurface184 1
+    2300156: Eagle_2018:polySurface185
+    2300158: Eagle_2018:polySurface185 1
+    2300160: Eagle_2018:polySurface186
+    2300162: Eagle_2018:polySurface186 1
+    2300164: Eagle_2018:polySurface187
+    2300166: Eagle_2018:polySurface187 1
+    2300168: Eagle_2018:polySurface188
+    2300170: Eagle_2018:polySurface188 1
+    2300172: Eagle_2018:polySurface190
+    2300174: Eagle_2018:polySurface190 1
+    2300176: Eagle_2018:polySurface191
+    2300178: Eagle_2018:polySurface191 1
+    2300180: Eagle_2018:polySurface192
+    2300182: Eagle_2018:polySurface192 1
+    2300184: Eagle_2018:polySurface193
+    2300186: Eagle_2018:polySurface193 1
+    2300188: Eagle_2018:polySurface194
+    2300190: Eagle_2018:polySurface194 1
+    2300192: Eagle_2018:polySurface195
+    2300194: Eagle_2018:polySurface195 1
+    2300196: Eagle_2018:polySurface196
+    2300198: Eagle_2018:polySurface196 1
+    2300200: Eagle_2018:polySurface197
+    2300202: Eagle_2018:polySurface197 1
+    2300204: Eagle_2018:polySurface198
+    2300206: Eagle_2018:polySurface198 1
+    2300208: Eagle_2018:polySurface199
+    2300210: Eagle_2018:polySurface199 1
+    2300212: Eagle_2018:polySurface200
+    2300214: Eagle_2018:polySurface200 1
+    2300216: Eagle_2018:polySurface257
+    2300218: Eagle_2018:polySurface257 1
+    2300220: Eagle_2018:polySurface258
+    2300222: Eagle_2018:polySurface258 1
+    2300224: Eagle_2018:polySurface263
+    2300226: Eagle_2018:polySurface263 1
+    2300228: Eagle_2018:polySurface264
+    2300230: Eagle_2018:polySurface264 1
+    2300232: Eagle_2018:polySurface265
+    2300234: Eagle_2018:polySurface265 1
+    2300236: Eagle_2018:polySurface266
+    2300238: Eagle_2018:polySurface266 1
+    2300240: Eagle_2018:polySurface267
+    2300242: Eagle_2018:polySurface267 1
+    2300244: Eagle_2018:polySurface268
+    2300246: Eagle_2018:polySurface268 1
+    2300248: Eagle_2018:polySurface269
+    2300250: Eagle_2018:polySurface269 1
+    2300252: Eagle_2018:polySurface270
+    2300254: Eagle_2018:polySurface270 1
+    2300256: Eagle_2018:polySurface271
+    2300258: Eagle_2018:polySurface271 1
+    2300260: Eagle_2018:polySurface272
+    2300262: Eagle_2018:polySurface272 1
+    2300264: Eagle_2018:polySurface273
+    2300266: Eagle_2018:polySurface273 1
+    2300268: Eagle_2018:polySurface274
+    2300270: Eagle_2018:polySurface274 1
+    2300272: Eagle_2018:polySurface275
+    2300274: Eagle_2018:polySurface275 1
+    2300276: Eagle_2018:polySurface276
+    2300278: Eagle_2018:polySurface276 1
+    2300280: Eagle_2018:polySurface277
+    2300282: Eagle_2018:polySurface277 1
+    2300284: Eagle_2018:polySurface278
+    2300286: Eagle_2018:polySurface278 1
+    2300288: Eagle_2018:polySurface279
+    2300290: Eagle_2018:polySurface279 1
+    2300292: Eagle_2018:polySurface280
+    2300294: Eagle_2018:polySurface280 1
+    2300296: Eagle_2018:polySurface281
+    2300298: Eagle_2018:polySurface281 1
+    2300300: Eagle_2018:polySurface282
+    2300302: Eagle_2018:polySurface282 1
+    2300304: Eagle_2018:polySurface283
+    2300306: Eagle_2018:polySurface283 1
+    2300308: Eagle_2018:polySurface284
+    2300310: Eagle_2018:polySurface284 1
+    2300312: Eagle_2018:polySurface285
+    2300314: Eagle_2018:polySurface285 1
+    2300316: Eagle_2018:polySurface286
+    2300318: Eagle_2018:polySurface286 1
+    2300320: Eagle_2018:polySurface287
+    2300322: Eagle_2018:polySurface287 1
+    2300324: Eagle_2018:polySurface288
+    2300326: Eagle_2018:polySurface288 1
+    2300328: Eagle_2018:polySurface289
+    2300330: Eagle_2018:polySurface289 1
+    2300332: Eagle_2018:polySurface290
+    2300334: Eagle_2018:polySurface290 1
+    2300336: Eagle_2018:polySurface291
+    2300338: Eagle_2018:polySurface291 1
+    2300340: Eagle_2018:polySurface292
+    2300342: Eagle_2018:polySurface292 1
+    2300344: Eagle_2018:polySurface35
+    2300346: Eagle_2018:polySurface35 1
+    2300348: Eagle_2018:polySurface36
+    2300350: Eagle_2018:polySurface36 1
+    2300352: Eagle_2018:polySurface37
+    2300354: Eagle_2018:polySurface37 1
+    2300356: Eagle_2018:polySurface38
+    2300358: Eagle_2018:polySurface38 1
+    2300360: Eagle_2018:polySurface60
+    2300362: Eagle_2018:polySurface60 1
+    2300364: Eagle_2018:polySurface61
+    2300366: Eagle_2018:polySurface61 1
+    2300368: Eagle_2018:polySurface62
+    2300370: Eagle_2018:polySurface62 1
+    2300372: Eagle_2018:polySurface63
+    2300374: Eagle_2018:polySurface63 1
+    2300376: Eagle_2018:polySurface639
+    2300378: Eagle_2018:polySurface639 1
+    2300380: Eagle_2018:polySurface64
+    2300382: Eagle_2018:polySurface64 1
+    2300384: Eagle_2018:polySurface640
+    2300386: Eagle_2018:polySurface640 1
+    2300388: Eagle_2018:polySurface641
+    2300390: Eagle_2018:polySurface641 1
+    2300392: Eagle_2018:polySurface642
+    2300394: Eagle_2018:polySurface642 1
+    2300396: Eagle_2018:polySurface643
+    2300398: Eagle_2018:polySurface643 1
+    2300400: Eagle_2018:polySurface644
+    2300402: Eagle_2018:polySurface644 1
+    2300404: Eagle_2018:polySurface645
+    2300406: Eagle_2018:polySurface645 1
+    2300408: Eagle_2018:polySurface646
+    2300410: Eagle_2018:polySurface646 1
+    2300412: Eagle_2018:polySurface66
+    2300414: Eagle_2018:polySurface66 1
+    2300416: Eagle_2018:polySurface67
+    2300418: Eagle_2018:polySurface67 1
+    2300420: Eagle_2018:polySurface68
+    2300422: Eagle_2018:polySurface68 1
+    2300424: Eagle_2018:polySurface69
+    2300426: Eagle_2018:polySurface69 1
+    2300428: Eagle_2018:polySurface70
+    2300430: Eagle_2018:polySurface70 1
+    2300432: Eagle_2018:polySurface71
+    2300434: Eagle_2018:polySurface71 1
+    2300436: Eagle_2018:polySurface72
+    2300438: Eagle_2018:polySurface72 1
+    2300440: Eagle_2018:polySurface73
+    2300442: Eagle_2018:polySurface73 1
+    2300444: Eagle_2018:polySurface74
+    2300446: Eagle_2018:polySurface74 1
+    2300448: Eagle_2018:polySurface75
+    2300450: Eagle_2018:polySurface75 1
+    2300452: Eagle_2018:polySurface76
+    2300454: Eagle_2018:polySurface76 1
+    2300456: Eagle_2018:polySurface77
+    2300458: Eagle_2018:polySurface77 1
+    2300460: Eagle_2018:polySurface78
+    2300462: Eagle_2018:polySurface78 1
+    2300464: Eagle_2018:polySurface79
+    2300466: Eagle_2018:polySurface79 1
+    2300468: Eagle_2018:polySurface80
+    2300470: Eagle_2018:polySurface80 1
+    2300472: Eagle_2018:polySurface81
+    2300474: Eagle_2018:polySurface81 1
+    2300476: Eagle_2018:polySurface82
+    2300478: Eagle_2018:polySurface82 1
+    2300480: Eagle_2018:polySurface83
+    2300482: Eagle_2018:polySurface83 1
+    2300484: Eagle_2018:polySurface84
+    2300486: Eagle_2018:polySurface84 1
+    2300488: Eagle_2018:polySurface85
+    2300490: Eagle_2018:polySurface85 1
+    2300492: Eagle_2018:polySurface86
+    2300494: Eagle_2018:polySurface86 1
+    2300496: Eagle_2018:polySurface87
+    2300498: Eagle_2018:polySurface87 1
+    2300500: Eagle_2018:polySurface88
+    2300502: Eagle_2018:polySurface88 1
+    2300504: Eagle_2018:polySurface89
+    2300506: Eagle_2018:polySurface89 1
+    2300508: Eagle_2018:polySurface90
+    2300510: Eagle_2018:polySurface90 1
+    2300512: Eagle_2018:polySurface94
+    2300514: Eagle_2018:polySurface94 1
+    2300516: Eagle_2018:polySurface95
+    2300518: Eagle_2018:polySurface95 1
+    2300520: Eagle_2018:polySurface96
+    2300522: Eagle_2018:polySurface96 1
+    2300524: Eagle_2018:polySurface97
+    2300526: Eagle_2018:polySurface97 1
+    2300528: Eagle_2018:polySurface98
+    2300530: Eagle_2018:polySurface98 1
+    2300532: Eagle_2018:polySurface99
+    2300534: Eagle_2018:polySurface99 1
+    2300536: Eagle_2018:Primary_Feathers01_01
+    2300538: Eagle_2018:Primary_Feathers01_01 1
+    2300540: Eagle_2018:Primary_Feathers01_02
+    2300542: Eagle_2018:Primary_Feathers01_02 1
+    2300544: Eagle_2018:Primary_Feathers01_03
+    2300546: Eagle_2018:Primary_Feathers01_03 1
+    2300548: Eagle_2018:Primary_Feathers01_04
+    2300550: Eagle_2018:Primary_Feathers01_04 1
+    2300552: Eagle_2018:Primary_Feathers01_05
+    2300554: Eagle_2018:Primary_Feathers01_05 1
+    2300556: Eagle_2018:Primary_Feathers01_06
+    2300558: Eagle_2018:Primary_Feathers01_06 1
+    2300560: Eagle_2018:Primary_Feathers01_07
+    2300562: Eagle_2018:Primary_Feathers01_07 1
+    2300564: Eagle_2018:Primary_Feathers01_08
+    2300566: Eagle_2018:Primary_Feathers01_08 1
+    2300568: Eagle_2018:Primary_Feathers02_01
+    2300570: Eagle_2018:Primary_Feathers02_01 1
+    2300572: Eagle_2018:Primary_Feathers02_02
+    2300574: Eagle_2018:Primary_Feathers02_02 1
+    2300576: Eagle_2018:Primary_Feathers02_03
+    2300578: Eagle_2018:Primary_Feathers02_03 1
+    2300580: Eagle_2018:Primary_Feathers02_04
+    2300582: Eagle_2018:Primary_Feathers02_04 1
+    2300584: Eagle_2018:Primary_Feathers02_05
+    2300586: Eagle_2018:Primary_Feathers02_05 1
+    2300588: Eagle_2018:Primary_Feathers02_06
+    2300590: Eagle_2018:Primary_Feathers02_06 1
+    2300592: Eagle_2018:Primary_Feathers02_07
+    2300594: Eagle_2018:Primary_Feathers02_07 1
+    2300596: Eagle_2018:Primary_Feathers02_08
+    2300598: Eagle_2018:Primary_Feathers02_08 1
+    2300600: Eagle_2018:Primary_Feathers02_09
+    2300602: Eagle_2018:Primary_Feathers02_09 1
+    2300604: Eagle_2018:R_Eye
+    2300606: Eagle_2018:R_Primary01_01
+    2300608: Eagle_2018:R_Primary01_02
+    2300610: Eagle_2018:R_Primary01_03
+    2300612: Eagle_2018:R_Primary01_04
+    2300614: Eagle_2018:R_Primary01_05
+    2300616: Eagle_2018:R_Primary02_01
+    2300618: Eagle_2018:R_Primary02_02
+    2300620: Eagle_2018:R_Primary02_03
+    2300622: Eagle_2018:R_Primary02_04
+    2300624: Eagle_2018:R_Primary02_05
+    2300626: Eagle_2018:R_Primary02_06
+    2300628: Eagle_2018:R_Primary02_07
+    2300630: Eagle_2018:R_Primary02_08
+    2300632: Eagle_2018:Secondary_Feathers01_010
+    2300634: Eagle_2018:Secondary_Feathers01_010 1
+    2300636: Eagle_2018:Secondary_Feathers01_011
+    2300638: Eagle_2018:Secondary_Feathers01_011 1
+    2300640: Eagle_2018:Secondary_Feathers01_012
+    2300642: Eagle_2018:Secondary_Feathers01_012 1
+    2300644: Eagle_2018:Secondary_Feathers01_013
+    2300646: Eagle_2018:Secondary_Feathers01_013 1
+    2300648: Eagle_2018:Secondary_Feathers01_014
+    2300650: Eagle_2018:Secondary_Feathers01_014 1
+    2300652: Eagle_2018:Secondary_Feathers01_015
+    2300654: Eagle_2018:Secondary_Feathers01_015 1
+    2300656: Eagle_2018:Secondary_Feathers01_016
+    2300658: Eagle_2018:Secondary_Feathers01_016 1
+    2300660: Eagle_2018:Secondary_Feathers01_017
+    2300662: Eagle_2018:Secondary_Feathers01_017 1
+    2300664: Eagle_2018:Secondary_Feathers01_018
+    2300666: Eagle_2018:Secondary_Feathers01_018 1
+    2300668: Eagle_2018:Secondary_Feathers01_09
+    2300670: Eagle_2018:Secondary_Feathers01_09 1
+    2300672: Eagle_2018:Secondary_Feathers02_010
+    2300674: Eagle_2018:Secondary_Feathers02_010 1
+    2300676: Eagle_2018:Secondary_Feathers02_011
+    2300678: Eagle_2018:Secondary_Feathers02_011 1
+    2300680: Eagle_2018:Secondary_Feathers02_012
+    2300682: Eagle_2018:Secondary_Feathers02_012 1
+    2300684: Eagle_2018:Secondary_Feathers02_013
+    2300686: Eagle_2018:Secondary_Feathers02_013 1
+    2300688: Eagle_2018:Secondary_Feathers02_014
+    2300690: Eagle_2018:Secondary_Feathers02_014 1
+    2300692: Eagle_2018:Secondary_Feathers02_015
+    2300694: Eagle_2018:Secondary_Feathers02_015 1
+    2300696: Eagle_2018:Secondary_Feathers02_016
+    2300698: Eagle_2018:Secondary_Feathers02_016 1
+    2300700: Eagle_2018:Secondary_Feathers02_017
+    2300702: Eagle_2018:Secondary_Feathers02_017 1
+    2300704: Eagle_2018:Secondary_Feathers02_018
+    2300706: Eagle_2018:Secondary_Feathers02_018 1
+    2300708: Eagle_2018:Tail_Feather_01
+    2300710: Eagle_2018:Tail_Feather_010
+    2300712: Eagle_2018:Tail_Feather_011
+    2300714: Eagle_2018:Tail_Feather_012
+    2300716: Eagle_2018:Tail_Feather_02
+    2300718: Eagle_2018:Tail_Feather_03
+    2300720: Eagle_2018:Tail_Feather_04
+    2300722: Eagle_2018:Tail_Feather_05
+    2300724: Eagle_2018:Tail_Feather_06
+    2300726: Eagle_2018:Tail_Feather_07
+    2300728: Eagle_2018:Tail_Feather_08
+    2300730: Eagle_2018:Tail_Feather_09
+    2300732: Eagle_2018:Tertial_Feathers01_01
+    2300734: Eagle_2018:Tertial_Feathers01_01 1
+    2300736: Eagle_2018:Tertial_Feathers01_02
+    2300738: Eagle_2018:Tertial_Feathers01_02 1
+    2300740: Eagle_2018:Tertial_Feathers01_03
+    2300742: Eagle_2018:Tertial_Feathers01_03 1
+    2300744: Eagle_2018:Tertial_Feathers01_04
+    2300746: Eagle_2018:Tertial_Feathers01_04 1
+    2300748: Eagle_2018:Tertial_Feathers01_05
+    2300750: Eagle_2018:Tertial_Feathers01_05 1
+    2300752: Eagle_2018:Tertial_Feathers01_06
+    2300754: Eagle_2018:Tertial_Feathers01_06 1
+    2300756: Eagle_2018:Tertial_Feathers01_07
+    2300758: Eagle_2018:Tertial_Feathers01_07 1
+    2300760: Eagle_2018:Tertial_Feathers02_01
+    2300762: Eagle_2018:Tertial_Feathers02_01 1
+    2300764: Eagle_2018:Tertial_Feathers02_02
+    2300766: Eagle_2018:Tertial_Feathers02_02 1
+    2300768: Eagle_2018:Tertial_Feathers02_03
+    2300770: Eagle_2018:Tertial_Feathers02_03 1
+    2300772: Eagle_2018:Tertial_Feathers02_04
+    2300774: Eagle_2018:Tertial_Feathers02_04 1
+    2300776: Eagle_2018:Tertial_Feathers02_05
+    2300778: Eagle_2018:Tertial_Feathers02_05 1
+    2300780: pCone290
+    2300782: pCube8
+    2300784: polySurface1
+    2300786: polySurface4
+    3300000: Eagle_2018:L_Eye
+    3300002: Eagle_2018:L_Primary01_01
+    3300004: Eagle_2018:L_Primary01_02
+    3300006: Eagle_2018:L_Primary01_03
+    3300008: Eagle_2018:L_Primary01_04
+    3300010: Eagle_2018:L_Primary01_05
+    3300012: Eagle_2018:L_Primary02_01
+    3300014: Eagle_2018:L_Primary02_02
+    3300016: Eagle_2018:L_Primary02_03
+    3300018: Eagle_2018:L_Primary02_04
+    3300020: Eagle_2018:L_Primary02_05
+    3300022: Eagle_2018:L_Primary02_06
+    3300024: Eagle_2018:L_Primary02_07
+    3300026: Eagle_2018:L_Primary02_08
+    3300028: Eagle_2018:polySurface100
+    3300030: Eagle_2018:polySurface100 1
+    3300032: Eagle_2018:polySurface144
+    3300034: Eagle_2018:polySurface144 1
+    3300036: Eagle_2018:polySurface155
+    3300038: Eagle_2018:polySurface155 1
+    3300040: Eagle_2018:polySurface156
+    3300042: Eagle_2018:polySurface156 1
+    3300044: Eagle_2018:polySurface157
+    3300046: Eagle_2018:polySurface157 1
+    3300048: Eagle_2018:polySurface158
+    3300050: Eagle_2018:polySurface158 1
+    3300052: Eagle_2018:polySurface159
+    3300054: Eagle_2018:polySurface159 1
+    3300056: Eagle_2018:polySurface160
+    3300058: Eagle_2018:polySurface160 1
+    3300060: Eagle_2018:polySurface161
+    3300062: Eagle_2018:polySurface161 1
+    3300064: Eagle_2018:polySurface162
+    3300066: Eagle_2018:polySurface162 1
+    3300068: Eagle_2018:polySurface163
+    3300070: Eagle_2018:polySurface163 1
+    3300072: Eagle_2018:polySurface164
+    3300074: Eagle_2018:polySurface164 1
+    3300076: Eagle_2018:polySurface165
+    3300078: Eagle_2018:polySurface165 1
+    3300080: Eagle_2018:polySurface166
+    3300082: Eagle_2018:polySurface166 1
+    3300084: Eagle_2018:polySurface167
+    3300086: Eagle_2018:polySurface167 1
+    3300088: Eagle_2018:polySurface168
+    3300090: Eagle_2018:polySurface168 1
+    3300092: Eagle_2018:polySurface169
+    3300094: Eagle_2018:polySurface169 1
+    3300096: Eagle_2018:polySurface170
+    3300098: Eagle_2018:polySurface170 1
+    3300100: Eagle_2018:polySurface171
+    3300102: Eagle_2018:polySurface171 1
+    3300104: Eagle_2018:polySurface172
+    3300106: Eagle_2018:polySurface172 1
+    3300108: Eagle_2018:polySurface173
+    3300110: Eagle_2018:polySurface173 1
+    3300112: Eagle_2018:polySurface174
+    3300114: Eagle_2018:polySurface174 1
+    3300116: Eagle_2018:polySurface175
+    3300118: Eagle_2018:polySurface175 1
+    3300120: Eagle_2018:polySurface176
+    3300122: Eagle_2018:polySurface176 1
+    3300124: Eagle_2018:polySurface177
+    3300126: Eagle_2018:polySurface177 1
+    3300128: Eagle_2018:polySurface178
+    3300130: Eagle_2018:polySurface178 1
+    3300132: Eagle_2018:polySurface179
+    3300134: Eagle_2018:polySurface179 1
+    3300136: Eagle_2018:polySurface180
+    3300138: Eagle_2018:polySurface180 1
+    3300140: Eagle_2018:polySurface181
+    3300142: Eagle_2018:polySurface181 1
+    3300144: Eagle_2018:polySurface182
+    3300146: Eagle_2018:polySurface182 1
+    3300148: Eagle_2018:polySurface183
+    3300150: Eagle_2018:polySurface183 1
+    3300152: Eagle_2018:polySurface184
+    3300154: Eagle_2018:polySurface184 1
+    3300156: Eagle_2018:polySurface185
+    3300158: Eagle_2018:polySurface185 1
+    3300160: Eagle_2018:polySurface186
+    3300162: Eagle_2018:polySurface186 1
+    3300164: Eagle_2018:polySurface187
+    3300166: Eagle_2018:polySurface187 1
+    3300168: Eagle_2018:polySurface188
+    3300170: Eagle_2018:polySurface188 1
+    3300172: Eagle_2018:polySurface190
+    3300174: Eagle_2018:polySurface190 1
+    3300176: Eagle_2018:polySurface191
+    3300178: Eagle_2018:polySurface191 1
+    3300180: Eagle_2018:polySurface192
+    3300182: Eagle_2018:polySurface192 1
+    3300184: Eagle_2018:polySurface193
+    3300186: Eagle_2018:polySurface193 1
+    3300188: Eagle_2018:polySurface194
+    3300190: Eagle_2018:polySurface194 1
+    3300192: Eagle_2018:polySurface195
+    3300194: Eagle_2018:polySurface195 1
+    3300196: Eagle_2018:polySurface196
+    3300198: Eagle_2018:polySurface196 1
+    3300200: Eagle_2018:polySurface197
+    3300202: Eagle_2018:polySurface197 1
+    3300204: Eagle_2018:polySurface198
+    3300206: Eagle_2018:polySurface198 1
+    3300208: Eagle_2018:polySurface199
+    3300210: Eagle_2018:polySurface199 1
+    3300212: Eagle_2018:polySurface200
+    3300214: Eagle_2018:polySurface200 1
+    3300216: Eagle_2018:polySurface257
+    3300218: Eagle_2018:polySurface257 1
+    3300220: Eagle_2018:polySurface258
+    3300222: Eagle_2018:polySurface258 1
+    3300224: Eagle_2018:polySurface263
+    3300226: Eagle_2018:polySurface263 1
+    3300228: Eagle_2018:polySurface264
+    3300230: Eagle_2018:polySurface264 1
+    3300232: Eagle_2018:polySurface265
+    3300234: Eagle_2018:polySurface265 1
+    3300236: Eagle_2018:polySurface266
+    3300238: Eagle_2018:polySurface266 1
+    3300240: Eagle_2018:polySurface267
+    3300242: Eagle_2018:polySurface267 1
+    3300244: Eagle_2018:polySurface268
+    3300246: Eagle_2018:polySurface268 1
+    3300248: Eagle_2018:polySurface269
+    3300250: Eagle_2018:polySurface269 1
+    3300252: Eagle_2018:polySurface270
+    3300254: Eagle_2018:polySurface270 1
+    3300256: Eagle_2018:polySurface271
+    3300258: Eagle_2018:polySurface271 1
+    3300260: Eagle_2018:polySurface272
+    3300262: Eagle_2018:polySurface272 1
+    3300264: Eagle_2018:polySurface273
+    3300266: Eagle_2018:polySurface273 1
+    3300268: Eagle_2018:polySurface274
+    3300270: Eagle_2018:polySurface274 1
+    3300272: Eagle_2018:polySurface275
+    3300274: Eagle_2018:polySurface275 1
+    3300276: Eagle_2018:polySurface276
+    3300278: Eagle_2018:polySurface276 1
+    3300280: Eagle_2018:polySurface277
+    3300282: Eagle_2018:polySurface277 1
+    3300284: Eagle_2018:polySurface278
+    3300286: Eagle_2018:polySurface278 1
+    3300288: Eagle_2018:polySurface279
+    3300290: Eagle_2018:polySurface279 1
+    3300292: Eagle_2018:polySurface280
+    3300294: Eagle_2018:polySurface280 1
+    3300296: Eagle_2018:polySurface281
+    3300298: Eagle_2018:polySurface281 1
+    3300300: Eagle_2018:polySurface282
+    3300302: Eagle_2018:polySurface282 1
+    3300304: Eagle_2018:polySurface283
+    3300306: Eagle_2018:polySurface283 1
+    3300308: Eagle_2018:polySurface284
+    3300310: Eagle_2018:polySurface284 1
+    3300312: Eagle_2018:polySurface285
+    3300314: Eagle_2018:polySurface285 1
+    3300316: Eagle_2018:polySurface286
+    3300318: Eagle_2018:polySurface286 1
+    3300320: Eagle_2018:polySurface287
+    3300322: Eagle_2018:polySurface287 1
+    3300324: Eagle_2018:polySurface288
+    3300326: Eagle_2018:polySurface288 1
+    3300328: Eagle_2018:polySurface289
+    3300330: Eagle_2018:polySurface289 1
+    3300332: Eagle_2018:polySurface290
+    3300334: Eagle_2018:polySurface290 1
+    3300336: Eagle_2018:polySurface291
+    3300338: Eagle_2018:polySurface291 1
+    3300340: Eagle_2018:polySurface292
+    3300342: Eagle_2018:polySurface292 1
+    3300344: Eagle_2018:polySurface35
+    3300346: Eagle_2018:polySurface35 1
+    3300348: Eagle_2018:polySurface36
+    3300350: Eagle_2018:polySurface36 1
+    3300352: Eagle_2018:polySurface37
+    3300354: Eagle_2018:polySurface37 1
+    3300356: Eagle_2018:polySurface38
+    3300358: Eagle_2018:polySurface38 1
+    3300360: Eagle_2018:polySurface60
+    3300362: Eagle_2018:polySurface60 1
+    3300364: Eagle_2018:polySurface61
+    3300366: Eagle_2018:polySurface61 1
+    3300368: Eagle_2018:polySurface62
+    3300370: Eagle_2018:polySurface62 1
+    3300372: Eagle_2018:polySurface63
+    3300374: Eagle_2018:polySurface63 1
+    3300376: Eagle_2018:polySurface639
+    3300378: Eagle_2018:polySurface639 1
+    3300380: Eagle_2018:polySurface64
+    3300382: Eagle_2018:polySurface64 1
+    3300384: Eagle_2018:polySurface640
+    3300386: Eagle_2018:polySurface640 1
+    3300388: Eagle_2018:polySurface641
+    3300390: Eagle_2018:polySurface641 1
+    3300392: Eagle_2018:polySurface642
+    3300394: Eagle_2018:polySurface642 1
+    3300396: Eagle_2018:polySurface643
+    3300398: Eagle_2018:polySurface643 1
+    3300400: Eagle_2018:polySurface644
+    3300402: Eagle_2018:polySurface644 1
+    3300404: Eagle_2018:polySurface645
+    3300406: Eagle_2018:polySurface645 1
+    3300408: Eagle_2018:polySurface646
+    3300410: Eagle_2018:polySurface646 1
+    3300412: Eagle_2018:polySurface66
+    3300414: Eagle_2018:polySurface66 1
+    3300416: Eagle_2018:polySurface67
+    3300418: Eagle_2018:polySurface67 1
+    3300420: Eagle_2018:polySurface68
+    3300422: Eagle_2018:polySurface68 1
+    3300424: Eagle_2018:polySurface69
+    3300426: Eagle_2018:polySurface69 1
+    3300428: Eagle_2018:polySurface70
+    3300430: Eagle_2018:polySurface70 1
+    3300432: Eagle_2018:polySurface71
+    3300434: Eagle_2018:polySurface71 1
+    3300436: Eagle_2018:polySurface72
+    3300438: Eagle_2018:polySurface72 1
+    3300440: Eagle_2018:polySurface73
+    3300442: Eagle_2018:polySurface73 1
+    3300444: Eagle_2018:polySurface74
+    3300446: Eagle_2018:polySurface74 1
+    3300448: Eagle_2018:polySurface75
+    3300450: Eagle_2018:polySurface75 1
+    3300452: Eagle_2018:polySurface76
+    3300454: Eagle_2018:polySurface76 1
+    3300456: Eagle_2018:polySurface77
+    3300458: Eagle_2018:polySurface77 1
+    3300460: Eagle_2018:polySurface78
+    3300462: Eagle_2018:polySurface78 1
+    3300464: Eagle_2018:polySurface79
+    3300466: Eagle_2018:polySurface79 1
+    3300468: Eagle_2018:polySurface80
+    3300470: Eagle_2018:polySurface80 1
+    3300472: Eagle_2018:polySurface81
+    3300474: Eagle_2018:polySurface81 1
+    3300476: Eagle_2018:polySurface82
+    3300478: Eagle_2018:polySurface82 1
+    3300480: Eagle_2018:polySurface83
+    3300482: Eagle_2018:polySurface83 1
+    3300484: Eagle_2018:polySurface84
+    3300486: Eagle_2018:polySurface84 1
+    3300488: Eagle_2018:polySurface85
+    3300490: Eagle_2018:polySurface85 1
+    3300492: Eagle_2018:polySurface86
+    3300494: Eagle_2018:polySurface86 1
+    3300496: Eagle_2018:polySurface87
+    3300498: Eagle_2018:polySurface87 1
+    3300500: Eagle_2018:polySurface88
+    3300502: Eagle_2018:polySurface88 1
+    3300504: Eagle_2018:polySurface89
+    3300506: Eagle_2018:polySurface89 1
+    3300508: Eagle_2018:polySurface90
+    3300510: Eagle_2018:polySurface90 1
+    3300512: Eagle_2018:polySurface94
+    3300514: Eagle_2018:polySurface94 1
+    3300516: Eagle_2018:polySurface95
+    3300518: Eagle_2018:polySurface95 1
+    3300520: Eagle_2018:polySurface96
+    3300522: Eagle_2018:polySurface96 1
+    3300524: Eagle_2018:polySurface97
+    3300526: Eagle_2018:polySurface97 1
+    3300528: Eagle_2018:polySurface98
+    3300530: Eagle_2018:polySurface98 1
+    3300532: Eagle_2018:polySurface99
+    3300534: Eagle_2018:polySurface99 1
+    3300536: Eagle_2018:Primary_Feathers01_01
+    3300538: Eagle_2018:Primary_Feathers01_01 1
+    3300540: Eagle_2018:Primary_Feathers01_02
+    3300542: Eagle_2018:Primary_Feathers01_02 1
+    3300544: Eagle_2018:Primary_Feathers01_03
+    3300546: Eagle_2018:Primary_Feathers01_03 1
+    3300548: Eagle_2018:Primary_Feathers01_04
+    3300550: Eagle_2018:Primary_Feathers01_04 1
+    3300552: Eagle_2018:Primary_Feathers01_05
+    3300554: Eagle_2018:Primary_Feathers01_05 1
+    3300556: Eagle_2018:Primary_Feathers01_06
+    3300558: Eagle_2018:Primary_Feathers01_06 1
+    3300560: Eagle_2018:Primary_Feathers01_07
+    3300562: Eagle_2018:Primary_Feathers01_07 1
+    3300564: Eagle_2018:Primary_Feathers01_08
+    3300566: Eagle_2018:Primary_Feathers01_08 1
+    3300568: Eagle_2018:Primary_Feathers02_01
+    3300570: Eagle_2018:Primary_Feathers02_01 1
+    3300572: Eagle_2018:Primary_Feathers02_02
+    3300574: Eagle_2018:Primary_Feathers02_02 1
+    3300576: Eagle_2018:Primary_Feathers02_03
+    3300578: Eagle_2018:Primary_Feathers02_03 1
+    3300580: Eagle_2018:Primary_Feathers02_04
+    3300582: Eagle_2018:Primary_Feathers02_04 1
+    3300584: Eagle_2018:Primary_Feathers02_05
+    3300586: Eagle_2018:Primary_Feathers02_05 1
+    3300588: Eagle_2018:Primary_Feathers02_06
+    3300590: Eagle_2018:Primary_Feathers02_06 1
+    3300592: Eagle_2018:Primary_Feathers02_07
+    3300594: Eagle_2018:Primary_Feathers02_07 1
+    3300596: Eagle_2018:Primary_Feathers02_08
+    3300598: Eagle_2018:Primary_Feathers02_08 1
+    3300600: Eagle_2018:Primary_Feathers02_09
+    3300602: Eagle_2018:Primary_Feathers02_09 1
+    3300604: Eagle_2018:R_Eye
+    3300606: Eagle_2018:R_Primary01_01
+    3300608: Eagle_2018:R_Primary01_02
+    3300610: Eagle_2018:R_Primary01_03
+    3300612: Eagle_2018:R_Primary01_04
+    3300614: Eagle_2018:R_Primary01_05
+    3300616: Eagle_2018:R_Primary02_01
+    3300618: Eagle_2018:R_Primary02_02
+    3300620: Eagle_2018:R_Primary02_03
+    3300622: Eagle_2018:R_Primary02_04
+    3300624: Eagle_2018:R_Primary02_05
+    3300626: Eagle_2018:R_Primary02_06
+    3300628: Eagle_2018:R_Primary02_07
+    3300630: Eagle_2018:R_Primary02_08
+    3300632: Eagle_2018:Secondary_Feathers01_010
+    3300634: Eagle_2018:Secondary_Feathers01_010 1
+    3300636: Eagle_2018:Secondary_Feathers01_011
+    3300638: Eagle_2018:Secondary_Feathers01_011 1
+    3300640: Eagle_2018:Secondary_Feathers01_012
+    3300642: Eagle_2018:Secondary_Feathers01_012 1
+    3300644: Eagle_2018:Secondary_Feathers01_013
+    3300646: Eagle_2018:Secondary_Feathers01_013 1
+    3300648: Eagle_2018:Secondary_Feathers01_014
+    3300650: Eagle_2018:Secondary_Feathers01_014 1
+    3300652: Eagle_2018:Secondary_Feathers01_015
+    3300654: Eagle_2018:Secondary_Feathers01_015 1
+    3300656: Eagle_2018:Secondary_Feathers01_016
+    3300658: Eagle_2018:Secondary_Feathers01_016 1
+    3300660: Eagle_2018:Secondary_Feathers01_017
+    3300662: Eagle_2018:Secondary_Feathers01_017 1
+    3300664: Eagle_2018:Secondary_Feathers01_018
+    3300666: Eagle_2018:Secondary_Feathers01_018 1
+    3300668: Eagle_2018:Secondary_Feathers01_09
+    3300670: Eagle_2018:Secondary_Feathers01_09 1
+    3300672: Eagle_2018:Secondary_Feathers02_010
+    3300674: Eagle_2018:Secondary_Feathers02_010 1
+    3300676: Eagle_2018:Secondary_Feathers02_011
+    3300678: Eagle_2018:Secondary_Feathers02_011 1
+    3300680: Eagle_2018:Secondary_Feathers02_012
+    3300682: Eagle_2018:Secondary_Feathers02_012 1
+    3300684: Eagle_2018:Secondary_Feathers02_013
+    3300686: Eagle_2018:Secondary_Feathers02_013 1
+    3300688: Eagle_2018:Secondary_Feathers02_014
+    3300690: Eagle_2018:Secondary_Feathers02_014 1
+    3300692: Eagle_2018:Secondary_Feathers02_015
+    3300694: Eagle_2018:Secondary_Feathers02_015 1
+    3300696: Eagle_2018:Secondary_Feathers02_016
+    3300698: Eagle_2018:Secondary_Feathers02_016 1
+    3300700: Eagle_2018:Secondary_Feathers02_017
+    3300702: Eagle_2018:Secondary_Feathers02_017 1
+    3300704: Eagle_2018:Secondary_Feathers02_018
+    3300706: Eagle_2018:Secondary_Feathers02_018 1
+    3300708: Eagle_2018:Tail_Feather_01
+    3300710: Eagle_2018:Tail_Feather_010
+    3300712: Eagle_2018:Tail_Feather_011
+    3300714: Eagle_2018:Tail_Feather_012
+    3300716: Eagle_2018:Tail_Feather_02
+    3300718: Eagle_2018:Tail_Feather_03
+    3300720: Eagle_2018:Tail_Feather_04
+    3300722: Eagle_2018:Tail_Feather_05
+    3300724: Eagle_2018:Tail_Feather_06
+    3300726: Eagle_2018:Tail_Feather_07
+    3300728: Eagle_2018:Tail_Feather_08
+    3300730: Eagle_2018:Tail_Feather_09
+    3300732: Eagle_2018:Tertial_Feathers01_01
+    3300734: Eagle_2018:Tertial_Feathers01_01 1
+    3300736: Eagle_2018:Tertial_Feathers01_02
+    3300738: Eagle_2018:Tertial_Feathers01_02 1
+    3300740: Eagle_2018:Tertial_Feathers01_03
+    3300742: Eagle_2018:Tertial_Feathers01_03 1
+    3300744: Eagle_2018:Tertial_Feathers01_04
+    3300746: Eagle_2018:Tertial_Feathers01_04 1
+    3300748: Eagle_2018:Tertial_Feathers01_05
+    3300750: Eagle_2018:Tertial_Feathers01_05 1
+    3300752: Eagle_2018:Tertial_Feathers01_06
+    3300754: Eagle_2018:Tertial_Feathers01_06 1
+    3300756: Eagle_2018:Tertial_Feathers01_07
+    3300758: Eagle_2018:Tertial_Feathers01_07 1
+    3300760: Eagle_2018:Tertial_Feathers02_01
+    3300762: Eagle_2018:Tertial_Feathers02_01 1
+    3300764: Eagle_2018:Tertial_Feathers02_02
+    3300766: Eagle_2018:Tertial_Feathers02_02 1
+    3300768: Eagle_2018:Tertial_Feathers02_03
+    3300770: Eagle_2018:Tertial_Feathers02_03 1
+    3300772: Eagle_2018:Tertial_Feathers02_04
+    3300774: Eagle_2018:Tertial_Feathers02_04 1
+    3300776: Eagle_2018:Tertial_Feathers02_05
+    3300778: Eagle_2018:Tertial_Feathers02_05 1
+    3300780: pCone290
+    3300782: pCube8
+    3300784: polySurface1
+    3300786: polySurface4
+    4300000: polySurface1
+    4300002: polySurface4
+    4300004: pCube8
+    4300006: Eagle_2018:R_Eye
+    4300008: Eagle_2018:L_Eye
+    4300010: Eagle_2018:polySurface35
+    4300012: Eagle_2018:polySurface38
+    4300014: Eagle_2018:polySurface37
+    4300016: Eagle_2018:polySurface36
+    4300018: Eagle_2018:polySurface35
+    4300020: Eagle_2018:polySurface36
+    4300022: Eagle_2018:polySurface37
+    4300024: Eagle_2018:polySurface38
+    4300026: Eagle_2018:Tail_Feather_01
+    4300028: Eagle_2018:Tail_Feather_02
+    4300030: Eagle_2018:Tail_Feather_03
+    4300032: Eagle_2018:Tail_Feather_04
+    4300034: Eagle_2018:Tail_Feather_05
+    4300036: Eagle_2018:Tail_Feather_06
+    4300038: Eagle_2018:Tail_Feather_07
+    4300040: Eagle_2018:Tail_Feather_08
+    4300042: Eagle_2018:Tail_Feather_09
+    4300044: Eagle_2018:Tail_Feather_010
+    4300046: Eagle_2018:Tail_Feather_011
+    4300048: Eagle_2018:Tail_Feather_012
+    4300050: Eagle_2018:Primary_Feathers01_01
+    4300052: Eagle_2018:Primary_Feathers01_02
+    4300054: Eagle_2018:polySurface285
+    4300056: Eagle_2018:polySurface292
+    4300058: Eagle_2018:polySurface162
+    4300060: Eagle_2018:Primary_Feathers01_03
+    4300062: Eagle_2018:polySurface172
+    4300064: Eagle_2018:polySurface161
+    4300066: Eagle_2018:polySurface173
+    4300068: Eagle_2018:polySurface199
+    4300070: Eagle_2018:Primary_Feathers01_04
+    4300072: Eagle_2018:polySurface174
+    4300074: Eagle_2018:polySurface160
+    4300076: Eagle_2018:polySurface159
+    4300078: Eagle_2018:polySurface200
+    4300080: Eagle_2018:Primary_Feathers01_05
+    4300082: Eagle_2018:polySurface175
+    4300084: Eagle_2018:polySurface158
+    4300086: Eagle_2018:polySurface176
+    4300088: Eagle_2018:polySurface157
+    4300090: Eagle_2018:polySurface191
+    4300092: Eagle_2018:Primary_Feathers01_06
+    4300094: Eagle_2018:polySurface177
+    4300096: Eagle_2018:polySurface156
+    4300098: Eagle_2018:polySurface192
+    4300100: Eagle_2018:Primary_Feathers01_07
+    4300102: Eagle_2018:polySurface178
+    4300104: Eagle_2018:polySurface171
+    4300106: Eagle_2018:polySurface193
+    4300108: Eagle_2018:Primary_Feathers01_08
+    4300110: Eagle_2018:polySurface179
+    4300112: Eagle_2018:polySurface170
+    4300114: Eagle_2018:polySurface155
+    4300116: Eagle_2018:polySurface180
+    4300118: Eagle_2018:polySurface194
+    4300120: Eagle_2018:polySurface181
+    4300122: Eagle_2018:polySurface169
+    4300124: Eagle_2018:polySurface182
+    4300126: Eagle_2018:polySurface195
+    4300128: Eagle_2018:Primary_Feathers02_01
+    4300130: Eagle_2018:polySurface281
+    4300132: Eagle_2018:polySurface282
+    4300134: Eagle_2018:polySurface290
+    4300136: Eagle_2018:polySurface269
+    4300138: Eagle_2018:polySurface270
+    4300140: Eagle_2018:Primary_Feathers02_02
+    4300142: Eagle_2018:polySurface283
+    4300144: Eagle_2018:polySurface268
+    4300146: Eagle_2018:polySurface284
+    4300148: Eagle_2018:polySurface267
+    4300150: Eagle_2018:polySurface274
+    4300152: Eagle_2018:polySurface291
+    4300154: Eagle_2018:Primary_Feathers02_03
+    4300156: Eagle_2018:Primary_Feathers02_04
+    4300158: Eagle_2018:Primary_Feathers02_05
+    4300160: Eagle_2018:Primary_Feathers02_06
+    4300162: Eagle_2018:Primary_Feathers02_07
+    4300164: Eagle_2018:Primary_Feathers02_08
+    4300166: Eagle_2018:Primary_Feathers02_09
+    4300168: Eagle_2018:L_Primary03_010
+    4300170: Eagle_2018:Primary_Feathers03_01
+    4300172: Eagle_2018:Primary_Feathers03_02
+    4300174: Eagle_2018:Primary_Feathers03_03
+    4300176: Eagle_2018:Primary_Feathers03_04
+    4300178: Eagle_2018:Primary_Feathers03_05
+    4300180: Eagle_2018:Primary_Feathers03_06
+    4300182: Eagle_2018:Primary_Feathers03_07
+    4300184: Eagle_2018:L_Primary01_01
+    4300186: Eagle_2018:polySurface286
+    4300188: Eagle_2018:polySurface276
+    4300190: Eagle_2018:polySurface263
+    4300192: Eagle_2018:polySurface264
+    4300194: Eagle_2018:L_Primary01_02
+    4300196: Eagle_2018:L_Primary01_03
+    4300198: Eagle_2018:L_Primary01_04
+    4300200: Eagle_2018:L_Primary01_05
+    4300202: Eagle_2018:polySurface277
+    4300204: Eagle_2018:polySurface265
+    4300206: Eagle_2018:polySurface275
+    4300208: Eagle_2018:polySurface278
+    4300210: Eagle_2018:polySurface257
+    4300212: Eagle_2018:polySurface266
+    4300214: Eagle_2018:polySurface273
+    4300216: Eagle_2018:polySurface287
+    4300218: Eagle_2018:L_Primary02_01
+    4300220: Eagle_2018:L_Primary02_02
+    4300222: Eagle_2018:L_Primary02_03
+    4300224: Eagle_2018:L_Primary02_04
+    4300226: Eagle_2018:L_Primary02_05
+    4300228: Eagle_2018:L_Primary02_06
+    4300230: Eagle_2018:L_Primary02_07
+    4300232: Eagle_2018:L_Primary02_08
+    4300234: Eagle_2018:polySurface279
+    4300236: Eagle_2018:polySurface258
+    4300238: Eagle_2018:polySurface272
+    4300240: Eagle_2018:polySurface289
+    4300242: Eagle_2018:polySurface288
+    4300244: Eagle_2018:polySurface280
+    4300246: Eagle_2018:polySurface271
+    4300248: Eagle_2018:L_Primary03_01
+    4300250: Eagle_2018:L_Primary03_02
+    4300252: Eagle_2018:L_Primary03_03
+    4300254: Eagle_2018:L_Primary03_04
+    4300256: Eagle_2018:L_Primary03_05
+    4300258: Eagle_2018:L_Primary03_06
+    4300260: Eagle_2018:L_Primary03_07
+    4300262: Eagle_2018:L_Primary03_08
+    4300264: Eagle_2018:L_Primary03_09
+    4300266: Eagle_2018:Secondary_Feathers01_09
+    4300268: Eagle_2018:Secondary_Feathers01_010
+    4300270: Eagle_2018:polySurface183
+    4300272: Eagle_2018:polySurface196
+    4300274: Eagle_2018:polySurface168
+    4300276: Eagle_2018:Secondary_Feathers01_011
+    4300278: Eagle_2018:polySurface185
+    4300280: Eagle_2018:polySurface184
+    4300282: Eagle_2018:polySurface167
+    4300284: Eagle_2018:polySurface166
+    4300286: Eagle_2018:polySurface197
+    4300288: Eagle_2018:Secondary_Feathers01_012
+    4300290: Eagle_2018:polySurface186
+    4300292: Eagle_2018:polySurface165
+    4300294: Eagle_2018:polySurface144
+    4300296: Eagle_2018:polySurface164
+    4300298: Eagle_2018:polySurface187
+    4300300: Eagle_2018:polySurface198
+    4300302: Eagle_2018:Secondary_Feathers01_013
+    4300304: Eagle_2018:polySurface188
+    4300306: Eagle_2018:polySurface163
+    4300308: Eagle_2018:polySurface190
+    4300310: Eagle_2018:Secondary_Feathers01_014
+    4300312: Eagle_2018:polySurface78
+    4300314: Eagle_2018:polySurface71
+    4300316: Eagle_2018:polySurface79
+    4300318: Eagle_2018:polySurface63
+    4300320: Eagle_2018:polySurface64
+    4300322: Eagle_2018:polySurface69
+    4300324: Eagle_2018:polySurface97
+    4300326: Eagle_2018:Secondary_Feathers01_015
+    4300328: Eagle_2018:Secondary_Feathers01_016
+    4300330: Eagle_2018:polySurface80
+    4300332: Eagle_2018:polySurface81
+    4300334: Eagle_2018:polySurface75
+    4300336: Eagle_2018:polySurface70
+    4300338: Eagle_2018:polySurface94
+    4300340: Eagle_2018:polySurface98
+    4300342: Eagle_2018:Secondary_Feathers01_017
+    4300344: Eagle_2018:polySurface82
+    4300346: Eagle_2018:polySurface66
+    4300348: Eagle_2018:polySurface72
+    4300350: Eagle_2018:polySurface95
+    4300352: Eagle_2018:polySurface99
+    4300354: Eagle_2018:Secondary_Feathers01_018
+    4300356: Eagle_2018:polySurface96
+    4300358: Eagle_2018:polySurface86
+    4300360: Eagle_2018:polySurface83
+    4300362: Eagle_2018:polySurface89
+    4300364: Eagle_2018:polySurface68
+    4300366: Eagle_2018:Secondary_Feathers02_010
+    4300368: Eagle_2018:Secondary_Feathers02_011
+    4300370: Eagle_2018:Secondary_Feathers02_012
+    4300372: Eagle_2018:Secondary_Feathers02_013
+    4300374: Eagle_2018:Secondary_Feathers02_014
+    4300376: Eagle_2018:Secondary_Feathers02_015
+    4300378: Eagle_2018:Secondary_Feathers02_016
+    4300380: Eagle_2018:Secondary_Feathers02_017
+    4300382: Eagle_2018:Secondary_Feathers02_018
+    4300384: Eagle_2018:Secondary_Feathers03_08
+    4300386: Eagle_2018:Secondary_Feathers03_09
+    4300388: Eagle_2018:Secondary_Feathers03_010
+    4300390: Eagle_2018:Secondary_Feathers03_011
+    4300392: Eagle_2018:Secondary_Feathers03_012
+    4300394: Eagle_2018:Secondary_Feathers03_013
+    4300396: Eagle_2018:Secondary_Feathers03_014
+    4300398: Eagle_2018:Secondary_Feathers03_015
+    4300400: Eagle_2018:Secondary_Feathers03_016
+    4300402: Eagle_2018:Tertial_Feathers01_01
+    4300404: Eagle_2018:polySurface62
+    4300406: Eagle_2018:polySurface74
+    4300408: Eagle_2018:polySurface84
+    4300410: Eagle_2018:polySurface90
+    4300412: Eagle_2018:polySurface100
+    4300414: Eagle_2018:polySurface73
+    4300416: Eagle_2018:polySurface60
+    4300418: Eagle_2018:polySurface61
+    4300420: Eagle_2018:Tertial_Feathers01_02
+    4300422: Eagle_2018:polySurface67
+    4300424: Eagle_2018:Tertial_Feathers01_03
+    4300426: Eagle_2018:polySurface643
+    4300428: Eagle_2018:polySurface85
+    4300430: Eagle_2018:polySurface88
+    4300432: Eagle_2018:polySurface87
+    4300434: Eagle_2018:Tertial_Feathers01_04
+    4300436: Eagle_2018:polySurface644
+    4300438: Eagle_2018:polySurface639
+    4300440: Eagle_2018:Tertial_Feathers01_05
+    4300442: Eagle_2018:polySurface642
+    4300444: Eagle_2018:polySurface645
+    4300446: Eagle_2018:Tertial_Feathers01_06
+    4300448: Eagle_2018:Tertial_Feathers01_07
+    4300450: Eagle_2018:polySurface641
+    4300452: Eagle_2018:polySurface646
+    4300454: Eagle_2018:polySurface640
+    4300456: Eagle_2018:Tertial_Feathers02_01
+    4300458: Eagle_2018:polySurface76
+    4300460: Eagle_2018:polySurface77
+    4300462: Eagle_2018:Tertial_Feathers02_02
+    4300464: Eagle_2018:Tertial_Feathers02_03
+    4300466: Eagle_2018:Tertial_Feathers02_04
+    4300468: Eagle_2018:Tertial_Feathers02_05
+    4300470: Eagle_2018:Tertial_Feathers03_01
+    4300472: Eagle_2018:Tertial_Feathers03_02
+    4300474: Eagle_2018:Tertial_Feathers03_03
+    4300476: Eagle_2018:Tertial_Feathers03_04
+    4300478: Eagle_2018:Tertial_Feathers03_05
+    4300480: Eagle_2018:Primary_Feathers01_01
+    4300482: Eagle_2018:Primary_Feathers01_02
+    4300484: Eagle_2018:polySurface285
+    4300486: Eagle_2018:polySurface292
+    4300488: Eagle_2018:polySurface162
+    4300490: Eagle_2018:Primary_Feathers01_03
+    4300492: Eagle_2018:polySurface172
+    4300494: Eagle_2018:polySurface161
+    4300496: Eagle_2018:polySurface173
+    4300498: Eagle_2018:polySurface199
+    4300500: Eagle_2018:Primary_Feathers01_04
+    4300502: Eagle_2018:polySurface174
+    4300504: Eagle_2018:polySurface160
+    4300506: Eagle_2018:polySurface159
+    4300508: Eagle_2018:polySurface200
+    4300510: Eagle_2018:Primary_Feathers01_05
+    4300512: Eagle_2018:polySurface175
+    4300514: Eagle_2018:polySurface158
+    4300516: Eagle_2018:polySurface176
+    4300518: Eagle_2018:polySurface157
+    4300520: Eagle_2018:polySurface191
+    4300522: Eagle_2018:Primary_Feathers01_06
+    4300524: Eagle_2018:polySurface177
+    4300526: Eagle_2018:polySurface156
+    4300528: Eagle_2018:polySurface192
+    4300530: Eagle_2018:Primary_Feathers01_07
+    4300532: Eagle_2018:polySurface178
+    4300534: Eagle_2018:polySurface171
+    4300536: Eagle_2018:polySurface193
+    4300538: Eagle_2018:Primary_Feathers01_08
+    4300540: Eagle_2018:polySurface179
+    4300542: Eagle_2018:polySurface170
+    4300544: Eagle_2018:polySurface155
+    4300546: Eagle_2018:polySurface180
+    4300548: Eagle_2018:polySurface194
+    4300550: Eagle_2018:polySurface181
+    4300552: Eagle_2018:polySurface169
+    4300554: Eagle_2018:polySurface182
+    4300556: Eagle_2018:polySurface195
+    4300558: Eagle_2018:Primary_Feathers02_01
+    4300560: Eagle_2018:polySurface281
+    4300562: Eagle_2018:polySurface282
+    4300564: Eagle_2018:polySurface290
+    4300566: Eagle_2018:polySurface269
+    4300568: Eagle_2018:polySurface270
+    4300570: Eagle_2018:Primary_Feathers02_02
+    4300572: Eagle_2018:polySurface283
+    4300574: Eagle_2018:polySurface268
+    4300576: Eagle_2018:polySurface284
+    4300578: Eagle_2018:polySurface267
+    4300580: Eagle_2018:polySurface274
+    4300582: Eagle_2018:polySurface291
+    4300584: Eagle_2018:Primary_Feathers02_03
+    4300586: Eagle_2018:Primary_Feathers02_04
+    4300588: Eagle_2018:Primary_Feathers02_05
+    4300590: Eagle_2018:Primary_Feathers02_06
+    4300592: Eagle_2018:Primary_Feathers02_07
+    4300594: Eagle_2018:Primary_Feathers02_08
+    4300596: Eagle_2018:Primary_Feathers02_09
+    4300598: Eagle_2018:R_Primary03_010
+    4300600: Eagle_2018:Primary_Feathers03_01
+    4300602: Eagle_2018:Primary_Feathers03_02
+    4300604: Eagle_2018:Primary_Feathers03_03
+    4300606: Eagle_2018:Primary_Feathers03_04
+    4300608: Eagle_2018:Primary_Feathers03_05
+    4300610: Eagle_2018:Primary_Feathers03_06
+    4300612: Eagle_2018:Primary_Feathers03_07
+    4300614: Eagle_2018:R_Primary01_01
+    4300616: Eagle_2018:polySurface286
+    4300618: Eagle_2018:polySurface276
+    4300620: Eagle_2018:polySurface263
+    4300622: Eagle_2018:polySurface264
+    4300624: Eagle_2018:R_Primary01_02
+    4300626: Eagle_2018:R_Primary01_03
+    4300628: Eagle_2018:R_Primary01_04
+    4300630: Eagle_2018:R_Primary01_05
+    4300632: Eagle_2018:polySurface277
+    4300634: Eagle_2018:polySurface265
+    4300636: Eagle_2018:polySurface275
+    4300638: Eagle_2018:polySurface278
+    4300640: Eagle_2018:polySurface257
+    4300642: Eagle_2018:polySurface266
+    4300644: Eagle_2018:polySurface273
+    4300646: Eagle_2018:polySurface287
+    4300648: Eagle_2018:R_Primary02_01
+    4300650: Eagle_2018:R_Primary02_02
+    4300652: Eagle_2018:R_Primary02_03
+    4300654: Eagle_2018:R_Primary02_04
+    4300656: Eagle_2018:R_Primary02_05
+    4300658: Eagle_2018:R_Primary02_06
+    4300660: Eagle_2018:R_Primary02_07
+    4300662: Eagle_2018:R_Primary02_08
+    4300664: Eagle_2018:polySurface279
+    4300666: Eagle_2018:polySurface258
+    4300668: Eagle_2018:polySurface272
+    4300670: Eagle_2018:polySurface289
+    4300672: Eagle_2018:polySurface288
+    4300674: Eagle_2018:polySurface280
+    4300676: Eagle_2018:polySurface271
+    4300678: Eagle_2018:R_Primary03_01
+    4300680: Eagle_2018:R_Primary03_02
+    4300682: Eagle_2018:R_Primary03_03
+    4300684: Eagle_2018:R_Primary03_04
+    4300686: Eagle_2018:R_Primary03_05
+    4300688: Eagle_2018:R_Primary03_06
+    4300690: Eagle_2018:R_Primary03_07
+    4300692: Eagle_2018:R_Primary03_08
+    4300694: Eagle_2018:R_Primary03_09
+    4300696: Eagle_2018:Secondary_Feathers01_09
+    4300698: Eagle_2018:Secondary_Feathers01_010
+    4300700: Eagle_2018:polySurface183
+    4300702: Eagle_2018:polySurface196
+    4300704: Eagle_2018:polySurface168
+    4300706: Eagle_2018:Secondary_Feathers01_011
+    4300708: Eagle_2018:polySurface185
+    4300710: Eagle_2018:polySurface184
+    4300712: Eagle_2018:polySurface167
+    4300714: Eagle_2018:polySurface166
+    4300716: Eagle_2018:polySurface197
+    4300718: Eagle_2018:Secondary_Feathers01_012
+    4300720: Eagle_2018:polySurface186
+    4300722: Eagle_2018:polySurface165
+    4300724: Eagle_2018:polySurface144
+    4300726: Eagle_2018:polySurface164
+    4300728: Eagle_2018:polySurface187
+    4300730: Eagle_2018:polySurface198
+    4300732: Eagle_2018:Secondary_Feathers01_013
+    4300734: Eagle_2018:polySurface188
+    4300736: Eagle_2018:polySurface163
+    4300738: Eagle_2018:polySurface190
+    4300740: Eagle_2018:Secondary_Feathers01_014
+    4300742: Eagle_2018:polySurface78
+    4300744: Eagle_2018:polySurface71
+    4300746: Eagle_2018:polySurface79
+    4300748: Eagle_2018:polySurface63
+    4300750: Eagle_2018:polySurface64
+    4300752: Eagle_2018:polySurface69
+    4300754: Eagle_2018:polySurface97
+    4300756: Eagle_2018:Secondary_Feathers01_015
+    4300758: Eagle_2018:Secondary_Feathers01_016
+    4300760: Eagle_2018:polySurface80
+    4300762: Eagle_2018:polySurface81
+    4300764: Eagle_2018:polySurface75
+    4300766: Eagle_2018:polySurface70
+    4300768: Eagle_2018:polySurface94
+    4300770: Eagle_2018:polySurface98
+    4300772: Eagle_2018:Secondary_Feathers01_017
+    4300774: Eagle_2018:polySurface82
+    4300776: Eagle_2018:polySurface66
+    4300778: Eagle_2018:polySurface72
+    4300780: Eagle_2018:polySurface95
+    4300782: Eagle_2018:polySurface99
+    4300784: Eagle_2018:Secondary_Feathers01_018
+    4300786: Eagle_2018:polySurface96
+    4300788: Eagle_2018:polySurface86
+    4300790: Eagle_2018:polySurface83
+    4300792: Eagle_2018:polySurface89
+    4300794: Eagle_2018:polySurface68
+    4300796: Eagle_2018:Secondary_Feathers02_010
+    4300798: Eagle_2018:Secondary_Feathers02_011
+    4300800: Eagle_2018:Secondary_Feathers02_012
+    4300802: Eagle_2018:Secondary_Feathers02_013
+    4300804: Eagle_2018:Secondary_Feathers02_014
+    4300806: Eagle_2018:Secondary_Feathers02_015
+    4300808: Eagle_2018:Secondary_Feathers02_016
+    4300810: Eagle_2018:Secondary_Feathers02_017
+    4300812: Eagle_2018:Secondary_Feathers02_018
+    4300814: Eagle_2018:Secondary_Feathers03_08
+    4300816: Eagle_2018:Secondary_Feathers03_09
+    4300818: Eagle_2018:Secondary_Feathers03_010
+    4300820: Eagle_2018:Secondary_Feathers03_011
+    4300822: Eagle_2018:Secondary_Feathers03_012
+    4300824: Eagle_2018:Secondary_Feathers03_013
+    4300826: Eagle_2018:Secondary_Feathers03_014
+    4300828: Eagle_2018:Secondary_Feathers03_015
+    4300830: Eagle_2018:Secondary_Feathers03_016
+    4300832: Eagle_2018:Tertial_Feathers01_01
+    4300834: Eagle_2018:polySurface62
+    4300836: Eagle_2018:polySurface74
+    4300838: Eagle_2018:polySurface84
+    4300840: Eagle_2018:polySurface90
+    4300842: Eagle_2018:polySurface100
+    4300844: Eagle_2018:polySurface73
+    4300846: Eagle_2018:polySurface60
+    4300848: Eagle_2018:polySurface61
+    4300850: Eagle_2018:Tertial_Feathers01_02
+    4300852: Eagle_2018:polySurface67
+    4300854: Eagle_2018:Tertial_Feathers01_03
+    4300856: Eagle_2018:polySurface643
+    4300858: Eagle_2018:polySurface85
+    4300860: Eagle_2018:polySurface88
+    4300862: Eagle_2018:polySurface87
+    4300864: Eagle_2018:Tertial_Feathers01_04
+    4300866: Eagle_2018:polySurface644
+    4300868: Eagle_2018:polySurface639
+    4300870: Eagle_2018:Tertial_Feathers01_05
+    4300872: Eagle_2018:polySurface642
+    4300874: Eagle_2018:polySurface645
+    4300876: Eagle_2018:Tertial_Feathers01_06
+    4300878: Eagle_2018:Tertial_Feathers01_07
+    4300880: Eagle_2018:polySurface641
+    4300882: Eagle_2018:polySurface646
+    4300884: Eagle_2018:polySurface640
+    4300886: Eagle_2018:Tertial_Feathers02_01
+    4300888: Eagle_2018:polySurface76
+    4300890: Eagle_2018:polySurface77
+    4300892: Eagle_2018:Tertial_Feathers02_02
+    4300894: Eagle_2018:Tertial_Feathers02_03
+    4300896: Eagle_2018:Tertial_Feathers02_04
+    4300898: Eagle_2018:Tertial_Feathers02_05
+    4300900: Eagle_2018:Tertial_Feathers03_01
+    4300902: Eagle_2018:Tertial_Feathers03_02
+    4300904: Eagle_2018:Tertial_Feathers03_03
+    4300906: Eagle_2018:Tertial_Feathers03_04
+    4300908: Eagle_2018:Tertial_Feathers03_05
+    4300910: Eagle_2018:polySurface32
+    4300912: Eagle_2018:polySurface34
+    4300914: Eagle_2018:polySurface32
+    4300916: Eagle_2018:polySurface34
+    4300918: Eagle_2018:Body
+    4300920: Eagle_2018:Toung
+    4300922: pCone290
+    7400000: Eagle Animation
+    9500000: //RootNode
+    13700000: Eagle_2018:Body 1
+    13700002: Eagle_2018:L_Primary03_01
+    13700004: Eagle_2018:L_Primary03_010
+    13700006: Eagle_2018:L_Primary03_02
+    13700008: Eagle_2018:L_Primary03_03
+    13700010: Eagle_2018:L_Primary03_04
+    13700012: Eagle_2018:L_Primary03_05
+    13700014: Eagle_2018:L_Primary03_06
+    13700016: Eagle_2018:L_Primary03_07
+    13700018: Eagle_2018:L_Primary03_08
+    13700020: Eagle_2018:L_Primary03_09
+    13700022: Eagle_2018:polySurface32
+    13700024: Eagle_2018:polySurface32 1
+    13700026: Eagle_2018:polySurface34
+    13700028: Eagle_2018:polySurface34 1
+    13700030: Eagle_2018:Primary_Feathers03_01
+    13700032: Eagle_2018:Primary_Feathers03_01 1
+    13700034: Eagle_2018:Primary_Feathers03_02
+    13700036: Eagle_2018:Primary_Feathers03_02 1
+    13700038: Eagle_2018:Primary_Feathers03_03
+    13700040: Eagle_2018:Primary_Feathers03_03 1
+    13700042: Eagle_2018:Primary_Feathers03_04
+    13700044: Eagle_2018:Primary_Feathers03_04 1
+    13700046: Eagle_2018:Primary_Feathers03_05
+    13700048: Eagle_2018:Primary_Feathers03_05 1
+    13700050: Eagle_2018:Primary_Feathers03_06
+    13700052: Eagle_2018:Primary_Feathers03_06 1
+    13700054: Eagle_2018:Primary_Feathers03_07
+    13700056: Eagle_2018:Primary_Feathers03_07 1
+    13700058: Eagle_2018:R_Primary03_01
+    13700060: Eagle_2018:R_Primary03_010
+    13700062: Eagle_2018:R_Primary03_02
+    13700064: Eagle_2018:R_Primary03_03
+    13700066: Eagle_2018:R_Primary03_04
+    13700068: Eagle_2018:R_Primary03_05
+    13700070: Eagle_2018:R_Primary03_06
+    13700072: Eagle_2018:R_Primary03_07
+    13700074: Eagle_2018:R_Primary03_08
+    13700076: Eagle_2018:R_Primary03_09
+    13700078: Eagle_2018:Secondary_Feathers03_010
+    13700080: Eagle_2018:Secondary_Feathers03_010 1
+    13700082: Eagle_2018:Secondary_Feathers03_011
+    13700084: Eagle_2018:Secondary_Feathers03_011 1
+    13700086: Eagle_2018:Secondary_Feathers03_012
+    13700088: Eagle_2018:Secondary_Feathers03_012 1
+    13700090: Eagle_2018:Secondary_Feathers03_013
+    13700092: Eagle_2018:Secondary_Feathers03_013 1
+    13700094: Eagle_2018:Secondary_Feathers03_014
+    13700096: Eagle_2018:Secondary_Feathers03_014 1
+    13700098: Eagle_2018:Secondary_Feathers03_015
+    13700100: Eagle_2018:Secondary_Feathers03_015 1
+    13700102: Eagle_2018:Secondary_Feathers03_016
+    13700104: Eagle_2018:Secondary_Feathers03_016 1
+    13700106: Eagle_2018:Secondary_Feathers03_08
+    13700108: Eagle_2018:Secondary_Feathers03_08 1
+    13700110: Eagle_2018:Secondary_Feathers03_09
+    13700112: Eagle_2018:Secondary_Feathers03_09 1
+    13700114: Eagle_2018:Tertial_Feathers03_01
+    13700116: Eagle_2018:Tertial_Feathers03_01 1
+    13700118: Eagle_2018:Tertial_Feathers03_02
+    13700120: Eagle_2018:Tertial_Feathers03_02 1
+    13700122: Eagle_2018:Tertial_Feathers03_03
+    13700124: Eagle_2018:Tertial_Feathers03_03 1
+    13700126: Eagle_2018:Tertial_Feathers03_04
+    13700128: Eagle_2018:Tertial_Feathers03_04 1
+    13700130: Eagle_2018:Tertial_Feathers03_05
+    13700132: Eagle_2018:Tertial_Feathers03_05 1
+    13700134: Eagle_2018:Toung
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Eagle Animation
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1048
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
