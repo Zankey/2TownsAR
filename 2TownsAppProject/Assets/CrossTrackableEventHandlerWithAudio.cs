@@ -15,7 +15,7 @@ using Vuforia;
 /// Changes made to this file could be overwritten when upgrading the Vuforia version.
 /// When implementing custom event handler behavior, consider inheriting from this class instead.
 /// </summary>
-public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
+public class CrossTrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHandler
 {
 
     public AudioSource soundTarget;
@@ -106,7 +106,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
 
         playSound("sounds/29 S Cross");
-        //GetComponentInChildren<TwentyNineVirtBttnAnim>().IsAnimationOn = true;
+        GetComponentInChildren<TwentyNineVirtBttnAnim>().IsAnimationOn = true;
     }
 
 
@@ -129,7 +129,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
             component.enabled = false;
 
         soundTarget.Stop();
-        //GetComponentInChildren<TwentyNineVirtBttnAnim>().IsAnimationOn = false;
+        GetComponentInChildren<TwentyNineVirtBttnAnim>().IsAnimationOn = false;
     }
 
     //function to play sound
