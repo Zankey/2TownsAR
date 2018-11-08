@@ -143,7 +143,7 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
                 GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
             case AnimationType.Five:
-                GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonPressed();
+                GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
         }
     }

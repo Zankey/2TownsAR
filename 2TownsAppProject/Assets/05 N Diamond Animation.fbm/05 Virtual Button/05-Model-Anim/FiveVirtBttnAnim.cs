@@ -40,8 +40,6 @@ public class FiveVirtBttnAnim : Augmentation
       IsAnimationOn = false;
 
       m_EvtOnEnter.Invoke();
-
-      soundTarget = (AudioSource)gameObject.AddComponent<AudioSource>();
    }
 
    public void ShowDetail()
