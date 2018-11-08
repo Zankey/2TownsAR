@@ -10,7 +10,7 @@ using UnityEngine;
 using Vuforia;
 
 public enum AnimationType {
-    TwentyNine, TwentyThree
+    TwentyNine, Five
 }
 
 /// <summary>
@@ -111,9 +111,10 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
             case AnimationType.TwentyNine:
                 GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
-            case AnimationType.TwentyThree:
-
+            case AnimationType.Five:
+                GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
+            
         }
     }
 
@@ -141,7 +142,8 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
             case AnimationType.TwentyNine:
                 GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
-            case AnimationType.TwentyThree:
+            case AnimationType.Five:
+                GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
         }
     }
