@@ -7,6 +7,7 @@ public class UIController : MonoBehaviour {
 
     public Slider slider;
     public Text progressText;
+    public GameObject HamburgerMenu;
     public int totalObjects = 5;
     private int objectsFound = 0;
     private bool CrossFound = false;
@@ -16,6 +17,7 @@ public class UIController : MonoBehaviour {
 
     private void Start() {
         slider.value = 0;
+        HamburgerMenu.SetActive(false);
     }
 
     // Update is called once per frame
@@ -25,8 +27,8 @@ public class UIController : MonoBehaviour {
         progressText.text = objectsFound + "/" + totalObjects;
 	}
 
-    public void HamburgerMenu() {
-        objectsFound++;
+    public void ToggleHamburgerMenu() {
+        HamburgerMenu.SetActive(!HamburgerMenu.activeSelf);
     }
 
     private int calculateObjectsFound() {
