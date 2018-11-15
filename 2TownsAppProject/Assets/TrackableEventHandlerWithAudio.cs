@@ -10,7 +10,7 @@ using UnityEngine;
 using Vuforia;
 
 public enum AnimationType {
-    TwentyNine, Five
+    TwentyNine, Five, Mountain, City
 }
 
 /// <summary>
@@ -114,8 +114,15 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
             case AnimationType.Five:
                 GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
+            case AnimationType.Mountain:
+                GetComponent<AudioSource>().Play();
+                break;
+            case AnimationType.City:
+                GetComponent<AudioSource>().Play();
+                break;
             
         }
+        FindObjectOfType<UIController>().FoundObject(animationType);
     }
 
 
@@ -144,6 +151,12 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
                 break;
             case AnimationType.Five:
                 GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonReleased();
+                break;
+            case AnimationType.Mountain:
+                GetComponent<AudioSource>().Stop();
+                break;
+            case AnimationType.City:
+                GetComponent<AudioSource>().Stop();
                 break;
         }
     }
