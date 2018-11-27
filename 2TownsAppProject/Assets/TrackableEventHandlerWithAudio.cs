@@ -9,8 +9,8 @@ Confidential and Proprietary - Protected under copyright and other laws.
 using UnityEngine;
 using Vuforia;
 
-public enum AnimationType {
-    TwentyNine, Five, Mountain, City
+public enum ARObjectType {
+    Diamond, Cross, Mountain, City
 }
 
 /// <summary>
@@ -23,7 +23,7 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
 {
     [HideInInspector]
     public AudioClip clipTarget;
-    public AnimationType animationType;
+    public ARObjectType animationType;
 
     #region PROTECTED_MEMBER_VARIABLES
 
@@ -108,16 +108,16 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
             component.enabled = true;
 
         switch (animationType) {
-            case AnimationType.TwentyNine:
+            case ARObjectType.Diamond:
                 GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
-            case AnimationType.Five:
+            case ARObjectType.Cross:
                 GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
-            case AnimationType.Mountain:
+            case ARObjectType.Mountain:
                 GetComponent<AudioSource>().Play();
                 break;
-            case AnimationType.City:
+            case ARObjectType.City:
                 GetComponent<AudioSource>().Play();
                 break;
             
@@ -146,19 +146,20 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
 
         switch (animationType)
         {
-            case AnimationType.TwentyNine:
+            case ARObjectType.Diamond:
                 GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
-            case AnimationType.Five:
+            case ARObjectType.Cross:
                 GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
-            case AnimationType.Mountain:
+            case ARObjectType.Mountain:
                 GetComponent<AudioSource>().Stop();
                 break;
-            case AnimationType.City:
+            case ARObjectType.City:
                 GetComponent<AudioSource>().Stop();
                 break;
         }
+        FindObjectOfType<UIController>().NotTrackingObject(animationType);
     }
 
     #endregion // PROTECTED_METHODS
