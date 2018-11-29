@@ -109,15 +109,17 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
 
         switch (animationType) {
             case ARObjectType.Diamond:
-                GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonPressed();
-                break;
-            case ARObjectType.Cross:
                 GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
+            case ARObjectType.Cross:
+                GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonPressed();
+                break;
             case ARObjectType.Mountain:
+                GetComponent<AudioSource>().loop = true;
                 GetComponent<AudioSource>().Play();
                 break;
             case ARObjectType.City:
+                GetComponent<AudioSource>().loop = true;
                 GetComponent<AudioSource>().Play();
                 break;
             
@@ -147,10 +149,10 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
         switch (animationType)
         {
             case ARObjectType.Diamond:
-                GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonReleased();
+                GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
             case ARObjectType.Cross:
-                GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonReleased();
+                GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
             case ARObjectType.Mountain:
                 GetComponent<AudioSource>().Stop();

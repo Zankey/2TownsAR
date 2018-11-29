@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class FiveVirtBttnAnim : Augmentation
 {
    public AudioSource soundTarget;
-   public AudioClip clipTarget;
+   private AudioClip clipTarget;
    private AudioSource[] allAudioSources;
 
    //function to stop all sounds
@@ -23,7 +23,7 @@ public class FiveVirtBttnAnim : Augmentation
    {
       clipTarget = (AudioClip)Resources.Load(ss);
       soundTarget.clip = clipTarget;
-      soundTarget.loop = false;
+      soundTarget.loop = true;
       soundTarget.playOnAwake = false;
       soundTarget.Play();
    }
