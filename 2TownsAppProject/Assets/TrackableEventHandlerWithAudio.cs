@@ -10,7 +10,7 @@ using UnityEngine;
 using Vuforia;
 
 public enum ARObjectType {
-    Diamond, Cross, Mountain, City
+    Cross, Diamond, Mountain, City
 }
 
 /// <summary>
@@ -108,10 +108,10 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
             component.enabled = true;
 
         switch (animationType) {
-            case ARObjectType.Diamond:
+            case ARObjectType.Cross:
                 GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
-            case ARObjectType.Cross:
+            case ARObjectType.Diamond:
                 GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonPressed();
                 break;
             case ARObjectType.Mountain:
@@ -148,10 +148,10 @@ public class TrackableEventHandlerWithAudio : MonoBehaviour, ITrackableEventHand
 
         switch (animationType)
         {
-            case ARObjectType.Diamond:
+            case ARObjectType.Cross:
                 GetComponentInChildren<FiveVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
-            case ARObjectType.Cross:
+            case ARObjectType.Diamond:
                 GetComponentInChildren<TwentyNineVirtBttnAnim>().HandleVirtualButtonReleased();
                 break;
             case ARObjectType.Mountain:

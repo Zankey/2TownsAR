@@ -44,15 +44,15 @@ public class UIController : MonoBehaviour {
 
     public void FoundObject(ARObjectType objectType, AboutViewState aboutViewState = AboutViewState.Peeking) {
         switch (objectType) {
-            case ARObjectType.Diamond:
-                DiamondFound = true;
-                aboutViewController.SetTitleText("(Insert Diamond Title Here)");
-                aboutViewController.SetBodyText("(Replace this text with diamond body text.)");
-                break;
             case ARObjectType.Cross:
                 CrossFound = true;
                 aboutViewController.SetTitleText("(Insert Cross Title Here)");
                 aboutViewController.SetBodyText("(Replace this text with cross body text.)");
+                break;
+            case ARObjectType.Diamond:
+                DiamondFound = true;
+                aboutViewController.SetTitleText("(Insert Diamond Title Here)");
+                aboutViewController.SetBodyText("(Replace this text with diamond body text.)");
                 break;
             case ARObjectType.Mountain:
                 MountainFound = true;

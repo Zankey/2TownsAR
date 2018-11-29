@@ -38,14 +38,14 @@ public class ProgressViewController : MonoBehaviour {
 
     public void FoundObject(ARObjectType objectType) {
         switch (objectType) {
-            case ARObjectType.Cross:
-                badgeImages[0].sprite = badgeSprites[0];
+            case ARObjectType.Diamond:
+                badgeImages[2].sprite = badgeSprites[2];
                 break;
             case ARObjectType.Mountain:
                 badgeImages[1].sprite = badgeSprites[1];
                 break;
-            case ARObjectType.Diamond:
-                badgeImages[2].sprite = badgeSprites[2];
+            case ARObjectType.Cross:
+                badgeImages[0].sprite = badgeSprites[0];
                 break;
             case ARObjectType.City:
                 badgeImages[3].sprite = badgeSprites[3];
